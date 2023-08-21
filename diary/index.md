@@ -11860,3 +11860,51 @@ I'm stuck working out what would make today awesome?
 ## 25/07/23 07:10, Something inside me isn't firing correctly.  +EQT 
 
 ## 27/07/23 06:15 to 07:35, Emails +EQT
+## 31/07/23 08:02 to 08:56, Delores Development +EQT
+* Not even the bit I intended to do. I was thinking about ifs!  
+* Let's start gently and put in some green. 
+
+## 31/07/23 08:56 to 09:50, Starting to work my way through the system. +EQT 
+## 31/07/23 09:51 to 10:28, New Section  - goint to 1230 +EQT
+* Did various stack and social things 
+
+
+## 31/07/23 10:28 to 11:06, (A) Draft the report for Garfield Weston: https://github.com/eQualityTime/Home/issues/130 +EQT
+## 31/07/23 11:07 to 12:29,  Talking to charity person +EQT
+## 31/07/23 12:29 to 12:43, Back to list +EQT
+## 31/07/23 12:43 to 12:47, Backup AWS +EQT
+## 31/07/23 12:47 to 12:50,  (B) Delete the toomanycooks file on dreamhost +EQT
+## 31/07/23 12:50 to 13:07, (B) Set goals for the summer. +EQT
+## 31/07/23 13:07 to 14:08, (C) Move the speechful site +EQT
+## 31/07/23 14:33 to 14:58, +EQT Moving sites
+
+## 01/08/23 07:40 to 07:58, Emails +EQT
+## 02/08/23 06:59 to 07:58, Emails +EQT
+
+## 02/08/23 10:20 to 10:35, Fixing some ubuntu bugs:  +EQTJ
+* Fixed Wifi 
+* No progress on Bluetooth 
+* NO progress on sound  
+
+* Feel done. Tired even. 
+
+## 02/08/23 13:45 to 14:47, Let's do this the old fashioned way. +EQT 
+Email me up. 
+
+
+## 02/08/23 14:47 to 15:20, Emails all done, Let's Dropbox.  +EQT
+## 02/08/23 15:20 to 15:33, Git +EQT 
+
+## 03/08/23 06:28 to 07:00, IFs are now working (I think) in Delores +EQT
+## 03/08/23 07:00 to 07:04, Do delores properly  +EQT 
+## 03/08/23 07:04 to 07:59, Cranking thorugh 
+## 03/08/23 09:46 to 10:22, Sorting out the joereddington.com +EQT (jumping) 
+* I've registered with Cloudflare, on the FREE plan, (with joe.reddington@gmail.com and a password in firefox.  which appears to include website forwarding and email forwarding?
+
+## 03/08/23 10:22 to 10:33,  Back to delores - Process inbox  +EQT
+## 03/08/23 10:33 to 11:07, New sprint +EQT 
+## 03/08/23 11:07, Finally todos +EQT
+## 03/08/23 11:07 to 11:27, (C) 20 Minutes moving over meeting minutes for EQT +EQT
+Done! In exactly 20 minutes
+## 03/08/23 11:27 to 11:29, Littlefinger can wait - it's only been two weeks +EQT
+## 03/08/23 11:29 to 12:32, Record a video working on IMPS3. +EQT
