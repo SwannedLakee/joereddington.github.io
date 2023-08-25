@@ -11908,3 +11908,38 @@ Email me up.
 Done! In exactly 20 minutes
 ## 03/08/23 11:27 to 11:29, Littlefinger can wait - it's only been two weeks +EQT
 ## 03/08/23 11:29 to 12:32, Record a video working on IMPS3. +EQT
+SUMMER HOLIDAYS
+
+## 19/08/23 22:33 to 23:59, working on ebook 
+I've started a new book project - a short ebook on memorising physics constants. I'm going to track it's time as well as it's output.  
+
+The idea is that it is part of the funnel to the other books. 
+
+Between midjouney, some python code, and a reasonable amount of chatgpt, a lot of the content will be quick to build. 
+
+During this sprint I made a more advanced version of my major encoder php script in python - it's now much better at finding multiple words (but there are a lot of results that are crap) 
+
+## 20/08/23 09:10 to 10:15, ebook 
+I've created a sample text file with a couple of different images that I want to view on a kindle. 
+I am installing the tex4ebook scirpt
+
+I've also started thinking about the major encoder and how it should follow a structure - something like 'noun verb noun' or 'adjective verb noun' 
+
+
+## 20/08/23 12:14 to 12:41,  ebook
+Testing how midjourney images appear on Kindle. There was an issue that I wrote up for a blog post but when it worked it confirmed that black and while would definately be best but that full size images are possible. 
+
+## 20/08/23 17:55 to 18:05, Okay things we can do ebook
+* Write up the blog post 
+* Write up a proper issue 
+* Improve the major system generator. 
+* Start drafting an introduction. 
+* Work out the speed of light with an exponent. 
+
+I had a brilliant idea - I can change the output - it should be "Here's the nouns for the first 5 numbers and the verbs that follow. Then there's the nouns for the first 4 numbers and the verbs that follow. And so on. That's at most ten lists and ten follow up lists - this is still at lot but it is much much much better than every combination of word.  Add in adverbs and ajactivits then we have a winner (also adding numbers at the start.  
+
+## 20/08/23 19:49 to 20:47, ebook 
+I've made improvements to the searching function so that now it works by sentence construction. 
+
+
+## 20/08/23 20:47 to 21:30 , ebook general working around and looking at stuff. 
