@@ -11943,3 +11943,151 @@ I've made improvements to the searching function so that now it works by sentenc
 
 
 ## 20/08/23 20:47 to 21:30 , ebook general working around and looking at stuff. 
+
+
+## 21/08/23 08:35 to 09:05,  Delores +EQT 
+WORK UNTIL ALARM 
+Exercise when? Run later? Just excited about spider man? 
+* I'm excited about doing some drafting for my ebook later 
+
+## 21/08/23 09:05 to 10:45, Starting to sprint +EQT
+* File processed and blog post written 
+* Clearing Stack 
+  * Which included banking reconcilation, setting up payments and emailing sarah. 
+  * Chasing invoices 
+* Gratitude now then. 
+  * When was the last one? 
+  * Should be instagram first
+  * Let's have a look at facebook 
+
+## 21/08/23 10:45 to 10:50, We have reached 'Pick the todo' +EQT
+## 21/08/23 10:50 to 11:35, (A) Send the Garfield Weston Report https://github.com/eQualityTime/Home/issues/130 +EQT
+I moved the report forward a bit of a distance. 
+
+The next action is to put it through simplewriter, but I want a break 
+
+## 21/08/23 11:36 to 12:02, I've been looking at funding - it's NOT looking amazing.  +EQT
+
+## 21/08/23 12:05 to 12:21, Had a break I didn't intend to
+## 21/08/23 12:21 to 12:27, +EQT fixed the password on IMPS
+## 21/08/23 12:27 to 12:35, +EQT vim fix
+## 21/08/23 12:35 to 12:45, +EQT tidying todos 
+* Downloading chrome for future things 
+## 21/08/23 12:45 to 13:18, +EQT reading latex book. 
+
+## 21/08/23 13:57, Latex book again 
+
+## 21/08/23 15:10 to 16:35, yvonne call +EQT 
+## 21/08/23 19:07 to 20:34, ebook 
+Okay, the table printing is working much better. Now to actual work I think. 
+
+After a bit of focused checking I've got five that really work and probably eight that I tried and didn't quite get anywhere with. 
+
+
+## 22/08/23 07:30 to 08:00, Some quick email +EQT
+## 22/08/23 18:38 to 19:42, ebook 
+## 23/08/23 06:18 to 06:39,  Waking up really +EQT
+* Let's do the checking of the files
+
+## 25/08/23 10:32 to 10:48, Well today has been terrible so far. Let's drag outself out of it.  +EQT
+* I've installed the ram. Let's do the thing. 
+
+## 25/08/23 10:48, Starting the list.
+## 25/08/23 10:48 to 14:04, The list is email +EQT
+* Read a bunch of KCSIE changes. 
+* ALright, seven social media posts. 
+  * No, this isn't the way. 
+  * I did the one 
+* What the hell is wrong with teh library? 
+* Oh fuck - what's wrong with the website? 
+  * Oracle is working
+  * Watchtower isn't
+  * Neither is the main site
+  * FOund it - and it was from ages ago. :( 
+
+## 25/08/23 14:04 to 16:27, I was losing it a little bit so I've switchedo of the internet.  +EQT
+And also did a bunch of emials and stuff. It was actuallyu quite a reasonable day
+
+## 28/08/23 11:00 to 12:00, +EQT (some guessing) fixing the desktop computer
+## 28/08/23 13:20 to 13:58, +EQT upgrading the ssh files 
+## 28/08/23 13:59, Going to go over the todos properly and also do some good brainstorming. 
+* Setup brainstorm bin 
+* messaged a bunch of people about work stuff. 
+
+
+## 29/08/23 07:38 to 07:54, Hello +EQT
+Some quick messages and setups
+
+## 29/08/23 09:42 to 10:50, Delores +EQT
+* Food plan is looking like big salad and later tofu and veg 
+* Kids can have new potatoes and stuff 
+* When is today's exercise? After call but before going to get Nova 
+* Social media time? After I've prepared a blog post. 
+* Process paper
+
+## 29/08/23 10:50 to 11:07, Faffy annoying ebay guy 
+## 29/08/23 11:07, New sprint on delores  +EQT
+WORK UNTIL ALARM 
+* Clear stack
+* Clear downloads folder 
+* I feel like I reach the actual todo really exhausted.
+
+Today, let's keep the option of standing desk open. 
+
+## 29/08/23 11:28 to 12:04, (C) Do all the server and so on expenses for the finantial year  +EQT
+* Done 
+
+## 29/08/23 12:07 to 12:39, (C) Search Tech4good in funding +EQT
+
+This is good: https://www.myfundingcentral.co.uk/Scheme/View/The-Prospectory-Idea-Fund-GRUKBP3!S46249?search=bda9fab7b26d4908b2be3bda824118a6&cdp=2&cip=10&bcr=MTI0MQ
+THis is good as well https://www.myfundingcentral.co.uk/Scheme/View/The-Access-Foundation-GRUKBP3!S49571?search=bda9fab7b26d4908b2be3bda824118a6&cdp=3&cip=10&bcr=MTI0Mg
+* Brainstorm energy efficiency grants
+  * Public buildings have energy efficiency ceritifcates that are public. 
+
+## 29/08/23 13:00 to 14:52, Working on the energyy efficiecny thing +EQT
+Okay so I've learned a lot. I have questions: 
+Why is https://epc.opendatacommunities.org/ NOT giving me an answer in direct electricity? 
+Why aren't the big ten the ones I expect (like the fucking airport for a start) 
+How do these big users compare to domestic use?  
+
+
+## 29/08/23 14:52 to 15:10, Okay - let's see what I was going  +EQT (D Trustees) 10 Make a list of 20 ways to promote eQuality Time +EQT
+## 29/08/23 15:30 to 16:10, +EQT estimated time for phone call with Chair
+
+## 30/08/23 07:05 to 07:51, +EQT 
+## 30/08/23 16:09 to 18:04,  +EQT Email/ 
+## 31/08/23 10:03 to 11:02,  Delores +EQT
+## 31/08/23 11:02 to 12:17,  +EQT
+What would make my day awesome. 
+Time to process this file. 
+
+## 31/08/23 12:17 to 12:45, Talking to LCK +EQT
+## 31/08/23 13:11 to 13:40, Feedback call  +EQT 
+How I ten minute call takes this long is incredible 
+
+Mercers Fund Feedback 
+
+* Liked the tech 
+* PRUs, ex-offenders, LAC - all good 
+* A lot of young people for the money you were after 
+
+Queries 
+* Lenght of intevention - they like longer interventions (would have liked work done with the teachers) 
+* You did a good job of saying why these good people - but you didn't mention 'how this worked' you JUST  say "This is excellent for these people because it's great for everytbody 
+
+
+
+## 31/08/23 18:10 to 18:26, Working on ebook 
+## 31/08/23 18:26 to 20:47, Working on the ebook. 
+* I've fixed the hline issue 
+* I've rewritten the linkbox macro 
+* I've renamed dlink to natlink (natural link) 
+* I've added some text to the boltman  
+* split the second chapter into two 
+Currently working out the latex issue
+
+It's currently 512 locations which I think is 28 pages. Got a way to go, but we'll get there. 
+
+
+When you come back to this good things to do include: 
+* Getting the bibography working 
