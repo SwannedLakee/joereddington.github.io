@@ -12091,3 +12091,18 @@ It's currently 512 locations which I think is 28 pages. Got a way to go, but we'
 
 When you come back to this good things to do include: 
 * Getting the bibography working 
+## 01/09/23 10:40 to 11:01, Got cookies working in Delores +EQT
+## 01/09/23 11:01 to 11:43, Delores now +EQT 
+## 01/09/23 11:43 to 12:36, Processing inbox and stack  +EQT
+## 01/09/23 12:37 to 12:43, Reviewing funding +EQT
+## 01/09/23 12:43 to 13:03, Writing to Chair +EQT
+## 01/09/23 13:04 to 13:13, Rewriting a Delores sequence +EQT
+## 01/09/23 13:59 to 15:09, I've broken down the todo list and I'm now fixing a long term git problem  +EQT 
+Some interesting git commands
+
+* git branch --merged returns those branches that are completely merged with the current branch 
+* git-big-picture creates a png of the branches. You'll want to use it as git-big-picture -a -o hope.png
+## 01/09/23 15:09 to 15:40, Did the google Ads +EQT
+## 01/09/23 18:47, Ebook +EQT 
+
+## 04/09/23 06:42, Delores 
