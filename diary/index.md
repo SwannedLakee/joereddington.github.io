@@ -12106,3 +12106,39 @@ Some interesting git commands
 ## 01/09/23 18:47, Ebook +EQT 
 
 ## 04/09/23 06:42, Delores 
+## 06/09/23 05:58 to 06:15, Delores
+## 06/09/23 09:38 to 09:59, Fixing a WWW bug, then building a deks   +EQT
+## 06/09/23 09:59 to 10:27, Delores +EQT 
+## 06/09/23 10:27 to 11:06, Delores +EQT
+## 06/09/23 11:06 to 11:43, Clearing this file.  +EQT (it's a big stack 
+## 06/09/23 11:46 to 13:32, Emails 
+Particularly confirmation statment. 
+
+## 06/09/23 13:33, I'm thinking lunch. 
+## 06/09/23 14:26 to 14:43, Hello again.  +EQT
+Back to email I suspect 
+* Don't really want to do any of that email. 
+
+## 06/09/23 14:43 to 14:48, Resistance +EQT 
+What's the thing? 
+* Clear email 
+  * Clear personal email 
+    * Write and publish seven social media posts 
+Writign the next action really broke the resistance here. 
+
+## 06/09/23 14:48 to 15:52, Working on email +EQT 
+Big breath out. 
+
+
+## 06/09/23 15:53 to 16:11, Have I got time for a quick blog +EQT
+* NA: finish writing gratitdue
+
+## 06/09/23 18:51, I'm going to get water, my camera, and some snack. 
+
+
+## 06/09/23 22:20 to 22:45, ebook
+* Really good use of chatGPT for the descriptions - it's better than me. 
+* Got at least one good descritpion. 
+* Everything will have to be rewritten, but it's also nice getting words down on paper. 
+* Got to improve the code next - this could be a whole series with a bit of help. 
+
