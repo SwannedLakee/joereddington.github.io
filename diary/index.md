@@ -12142,3 +12142,34 @@ Big breath out.
 * Everything will have to be rewritten, but it's also nice getting words down on paper. 
 * Got to improve the code next - this could be a whole series with a bit of help. 
 
+## 07/09/23 09:39, ebook code 
+## 07/09/23 10:09, Okay, shower
+## 07/09/23 10:41 to 11:13,  Delores +EQT 
+## 07/09/23 11:13 to 11:26, Shorting this file +EQT 
+## 07/09/23 11:26 to 14:50, Reading textbook +EQT (actually this went on until 9am but with quite a few long interruptions. 
+## 08/09/23 09:29 to 11:19, Let's do the list  
+* Did the cover art 
+* Emailed Adrian 
+* Emailed the school lady 
+* Working on the WWW library 
+  * ChatGPD makes this crazy easy 
+* Sorted the library with a bit of checking 
+* Did a facebook post about finding a project partner for Digital Local heros 
+
+## 08/09/23 11:19 to 11:21,  Dropbox transfer  +EQT
+There's 30gb in New Order alone, Must be mostly photos 
+* I've got it started, but that's all. Time to move on. 
+
+## 08/09/23 11:21 to 12:00,  +EQT
+## 08/09/23 12:00 to 12:18, +EQT fixing blog post
+## 08/09/23 12:18 to 12:48, Dropbox and fixing todo chart +EQT
+## 08/09/23 12:48 to 13:17, Properly Map the alternative school ranking. 
+* Also reading a lot of ofstead reports
+
+## 08/09/23 14:43 to 14:56, Last sprint - Let's work the numbers +EQT
+## 08/09/23 14:56 to 15:00, What's with the US universities?  +EQT
+## 08/09/23 15:00 to 15:15,  Ten uses of chainmail again  +EQT
+
+## 08/09/23 16:10 to 16:23, Ebook 
+Okay, right now you are doing tests
+
