@@ -12106,12 +12106,12 @@ Some interesting git commands
 ## 01/09/23 18:47, Ebook +EQT 
 
 ## 04/09/23 06:42, Delores 
-## 06/09/23 05:58 to 06:15, Delores
+## 06/09/23 05:58 to 06:15, Delores +EQT
 ## 06/09/23 09:38 to 09:59, Fixing a WWW bug, then building a deks   +EQT
 ## 06/09/23 09:59 to 10:27, Delores +EQT 
 ## 06/09/23 10:27 to 11:06, Delores +EQT
 ## 06/09/23 11:06 to 11:43, Clearing this file.  +EQT (it's a big stack 
-## 06/09/23 11:46 to 13:32, Emails 
+## 06/09/23 11:46 to 13:32, Emails  +EQT
 Particularly confirmation statment. 
 
 ## 06/09/23 13:33, I'm thinking lunch. 
@@ -12147,7 +12147,7 @@ Big breath out.
 ## 07/09/23 10:41 to 11:13,  Delores +EQT 
 ## 07/09/23 11:13 to 11:26, Shorting this file +EQT 
 ## 07/09/23 11:26 to 14:50, Reading textbook +EQT (actually this went on until 9am but with quite a few long interruptions. 
-## 08/09/23 09:29 to 11:19, Let's do the list  
+## 08/09/23 09:29 to 11:19, Let's do the list   +EQT
 * Did the cover art 
 * Emailed Adrian 
 * Emailed the school lady 
