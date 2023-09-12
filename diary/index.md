@@ -12173,3 +12173,78 @@ There's 30gb in New Order alone, Must be mostly photos
 ## 08/09/23 16:10 to 16:23, Ebook 
 Okay, right now you are doing tests
 
+# Today 
+Very speedy delores 
+No internet from now unless I really really need it   
+
+## 11/09/23 06:25 to 06:59, On the clock today: Delores +EQT 
+* Skipping process the inbox because upstairs
+* Not having the internet (and thus NOT getting bogged down in the easy internet stuff) meant that Delores was a lot faster
+
+## 11/09/23 06:59 to 07:14, +EQT
+Started another dropbox transfer 
+Finally found ten things for chainmail 
+
+## 11/09/23 07:14 to 07:27, Chainmail for Glasgow (we should probably do *after* the last one is done)  +EQT
+Tasks 
+  * Rewrite the document 
+  * Setup the Google Doc 
+  * Find a way to combine cm2 with the old file 
+    * Either start with the old one or the new one. 
+
+## 11/09/23 07:27 to 07:33,  Okay, got to get started with the OVF code for the day +EQT 
+* I've got that setup. 
+
+## 11/09/23 07:33 to 07:58, For the last 30 minutes I'm going to break down the existing tasks +EQT 
+
+## 11/09/23 09:22 to 10:36,  Back for OVF   +EQT 
+I worked on OVF for an hour. 
+* There are now working tests for the unreachable links feature, but I want more checking 
+  * I want a powerpoint deck with loops or a slide that is unreachable from the start 
+  * Which is difficult on ubuntu because libre office doesn't play nicely 
+  * NA is really to check if I can use Google Docs to do the editing. 
+  * See how quick it is. 
+  * Check to see how the feedback is output 
+  * Look to see if the return_grid_by_title is useful anywhere else
+* Put the latest version online 
+
+    * ctags -R --languages=python,php,javascript .
+This stackoverflow question gives some information about PowerPoint and LibreOffice. [O[Ihttps://superuser.com/questions/1619694/libreoffice-supporting-links-between-slides-in-a-powerpoint-presentation
+ 
+## 11/09/23 10:36 to 10:59, Rolling over the annual leave  +EQT 
+## 11/09/23 10:59 to 11:19, Some small internet tasks  +EQT
+* Really need to wait for it to update 
+## 11/09/23 11:19 to 11:35, two emails need sending +EQT
+
+## 11/09/23 11:35 to 12:08,  Publishing book (and doing cover)  +EQT
+![Interesting that Amazon is asking about this](/assets/images/amazonai.png)
+Also doing the ebook because I'm a bit more excited about ebooks right now
+
+## 11/09/23 12:08 to 13:15,  Accounts thing  +EQT
+* I've created the new files and copied across the templates
+* This year I'm going to have the files exported from Quickbooks as separate files in Drive 
+* I've been working on the Statement of financial activities. 
+
+Okay, so nothing in the accounts document itself is about the preparation of the accounts 
+
+NA: update which sheet the y statement is using 
+* Then get the balance sheet
+* Then the small sheets 
+## 11/09/23 13:15 to 14:10, Getting the internet working +EQT
+(Ate while I did it) 
+
+## 11/09/23 14:23 to 14:28, Checking the Annual leave thing  +EQT
+## 11/09/23 14:28 to 14:41, WOrk reading  +EQT
+
+
+## 11/09/23 14:41 to 15:10, Working on writing reports  +EQT
+
+## 11/09/23 15:11 to 15:12,  Buisness facebook 
+## 11/09/23 15:12 to 16:01, Big thinging and some email +EQT
+Tomorrow's todos are all very online. 
+
+* Better contact U3A luton and Age Concern Bedfordshire 
+* Oh hey, is there something I can do at RHUL? 
+  * Hmmmnternet 
+## 11/09/23 16:01 to 16:10, Last bits in tthey stack +EQT
+
