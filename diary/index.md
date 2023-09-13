@@ -12332,6 +12332,7 @@ ffmpeg -i input.mp4 -filter:v "setpts=0.5*PTS" output.mp4 should help with speed
 ## 12/09/23 13:42 to 14:46,  Doing Google Ads +EQT
 Ugggh. That's done at least 
 ## 12/09/23 14:46 to 16:26, OVF really +EQT
+(I think I also took a banking call during this
 I've fixed some bugs and done some significant changes, but also dealt with annoying config things 
 * We currently have tests that don't work on staging. We suspect a difference in python versions. Our options are:
    * Upgrade the python on server   
