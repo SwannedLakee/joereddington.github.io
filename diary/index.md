@@ -12248,3 +12248,98 @@ Tomorrow's todos are all very online.
   * Hmmmnternet 
 ## 11/09/23 16:01 to 16:10, Last bits in tthey stack +EQT
 
+# Today 
+* Today I'm grinding out eight hours. 
+* And I'm also going to enter ketosis. 
+* But lots of water, that would be better than yesterday. 
+* And NO phone - I'd rather be reading something on the tablet. 
+* I'd really like good social media practice today 
+
+## 12/09/23 06:06 to 06:22, Delores and starting up +EQT
+## 12/09/23 06:22 to 06:53, Look at delores properly? And see if I can do something super speedy?  +EQT
+* Reached 'clear stack' 
+* Delores done by 06:53
+
+## 12/09/23 06:53 to 07:52, Pick a Todo +EQT 
+Sent two emails to older people organisations 
+
+## 12/09/23 07:52 to 08:00,  +EQT 
+* Fixed a vim issue 
+
+## 12/09/23 09:45, Hello +EQT 
+## 12/09/23 09:45 to 09:50, Quick fix of the www  +EQT
+
+## 12/09/23 09:50 to 10:03,  +EQT
+I have 20 minutes spare for the day. Let's do this. 
+* Reprioritising and putting times on.
+
+## 12/09/23 10:03 to 10:14, Uploading video +EQT
+The entry was  12/09/23 10:03 to 10:14, Uploading video +EQT
+UTF-8
+
+
+12/09/23 10:09, ffmpeg -i ovf.ogv -c:v copy -an ovf.mp4
+12/09/23 10:09, ffmpeg -i ovf.ogv -c:v copy -an ovf.mp4
+12/09/23 10:11, ffmpeg -i ovf.ogv -c:v copy -an ovf.mkv
+12/09/23 10:11, ffmpeg -i ovf.mkv -c:v copy -an ovf.mp4
+* Go to studio.youtube.com
+* Let's find the commands
+* Delete all the other ocg files
+
+ffmpeg -i input.ogv -c:v copy -an output.ogv
+
+Except that I actually had to save it as an mkv file 
+
+ffmpeg -i input.mp4 -filter:v "setpts=0.5*PTS" output.mp4 should help with speeding things up for wikiepedia 
+
+## 12/09/23 10:14 to 11:24, Accounts +EQT
+* Statement of finantial activies now aggrees 
+* I've imported the balance sheets
+* What is this rouge #100?  
+* Next actions: 
+  * Renew the excel import 
+  * Update the formulars with links 
+  * Link up the balance sheet until it works. 
+* Did those, there are only the small sheets and the main doucment to do now. 
+
+## 12/09/23 11:24 to 11:29, writing post +EQT
+11:24, equalitytime.co.uk/ Solving problems of inclusion and equality
+11:24, equalitytime.co.uk/news/ News
+11:25, equalitytime.co.uk/wp-login.php Log In ‹ — WordPress
+11:25, equalitytime.co.uk/wp-admin/ Dashboard ‹ — WordPress
+11:25, equalitytime.co.uk/wp-admin/post-new.php Add New Post ‹ — WordPress
+
+( I really did lose half an hour I didn't intend to... silly phone)  
+## 12/09/23 12:02 to 12:19, Midjourney  +EQT 
+## 12/09/23 12:24 to 12:32, Fixing lnh (and lnc and a couple of others +EQT
+## 12/09/23 12:32 to 13:04, Working on Glasgow Chainmail   +EQT
+* The next thign is to work out how to bring in the library 
+## 12/09/23 13:04, I'm starting to struggle a bit.  
+## 12/09/23 13:04,  Internet off now th
+## 12/09/23 13:04 to 13:29, Making mouse sniper work.  +EQT
+* I got mouse sniper working.  It's NOT setup at all for this keyboard so all the keys will need remapping. I'll create a diffrent bind method.  
+* There might be a overlay I can run 
+* It would be good to put through ChatGPT and then get some code review
+* It's installing 
+* We should also lookup screenoverlays in ubuntu - that's probably a lot more possible - border line ridiculously easy   
+
+
+## 12/09/23 13:29 to 13:42,  I've got three hours - easily enought to break the back of the rest of this if I wanted to. +EQT
+* I'm going to get tea, a snack and headphones. 
+* I'm sure I took a photo of the nuts
+
+
+## 12/09/23 13:42 to 14:46,  Doing Google Ads +EQT
+Ugggh. That's done at least 
+## 12/09/23 14:46 to 16:26, OVF really +EQT
+I've fixed some bugs and done some significant changes, but also dealt with annoying config things 
+* We currently have tests that don't work on staging. We suspect a difference in python versions. Our options are:
+   * Upgrade the python on server   
+   * Add a 3.7 on the desktop 
+   * Fix the bugs on the server and maintain the balance going forward
+We've tried the first two options and they didn't go that well. The third is a pain tho
+
+
+
+## 12/09/23 16:11 to 16:33, Reading +EQT
+
