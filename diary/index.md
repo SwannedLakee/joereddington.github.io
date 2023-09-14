@@ -12344,3 +12344,33 @@ We've tried the first two options and they didn't go that well. The third is a p
 
 ## 12/09/23 16:11 to 16:33, Reading +EQT
 
+## 13/09/23 06:43 to 07:15, Trying to find an event on eventbrigt +EQT
+## 13/09/23 09:28 to 09:39, Setting up machine downstairs +EQT
+(Didn't count the moving time because I was with the kids) 
+
+## 13/09/23 09:39 to 10:31, Getting started and fixing some bugs +EQT
+* Working out a plan 
+* I've done a reward assessment 
+
+* Installing i3 - the latest verion
+* I used these commands 
+/usr/lib/apt/apt-helper download-file https://debian.sur5r.net/i3/pool/main/s/sur5r-keyring/sur5r-keyring_2023.02.18_all.deb keyring.deb SHA256:a511ac5f10cd811f8a4ca44d665f2fa1add7a9f09bef238cdfad8461f5239cc4
+sudo apt install ./keyring.deb
+echo "deb http://debian.sur5r.net/i3/ $(grep '^DISTRIB_CODENAME=' /etc/lsb-release | cut -f2 -d=) universe" | sudo tee /etc/apt/sources.list.d/sur5r-i3.list
+sudo apt update
+sudo apt install i3
+
+## 13/09/23 10:31 to 11:25, So what's my thing? A bit of email; okay +EQT 
+* Included tidying up this file so I could send notes somewhere
+* Nowhere near my eight hours today - I'm already a full hour behind 
+* Wait... 
+## 13/09/23 11:25 to 13:15, Just grinding down the emails +EQT
+## 13/09/23 13:15 to 13:30, Emails done! Even the review was quite nice!  +EQT
+* Then put some stuff done on social 
+## 13/09/23 13:30 to 14:50,  Okay, what am I doing +EQT
+* Review the rewards spreadsheet 
+* Check on the dropbox 
+* The python would probably be good.
+* Getting frustrated with the Python... 
+
+## 13/09/23 14:50 to 15:20, brainstorming +EQT
