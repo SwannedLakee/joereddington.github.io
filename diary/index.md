@@ -10500,7 +10500,8 @@ Wrote a script and a SE question at https://stackoverflow.blog/2023/02/27/stop-s
 
 
 ## 02/03/23 12:20 to 12:40, I'm going to get my head right. +EQT 
-## 02/03/23 12:40 to 13:23, Generating an Artists Spreadsheet +EQT
+## 02/03/23 12:40 to 13:23, Generating an Artists Spreadsheet +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 * Also sending a scary message. 
 
 NA: When I come back - payroll and accounts more 
@@ -10511,12 +10512,15 @@ NA: When I come back - payroll and accounts more
 ## 06/03/23 06:39 to 06:57, +EQT 
 Getting started. 
 
-## 06/03/23 06:57 to 08:01, Working on Tightrope +EQT 
-## 06/03/23 09:25 to 11:54, +EQT Working on Tightrope +EQT 
+## 06/03/23 06:57 to 08:01, Working on Tightrope +EQT  https://github.com/eQualityTime/Home/issues/126
+
+## 06/03/23 09:25 to 11:54, +EQT Working on Tightrope +EQT  https://github.com/eQualityTime/Home/issues/126
+
 Did three sessions. 
 * Emailed two people. I'm willing to count that as a really good sprint 
 
-## 06/03/23 11:54 to 12:14,  +EQT booking flights for glasgow. 
+## 06/03/23 11:54 to 12:14,  +EQT booking flights for glasgow.  http://github.com/equalitytime/WhiteWaterWriters
+
 ## 06/03/23 14:23 to 15:10,  +EQT - struggling to focus a bit after an excellent morning.  The answer is delores. It always has been. 
 ## 06/03/23 15:10 to 15:54, Call  +EQT 
 ## 06/03/23 15:54 to 16:04, Getting a cable +EQT 
@@ -10548,10 +10552,13 @@ before kids: Would have been a yes
 ## 08/03/23 10:02 to 12:43, Email +EQT
 Now the big one about SLIF 
 ## 08/03/23 12:43, inbox completely cleared. 
-## 08/03/23 12:43 to 13:28, Now the slides I think.  +EQT
-## 08/03/23 15:17 to 16:01, Mat Letters and an email +EQT
+## 08/03/23 12:43 to 13:28, Now the slides I think.  +EQT https://github.com/eQualityTime/Home/issues/126
+
+## 08/03/23 15:17 to 16:01, Mat Letters and an email +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 13/03/23 06:15 to 08:05,  +EQT 
-## 13/03/23 10:21 to 12:40, Tightrope +EQT 
+## 13/03/23 10:21 to 12:40, Tightrope +EQT  https://github.com/eQualityTime/Home/issues/126
+
 * Website is transferred and updated
 * Slides have had their notes removed. 
 * Ads have been approved. 
@@ -10559,7 +10566,8 @@ Now the big one about SLIF
 ## 13/03/23 15:34 to 16:10, +EQT Booking tickets and that sort of thing. 
 Is that a three hour gap? Wow  
 
-## 14/03/23 09:50 to 10:43,  Meeting with EQ +EQT 
+## 14/03/23 09:50 to 10:43,  Meeting with EQ +EQT  https://github.com/eQualityTime/Home/issues/126
+
 ## 14/03/23 10:43 to 13:41, Email +EQT 
 * And tightrope 
 ## 14/03/23 13:41 to 14:43, I'm going to pack now. +EQT
@@ -10624,8 +10632,10 @@ I'm tired. And I think I understood about sleep a while back and then let everyt
 
 Today I want a nap, and a bike ride, and I also want to do a bunch of work. It's going to be tough to fit them all in. 
 
-## 17/03/23 11:04 to 12:43,  +EQT  Doing the books 
-## 17/03/23 15:10 to 16:43, Posting the damn books and doing email +EQT 
+## 17/03/23 11:04 to 12:43,  +EQT  Doing the books  http://github.com/equalitytime/WhiteWaterWriters
+
+## 17/03/23 15:10 to 16:43, Posting the damn books and doing email +EQT  http://github.com/equalitytime/WhiteWaterWriters
+
 Let's post some books! 
 
 Do I have envelopes? 
@@ -10633,14 +10643,21 @@ Yes.
 * Address labels will be the tricky part. 
 * Okay, I need to get the address into one thing. 
 
-## 19/03/23 15:32 to 20:00, plane trip to glasgow +EQT 
-## 20/03/23 07:30 to 16:10, Glasgow School +EQT
-## 21/03/23 07:30 to 16:10, Glasgow School +EQT
-## 22/03/23 07:30 to 16:10, Glasgow School +EQT
-## 23/03/23 07:30 to 16:10, Glasgow School +EQT
-## 24/03/23 07:30 to 19:10, Glasgow School and plane  +EQT
+## 19/03/23 15:32 to 20:00, plane trip to glasgow +EQT  http://github.com/equalitytime/WhiteWaterWriters
 
-## 26/03/23 10:30 to 12:00, Publishing glasgow books +EQT 
+## 20/03/23 07:30 to 16:10, Glasgow School +EQT http://github.com/equalitytime/WhiteWaterWriters
+
+## 21/03/23 07:30 to 16:10, Glasgow School +EQT http://github.com/equalitytime/WhiteWaterWriters
+
+## 22/03/23 07:30 to 16:10, Glasgow School +EQT http://github.com/equalitytime/WhiteWaterWriters
+
+## 23/03/23 07:30 to 16:10, Glasgow School +EQT http://github.com/equalitytime/WhiteWaterWriters
+
+## 24/03/23 07:30 to 19:10, Glasgow School and plane  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
+
+## 26/03/23 10:30 to 12:00, Publishing glasgow books +EQT  http://github.com/equalitytime/WhiteWaterWriters
+
 ## 27/03/23 06:15 to 07:40, +EQT email 
 before kids: No 
 How many times did you rest today: none 
@@ -10682,7 +10699,8 @@ Future plans
 ## 28/03/23 14:46 to 15:42, email.  +EQT 
 ## 29/03/23 05:58 to 06:30, Email +EQT
 
-## 29/03/23 06:31 to 07:45,  +EQT 
+## 29/03/23 06:31 to 07:45,  +EQT  https://github.com/eQualityTime/Home/issues/126
+
 NA: 
 
 Send £2,000 worth of invoices to Liz, 
@@ -10718,8 +10736,10 @@ Let's have a scan.
 
 ## 30/03/23 19:53 to 19:53, Quick update.  +EQT
 ## 31/03/23 06:26 to 06:33, I'm here.  +EQT
-## 01/04/23 20:21 to 20:40, Publishing a boko.   +EQT
-## 04/04/23 08:21 to 08:39,  Book  +published +EQT 
+## 01/04/23 20:21 to 20:40, Publishing a boko.   +EQT http://github.com/equalitytime/WhiteWaterWriters
+
+## 04/04/23 08:21 to 08:39,  Book  +published +EQT  http://github.com/equalitytime/WhiteWaterWriters
+
 ## 05/04/23 06:10 to 07:11,  Emails in bed +EQT
 
 ## 11/04/23 06:44 to 08:00,  +EQT 
@@ -10753,7 +10773,8 @@ Where you grumpy and if so did you process the emotional file: yes
 What was your excuse for NOT eating properly:  Trama anniversery (reasonable I think) 
 
 ## 17/04/23 14:13 to 15:45, Hello  +EQT
-## 17/04/23 16:20 to 16:25,  Some WWW supervision +EQT 
+## 17/04/23 16:20 to 16:25,  Some WWW supervision +EQT  http://github.com/equalitytime/WhiteWaterWriters
+
 # New Day 
 Solid eight hours. Including exercise.  
 No, all delores. 
@@ -10804,15 +10825,19 @@ Let's do it. Internet on.
 ## 18/04/23 07:56 to 08:00, (A Funder)  30 Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
 I can convincingly use the money to sort out core costs of the glasgow thing, but that also means emailing out schools in the area. 
 
-## 18/04/23 09:30 to 10:36, (A) 20 Write annoucement blog post for Tightrope. and then the faecbook post as well. +EQT
+## 18/04/23 09:30 to 10:36, (A) 20 Write annoucement blog post for Tightrope. and then the faecbook post as well. +EQT https://github.com/eQualityTime/Home/issues/126
+
 
 But the point of today is to focus on the delores. 
 
 I have returned to the main list. 
-## 18/04/23 10:36 to 11:08, (B) 10 Draft status email about Tightrope  +EQT
+## 18/04/23 10:36 to 11:08, (B) 10 Draft status email about Tightrope  +EQT https://github.com/eQualityTime/Home/issues/126
 
-## 18/04/23 11:08 to 11:25, (B) 10 Map writing report for Tightrope  +EQT
-## 18/04/23 11:25 to 11:55, (B) 35 Produce the HMP Hemel book +EQT
+
+## 18/04/23 11:08 to 11:25, (B) 10 Map writing report for Tightrope  +EQT https://github.com/eQualityTime/Home/issues/126
+
+## 18/04/23 11:25 to 11:55, (B) 35 Produce the HMP Hemel book +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 Map it: 
   * Check downloaded file 
   * Open the IMPS2 thing and find the most recnet text file
@@ -10825,7 +10850,8 @@ Map it:
 Taking a while. Asked a vim question. https://vi.stackexchange.com/questions/41923/paste-from-clipboard-without-triggering-iabbr
 
 ## 18/04/23 14:27 to 16:10, +EQT recovered entry  
-## 18/04/23 18:00 to 19:00, +EQT publishing book 
+## 18/04/23 18:00 to 19:00, +EQT publishing book  http://github.com/equalitytime/WhiteWaterWriters
+
 
 # New day 
 Big things 
@@ -10867,7 +10893,8 @@ What was your excuse for NOT eating properly:
 Apparently if I started now I could cover all of the tasks by 13:31. I like that.
 
 ## 20/04/23 09:20 to 10:51,  +EQT
-## 20/04/23 13:45 to 14:44, Remote runnign camp +EQT
+## 20/04/23 13:45 to 14:44, Remote runnign camp +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 20/04/23 14:44 to 16:01, Planning +EQT
 Mostly fixing a cover. 
 
@@ -10888,14 +10915,16 @@ What was your excuse for NOT eating properly: That I was sad.
 * Sprint until 15:50 
 
 
-## 24/04/23 14:28 to 15:28, Publish Local book.  +EQT
+## 24/04/23 14:28 to 15:28, Publish Local book.  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ✅  Check in with the others 
 ✅  Download cover file 
 ✅  Download and check main file 
 ✅  Run the publishing. 
  - it will definitely cope with 19 points past, but do we want that... 
 
-## 24/04/23 15:28 to 15:42, Try to get midjourney to work +EQT
+## 24/04/23 15:28 to 15:42, Try to get midjourney to work +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 
 # Plan for new day 
 * Perfect(ing) Delores 
@@ -10907,11 +10936,15 @@ How many times did you rest today: 0
 Where you grumpy and if so did you process the emotional file: No
 What was your excuse for NOT eating properly: Tired
 
-## 25/04/23 07:29 to 07:43, (A) 10 Order 30 HMP Hemel Books  +EQT
-## 25/04/23 07:43 to 07:59, Chain mail +EQT (A) Contact Elizabeth with the draft emails (so do them) 
+## 25/04/23 07:29 to 07:43, (A) 10 Order 30 HMP Hemel Books  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
+## 25/04/23 07:43 to 07:59, Chain mail +EQT (A) Contact Elizabeth with the draft emails (so do them)  https://github.com/eQualityTime/Home/issues/126
+
 ## 25/04/23 09:25 to 10:02,  Recovering machine. +EQT
-## 25/04/23 10:02 to 12:39,  +EQT Chainmail 
-## 25/04/23 14:00 to 15:04, Back +EQT Call and chainmail 
+## 25/04/23 10:02 to 12:39,  +EQT Chainmail  http://github.com/equalitytime/WhiteWaterWriters
+
+## 25/04/23 14:00 to 15:04, Back +EQT Call and chainmail  http://github.com/equalitytime/WhiteWaterWriters
+
 ## 25/04/23 15:10 to 15:36,  +EQT
 Really tricky time with chainmail 
 Okay, so what did I learn today 
@@ -10960,7 +10993,8 @@ How many times did you rest today: 0
 Where you grumpy and if so did you process the emotional file: 
 What was your excuse for NOT eating properly: 
 
-## 26/04/23 06:54 to 07:41, (A) Contact Elizabeth with the draft emails (so do them)  +EQT
+## 26/04/23 06:54 to 07:41, (A) Contact Elizabeth with the draft emails (so do them)  +EQT https://github.com/eQualityTime/Home/issues/126
+
 * Updated the website with images
 * I've drafted a email and put it into the directory 
 * Next action is to produce the spreadsheet
@@ -11030,8 +11064,10 @@ How fast can we reasonably do delores?:
 ## 03/05/23 07:33 to 07:44, Starting new script +EQT 
 We should probably time it until process inbox and stack 
 
-## 03/05/23 07:44 to 08:00, Fix tightrope conversions.  +EQT
-## 03/05/23 09:45 to 10:47,  +EQT still on tightrope. 
+## 03/05/23 07:44 to 08:00, Fix tightrope conversions.  +EQT https://github.com/eQualityTime/Home/issues/126
+
+## 03/05/23 09:45 to 10:47,  +EQT still on tightrope.  https://github.com/eQualityTime/Home/issues/126
+
 On tightrope.co.uk - the Google Ads account is showing zero conversions. 
 ![no_con](img/no_con.png)
 
@@ -11066,7 +11102,7 @@ I should update all of these
 ## 03/05/23 12:19 to 12:49, Email +EQT
 I've reached reconcilation - only took ten minutes  
 
-## 03/05/23 14:40 to 16:04, +EQT
+## 03/05/23 14:40 to 16:04, +EQT emails
 * Finnished the last couple of emails 
 * Lets do the reviews. 
   * Got down to 90 from a couple of hundred, but I feel good about the whole thing 
@@ -11089,10 +11125,13 @@ Okay, I've done three of these blasted social media posts and I don't like them.
 Hotel - 30/1/23 was the first camp day, so 29?   
 
 ## 04/05/23 13:35,  25 minutes before speaking to RIcahrd
-## 04/05/23 13:35, (B) Fix old book generation for Yvonne
+## 04/05/23 13:35, (B) Fix old book generation for Yvonne http://github.com/equalitytime/WhiteWaterWriters
+
 ## 04/05/23 14:07 to 15:37, Meetings  +EQT 
-## 04/05/23 15:37 to 16:07, (B) Fix old book generation for yvonne 
-## 04/05/23 20:47 to 21:37, (B) Fix old book generation for Yvonne +EQT
+## 04/05/23 15:37 to 16:07, (B) Fix old book generation for yvonne  http://github.com/equalitytime/WhiteWaterWriters
+
+## 04/05/23 20:47 to 21:37, (B) Fix old book generation for Yvonne +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 (Details in next entries
 # Scoresheet for 04/05/23 
 * Up before kids = 0/10 
@@ -11113,7 +11152,8 @@ Hotel - 30/1/23 was the first camp day, so 29?
 * Today I want to stick to diet and fix the word counts
 
 ## 05/05/23 08:04 to 08:17,  +EQT
-## 05/05/23 09:13 to 09:53,  +EQT
+## 05/05/23 09:13 to 09:53,  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 * I fixed the library code so that it correctly creates python code with the title. 
 * I modified the allbooks code so it spits out folder ids 
 * Chatgpt gave me this script to run one on the other
@@ -11139,8 +11179,8 @@ while read folderid; do ./create.sh "$folderid"; done < folderids.txt
 
 * Blogs written: 0.2 (2 facebook post for Academics ) 
 
-## 05/05/23 14:39 to 14:45,  +EQT Working on Success page. 
-## 09/05/23 06:14 to 07:07,  +EQT
+## 05/05/23 14:39 to 14:45,  +EQT Working on Success page.  https://github.com/eQualityTime/TheOpenVoiceFactory/
+## 09/05/23 06:14 to 07:07,  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 * Planning 
 
 ## 09/05/23 07:07 to 07:22,  +EQT
@@ -11151,7 +11191,8 @@ Okay, so there is a setup assistant, but then there is more work.
 I've moved the joereddington.com forward and the White Water Writers as well. I'll come back in a few days to see if the data started coming trhoguh 
 
 ## 09/05/23 11:11 to 11:21, Zone +EQT
-## 09/05/23 11:21 to 11:23, (B) Download tightrope contact details +EQT
+## 09/05/23 11:21 to 11:23, (B) Download tightrope contact details +EQT https://github.com/eQualityTime/Home/issues/126
+
 ✅  Find github issue  https://github.com/eQualityTime/Home/issues/136
 * Find the contact details file. 
 * Make good notes and put it in the right place. 
@@ -11201,7 +11242,8 @@ I've been all over the place. Lots of things getting ticked off
 
 I've been using a mac purchased in August 2018 for £1037.  It's getting creaky after five years and I'm starting to lose an amount of time to random reboots and the like. I'd like to replace it and would like the trustees to approve me spending no more than £780 (based on 75% of the last purchase) on a new desktop machine, with final specifications to be approved by the chair.  It's my intention in the next year to write a proper 'bring your own tech' policy  
 
-## 11/05/23 13:06 to 13:40, Tightrope Wbsite +EQT
+## 11/05/23 13:06 to 13:40, Tightrope Wbsite +EQT https://github.com/eQualityTime/Home/issues/126
+
 * How do I set up Google Optimise? 
 
 ## 11/05/23 13:41, I have six things to do. +EQT 
@@ -11226,10 +11268,12 @@ But I'm very tired.
   * Next action is to put in the names and emails for the other 70 schools. Sigh. 
 
 ## 15/05/23 13:54 to 14:32, Lost in my head 
-## 15/05/23 14:32 to 15:11, Optimise and fixing Camps +EQT
+## 15/05/23 14:32 to 15:11, Optimise and fixing Camps +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 
  
-## 16/05/23 12:13 to 14:13,  +EQT put in to count for code and messages around WWW 
+## 16/05/23 12:13 to 14:13,  +EQT put in to count for code and messages around WWW  http://github.com/equalitytime/WhiteWaterWriters
+
 ## 16/05/23 14:13 to 15:16, Last bits of todo list +EQT
 
 
@@ -11269,11 +11313,13 @@ Student loan
 ## 18/05/23 09:35 to 10:03,  Email +EQT
 "If you are half way throught and can get back to flow..." 
 
-## 18/05/23 10:03 to 10:13, Fixing a bug on WWW +EQT
+## 18/05/23 10:03 to 10:13, Fixing a bug on WWW +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 18/05/23 10:13 to 12:46, Email +EQT
 * Starting to get less flowy 
 ## 18/05/23 12:46 to 14:08, I've had enough of email now. Let's look at Delores +EQT 
-## 18/05/23 14:08 to 15:03, Trying to fix covers +EQT
+## 18/05/23 14:08 to 15:03, Trying to fix covers +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 * Exercise will be in an hour. 
 * What am I going to do this evening?  * Read a book, watch some more of that film 
 
@@ -11336,7 +11382,7 @@ I should look for the biggest files that aren't in the New Order really.
 ## 25/05/23 09:30 to 11:03, email and excel consultanty +EQT
 ## 25/05/23 11:03 to 11:16, Internet off +EQT
 ## 25/05/23 11:16 to 11:40, Quick internet  +EQT
-## 25/05/23 11:40 to 15:32, +EQT +openvoicefactory 
+## 25/05/23 11:40 to 15:32, +EQT +openvoicefactory  https://github.com/eQualityTime/TheOpenVoiceFactory/
 See this: https://equalitytime.co.uk/6737/2023/05/25/open-voice-factory-update-2/ 
 
 ## 25/05/23 15:34 to 14:15, Can I email all the universities: +EQT
@@ -11344,7 +11390,7 @@ See this: https://equalitytime.co.uk/6737/2023/05/25/open-voice-factory-update-2
 ## 25/05/23 20:22 to 21:20,  +EQT database for Flowers For Turing emails 
 ## 26/05/23 08:58 to 10:12,  +EQT
 ## 26/05/23 10:12 to 10:13, Working on todo list +EQT
-## 26/05/23 10:05 to 10:12, +OpenVoiceFactory fixing 404 page +EQT
+## 26/05/23 10:05 to 10:12, +OpenVoiceFactory fixing 404 page +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 ## 26/05/23 10:12 to 11:38, attacking the list +EQT
 
 ## 26/05/23 21:08 to 21:28, Ordering a PC +EQT
@@ -11353,7 +11399,8 @@ See this: https://equalitytime.co.uk/6737/2023/05/25/open-voice-factory-update-2
 * Did a Flowers post 
 * Fixed the export history 
 
-## 30/05/23 07:12 to 08:02, IMPS3 regression tests +EQT 
+## 30/05/23 07:12 to 08:02, IMPS3 regression tests +EQT  http://github.com/equalitytime/WhiteWaterWriters
+
 ## 30/05/23 19:02 to 19:17, +EQT working on Academics database 
 ## 30/05/23 09:40 to 12:05, Long term planning +EQT
 ## 30/05/23 19:10 to 20:35, Turing Emails +EQT
@@ -11365,7 +11412,8 @@ x 2023-05-31 10 Create seperate repo for the history code.
 ## 31/05/23 12:44 to 13:30, (C) IMPS3 - AI should save images with dates +EQT
 * Writen and pushed as develop - I also removed the unfortunate broken commit from last week. 
 
-## 31/05/23 13:30 to 14:28, (A) 20 Typeset the Prison book  +EQT
+## 31/05/23 13:30 to 14:28, (A) 20 Typeset the Prison book  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 31/05/23 19:46 to 19:52, General +EQT
 # Scoresheet for 25/05/23 
 * Up before kids = 7/10 
@@ -11406,12 +11454,14 @@ Fixing this error:
 ![](img/error message .png)
 * Somehow got 40 minutes spare, which I fully intend to use for a run 
 
-## 05/06/23 12:26 to 13:45, (B) 60 Rewrite the 'How to write a short story' guide +EQT
+## 05/06/23 12:26 to 13:45, (B) 60 Rewrite the 'How to write a short story' guide +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 05/06/23 13:45 to 13:46, (C) 10 Confirm that Annual leave sheet has a break calcualtion (extra 20 minutes after six hours)  +EQT
 * Fixed a unicode bug (sed couldn't cope with the unicode tick) 
 * Will have to check later when the web has updated
 
-## 05/06/23 13:46 to 14:11, (C) 10 Have chatGPT rewrite the luton schools email: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
+## 05/06/23 13:46 to 14:11, (C) 10 Have chatGPT rewrite the luton schools email: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit  http://github.com/equalitytime/WhiteWaterWriters
+
 * They are in the emails ready to send.
 
 ## 05/06/23 14:11 to 14:29, Stack +EQT
@@ -11425,7 +11475,8 @@ I regained three days work(!)
 ## 05/06/23 17:50 to 18:21,  +EQT WWW 
 ## 06/06/23 05:48 to 06:28, Morning   +EQT 
 ## 06/06/23 06:29 to 06:30, Delores +EQT 
-## 06/06/23 06:30 to 07:12, Improve School contacts database  +EQT
+## 06/06/23 06:30 to 07:12, Improve School contacts database  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 06/06/23 07:12 to 08:02, (C) 20 Write press contact email about Flowers For Turing.  +EQT
 ## 06/06/23 10:22 to 10:48,(C) 20 Write press contact email about Flowers For Turing.  +EQT
 ## 06/06/23 10:48 to 11:59, Claim expenses +EQT
@@ -11435,7 +11486,7 @@ I regained three days work(!)
 Found out that you can start a local python server with python3 -m http.server, which is cool. 
 ## 06/06/23 15:04 to 15:30, Social media +EQT
 ## 06/06/23 15:30 to 15:42, Watching work video +EQT
-## 06/06/23 18:07 to 18:48,  +EQT Trying to drill down on a bug in my code
+## 06/06/23 18:07 to 18:48,  +EQT Trying to drill down on a bug in my code https://github.com/eQualityTime/TheOpenVoiceFactory/
 ## 07/06/23 05:45 to 06:15, Fixed an annoying bug I was halfway though.  +EQT
 ## 07/06/23 06:15 to 06:46, More Delores +EQT
 ## 07/06/23 06:46 to 07:23, Stack +EQT
@@ -11451,49 +11502,57 @@ Found out that you can start a local python server with python3 -m http.server, 
 ## 08/06/23 06:16 to 07:16, Slow start this morning +EQT
 ## 08/06/23 07:16 to 07:32,  Starting new section +EQT 
 ## 08/06/23 09:55 to 10:00, Hello, let's do the stack     +EQT
-## 08/06/23 10:00 to 10:16, AI cover for Ashley  +EQT
+## 08/06/23 10:00 to 10:16, AI cover for Ashley  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 08/06/23 10:16 to 10:49, Make todo list pretty +EQT 
 ## 08/06/23 10:49 to 12:23, Deeply annoying non-existant networking event +EQT
 ## 08/06/23 12:23 to 13:00, Make todo list pretty +EQT
 ## 08/06/23 13:00 to 13:04, Small distraction sorting book out (and published a blog) 
 ## 08/06/23 13:04 to 13:14, Generating cover +EQT
 ## 08/06/23 13:14 to 13:17, Todo prettification +EQT
-## 08/06/23 13:17 to 13:35, What's next?  (A) 20 Review Garfield Weston and establish what else we can do with it: https://github.com/eQualityTime/Home/issues/130 +EQT
+## 08/06/23 13:17 to 13:35, What's next?  (A) 20 Review Garfield Weston and establish what else we can do with it: https://github.com/eQualityTime/Home/issues/130 +EQT 
+
 ## 08/06/23 13:35 to 13:48, Collecting new PC and generally admiring it.  +EQT
 ## 08/06/23 13:48 to 13:48, Okay - what's the plan? +EQT 
 ## 08/06/23 14:40 to 14:40,  Time to come back +EQT 
 ## 08/06/23 13:55 to 14:13, (D) 20 Write a little python module that returns a Google Sheets file as a list of dictionaries: https://github.com/eQualityTime/Home/issues/127 +EQT
 ## 08/06/23 14:13 to 14:25, Working out new setup. +EQT
-## 08/06/23 14:25 to 14:57, Starting again.  +EQT (E) 12 Run multi-git-status on OVF
+## 08/06/23 14:25 to 14:57, Starting again.  +EQT (E) 12 Run multi-git-status on OVF https://github.com/eQualityTime/TheOpenVoiceFactory/
 sudo -u apache ../multi-git-status/mgitstatus 
 
 ## 08/06/23 14:57 to 14:57, (B) 20 minutes sorting dropbox  https://github.com/eQualityTime/Home/issues/120 +EQT
 ## 08/06/23 14:58 to 14:58,  Open up the whole set +EQT
 ## 08/06/23 14:58 to 15:35, (C) 20 Run the chainmail code on previous teachers and review outputs  https://github.com/eQualityTime/Home/issues/133 +EQT
-## 08/06/23 15:35 to 15:49, (C) 60 Refactor and write tests in IMPS3  +EQT
+## 08/06/23 15:35 to 15:49, (C) 60 Refactor and write tests in IMPS3  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 * I went through the todos and added a bunch of notes. 
 * NA: run the tests 
 
-## 11/06/23 06:10 to 08:13, Publishing books +EQT
+## 11/06/23 06:10 to 08:13, Publishing books +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 12/06/23 06:04 to 07:14, Hello! Delores and general setup +EQT 
 ## 12/06/23 07:14 to 07:36, Actual todo list time! +EQT 
 ## 12/06/23 07:36 to 07:55, Generate Press list emails +EQT 
 ## 12/06/23 09:42 to 12:04, Generate Press list emails +EQT 
-## 12/06/23 12:04 to 12:11,  Send Luton School emails +EQT
+## 12/06/23 12:04 to 12:11,  Send Luton School emails +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 12/06/23 12:11 to 13:23, The next set of emails  +EQT
 ## 12/06/23 13:23 to 14:04, What am I doing now?  +EQT
-## 12/06/23 14:04 to 15:44, +EQT IMPS refactoring 
-## 13/06/23 06:00 to 06:07, Tidy up the git for IMPS +EQT
+## 12/06/23 14:04 to 15:44, +EQT IMPS refactoring  http://github.com/equalitytime/WhiteWaterWriters
+
+## 13/06/23 06:00 to 06:07, Tidy up the git for IMPS +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 13/06/23 06:07 to 07:12, Delores +EQT 
 * 3 hours 35 minutes to do all the tasks? That would be amazing. Let's do that.
 * I reviewed the timings - it is amazing how hard it is to put 8 hours in without also starting at 5:30 
 * I think I've set up to massively confuse myself with my new key mappings but we'll see
 * Social Media processing is JUST  NOT happening. 
 ## 13/06/23 07:12, Actual tasks 
-## 13/06/23 07:12 to 07:59, (C) 60 Refactor and write tests in OVF  +EQT +OpenVoiceFactory
-## 13/06/23 10:00 to 11:53, (C) 60 Refactor and write tests in OVF  +EQT +OpenVoiceFactory 
+## 13/06/23 07:12 to 07:59, (C) 60 Refactor and write tests in OVF  +EQT +OpenVoiceFactory https://github.com/eQualityTime/TheOpenVoiceFactory/
+## 13/06/23 10:00 to 11:53, (C) 60 Refactor and write tests in OVF  +EQT +OpenVoiceFactory  https://github.com/eQualityTime/TheOpenVoiceFactory/
 Refactoring OVF - have committed and pushed
-## 13/06/23 11:54 to 13:16, Rewrite document for prisoners  +EQT
+## 13/06/23 11:54 to 13:16, Rewrite document for prisoners  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 13/06/23 13:16 to 14:16, (D) 15 Import the most recent set of camps to the WWW library  https://github.com/eQualityTime/Home/issues/134 +EQT
 * Imported, found it was much easier to do it with Chatgpt 
 * Also fixed the missing books a bit as well. 
@@ -11602,7 +11661,8 @@ A javascript class?
 ## 26/06/23 07:05 to 08:00, +EQT Tired and grumpy 
 ## 26/06/23 09:26 to 10:48,  Working through stack  +EQT
 * And tidying up todo 
-## 26/06/23 10:48 to 11:20, (A) 20 Find and download a csv to use for the tightrope email out  @private +EQT Also the Turing posts 
+## 26/06/23 10:48 to 11:20, (A) 20 Find and download a csv to use for the tightrope email out  @private +EQT Also the Turing posts  https://github.com/eQualityTime/Home/issues/126
+
 * I've created a Turing post, asked mum for some information, created the pages - there is more to do.  
 * At the very least NO more donations can come in. 
 
@@ -11643,7 +11703,8 @@ Okay, so the big question is: how fast can I send literally all the emails out t
 ## 28/06/23 06:28 to 08:01, Email +EQT 
 ## 28/06/23 09:24 to 11:35,  Back to email +EQT
 ## 28/06/23 11:55, After small break
-## 28/06/23 11:55 to 13:24,  Tightrope emails +EQT
+## 28/06/23 11:55 to 13:24,  Tightrope emails +EQT https://github.com/eQualityTime/Home/issues/126
+
 ## 28/06/23 13:24 to 13:39,    +EQT 
 ## 28/06/23 13:39 to 13:40, Okay, I can give the list a kicking or I can move on to the new delores.  +EQT 
 ## 29/06/23 09:20 to 09:38,  config +EQT
@@ -11653,7 +11714,8 @@ Okay, so the big question is: how fast can I send literally all the emails out t
 ## 29/06/23 11:50 to 12:28, Config nightmare +EQT
 ## 29/06/23 12:28 to 12:44, Flowers for Turing +EQT
 ## 29/06/23 12:45 to 13:00, Delores +EQT
-## 29/06/23 13:00 to 13:36, Talking to school +EQT
+## 29/06/23 13:00 to 13:36, Talking to school +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 29/06/23 13:36 to 14:26, Delores  code +EQT 
 ## 29/06/23 14:26 to 14:50, Now actual delores   +EQT
 ## 29/06/23 14:52 to 15:00, Finnish Turing +EQT
@@ -11697,12 +11759,13 @@ NA: is to write the fucking thing out. 700 words. Shouldn't take long
 ## 04/07/23 06:30, The todos +EQT
 ## 04/07/23 06:31 to 06:46, (A) 25 Draft report for garfield westron   on: https://github.com/eQualityTime/Home/issues/130 +EQT @private
 * I didn't draft it, but I did work out I could get down to 700 if I spent the glasgow money mostly on it and a computer 
-## 04/07/23 06:46 to 07:54, (B) Write presentation for MIX and send to the team  +EQT
+## 04/07/23 06:46 to 07:54, (B) Write presentation for MIX and send to the team  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 04/07/23 09:30 to 09:46, Hello +EQT x 2023-07-04 Send newsletter to trustees 
 ## 04/07/23 09:46 to 10:13, 20 min Tidying Google Drive +EQT
-## 04/07/23 10:13, (C) 60 Code sprint on OVF todos +EQT @public 
+## 04/07/23 10:13, (C) 60 Code sprint on OVF todos +EQT @public  https://github.com/eQualityTime/TheOpenVoiceFactory/
 ## 04/07/23 10:13 to 10:19,  +EQT 
-## 04/07/23 10:19 to 11:45,  OVF TODOs  +EQT in public +OpenVoiceFactory 
+## 04/07/23 10:19 to 11:45,  OVF TODOs  +EQT in public +OpenVoiceFactory  https://github.com/eQualityTime/TheOpenVoiceFactory/
 * Notes are in the commit I pushed 
 * Thoughts on public 
   * I need to enable the stop key for the recording and work out how to record without the audio, for wikipedia editing I can make them into reels and stuff with some serious cropping and fast-forwarding. (  
@@ -11754,12 +11817,16 @@ Booked hotel, booked train ticket
 
 ## 07/07/23 06:30 to 18:45, away at a conference +EQT
 
-## 10/07/23 05:30 to 18:30, away at a camp +EQT
-## 11/07/23 06:04 to 07:09, Fixing a problem with WWW servers +EQT
+## 10/07/23 05:30 to 18:30, away at a camp +EQT http://github.com/equalitytime/WhiteWaterWriters
+
+## 11/07/23 06:04 to 07:09, Fixing a problem with WWW servers +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 * Creating a cloudwatch alarm https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/US_AlarmAtThresholdEC2.html
 
-## 11/07/23 09:35 to 10:04, Difficult conversation with Leader +EQT 
-## 11/07/23 10:04 to 11:05, calming down time +EQT
+## 11/07/23 09:35 to 10:04, Difficult conversation with Leader +EQT  http://github.com/equalitytime/WhiteWaterWriters
+
+## 11/07/23 10:04 to 11:05, calming down time +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 
 
 ## 11/07/23 11:00 to 12:02,  Sort of first attempt at a wikipedia post. 
@@ -11802,9 +11869,12 @@ This evening? Some light wikipedia I think? Or some serious work on the personal
 * Trail mario timer 
 * Process this file 
 
-## 13/07/23 06:55 to 07:32, Working on midjourney prompts +EQT
-## 13/07/23 09:28 to 10:29, Email the artists then  +EQT
-## 13/07/23 10:29 to 11:00, Get back into Wordpress +EQT 
+## 13/07/23 06:55 to 07:32, Working on midjourney prompts +EQT http://github.com/equalitytime/WhiteWaterWriters
+
+## 13/07/23 09:28 to 10:29, Email the artists then  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
+## 13/07/23 10:29 to 11:00, Get back into Wordpress +EQT  http://github.com/equalitytime/WhiteWaterWriters
+
 ## 13/07/23 11:00 to 11:27, (C) Map project to close down dreamhost. Backup, transfer joereddington.com  https://github.com/eQualityTime/Home/issues/137 +EQT
 ## 13/07/23 11:27 to 11:37, +EQT Who do I have to contact from MIX? 
 ## 13/07/23 11:37 to 12:54, Brainstorming on electronic waste +EQT
@@ -11827,17 +11897,17 @@ down to 66
 ## 17/07/23 07:37 to 07:40,  Process this file +EQT
 ## 17/07/23 07:40 to 08:00, Reached 5 social items +EQT (ending this practice, that's NOT working 
 ## 17/07/23 09:27 to 09:31, back  +EQT
-## 17/07/23 09:31 to 10:50, Back for coding.  +EQT
+## 17/07/23 09:31 to 10:50, Back for coding.  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 ## 17/07/23 10:50 to 10:53,  Reviewing starred items  +EQT
 ## 17/07/23 10:53 to 11:37, Brainstorm Chainmail +EQT and other small tasks 
 ## 17/07/23 11:37 to 12:52, Working on army grant +EQT
 ## 17/07/23 12:52, Bike? Need a few more minutes.  
 ## 17/07/23 12:52 to 13:02, Then it's a dogfight. 
 I've done the accounts algoritm first part, It's JUST  the next bit that's annoying
-## 17/07/23 13:04 to 13:08, Okay, so setting up the OVF process +EQT 
+## 17/07/23 13:04 to 13:08, Okay, so setting up the OVF process +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
 ## 17/07/23 15:00 to 15:00, Hello.   +EQT
 Blogging is still ahrd.  
-## 17/07/23 15:00 to 15:42, Let's do 30 mintues of the thing  +EQT
+## 17/07/23 15:00 to 15:42, Let's do 30 mintues of the thing  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 Okay, I'm halfway through this code, I need to 
 ## 18/07/23 05:33 to 05:49, Back +EQT
 ## 18/07/23 05:49 to 06:50, Restarting the OVF  +EQT
@@ -11890,7 +11960,7 @@ Now - should the mario timer be part of the general 'look' of the homepage? Or p
 NA: set alarm at the end of this sprint. 
 
 ## 19/07/23 12:55 to 14:14, Delores +EQT
-## 19/07/23 14:14 to 15:02, Putting up the videos.  +EQT
+## 19/07/23 14:14 to 15:02, Putting up the videos.  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 I'm learning a lot about ffmpeg (I read the manual) 
 * Long term I don't think it replaces the need for an actual video editor - which is something I'll clearly need for Ubuntu sooner or later. 
 
@@ -11935,7 +12005,7 @@ I'm stuck working out what would make today awesome?
 ## 31/07/23 10:28 to 11:06, (A) Draft the report for Garfield Weston: https://github.com/eQualityTime/Home/issues/130 +EQT
 ## 31/07/23 11:07 to 12:29,  Talking to charity person +EQT
 ## 31/07/23 12:29 to 12:43, Back to list +EQT
-## 31/07/23 12:43 to 12:47, Backup AWS +EQT
+## 31/07/23 12:43 to 12:47, Backup AWS +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 ## 31/07/23 12:47 to 12:50,  (B) Delete the toomanycooks file on dreamhost +EQT
 ## 31/07/23 12:50 to 13:07, (B) Set goals for the summer. +EQT
 ## 31/07/23 13:07 to 14:08, (C) Move the speechful site +EQT
@@ -12032,7 +12102,8 @@ The next action is to put it through simplewriter, but I want a break
 ## 21/08/23 11:36 to 12:02, I've been looking at funding - it's NOT looking amazing.  +EQT
 
 ## 21/08/23 12:05 to 12:21, Had a break I didn't intend to
-## 21/08/23 12:21 to 12:27, +EQT fixed the password on IMPS
+## 21/08/23 12:21 to 12:27, +EQT fixed the password on IMPS http://github.com/equalitytime/WhiteWaterWriters
+
 ## 21/08/23 12:27 to 12:35, +EQT vim fix
 ## 21/08/23 12:35 to 12:45, +EQT tidying todos 
 * Downloading chrome for future things 
@@ -12072,7 +12143,7 @@ After a bit of focused checking I've got five that really work and probably eigh
 And also did a bunch of emials and stuff. It was actuallyu quite a reasonable day
 
 ## 28/08/23 11:00 to 12:00, +EQT (some guessing) fixing the desktop computer
-## 28/08/23 13:20 to 13:58, +EQT upgrading the ssh files 
+## 28/08/23 13:20 to 13:58, +EQT upgrading the ssh files  https://github.com/eQualityTime/TheOpenVoiceFactory/
 ## 28/08/23 13:59, Going to go over the todos properly and also do some good brainstorming. 
 * Setup brainstorm bin 
 * messaged a bunch of people about work stuff. 
@@ -12097,7 +12168,7 @@ WORK UNTIL ALARM
 
 Today, let's keep the option of standing desk open. 
 
-## 29/08/23 11:28 to 12:04, (C) Do all the server and so on expenses for the finantial year  +EQT
+## 29/08/23 11:28 to 12:04, (C) Do all the server and so on expenses for the finantial year  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 * Done 
 
 ## 29/08/23 12:07 to 12:39, (C) Search Tech4good in funding +EQT
