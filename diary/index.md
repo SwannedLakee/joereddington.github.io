@@ -12374,3 +12374,73 @@ sudo apt install i3
 * Getting frustrated with the Python... 
 
 ## 13/09/23 14:50 to 15:20, brainstorming +EQT
+## 13/09/23 19:44 to 20:38, I'm behind on work by 90 minutes but I want to do ebook 
+Okay, so I've: 
+* Introduced a minimum length of match 
+* Allowed the import of many more bits of text
+* Stopped markov chaining from having the same word more than once in the lists
+* forced it to have a starting word that contained at least three digits 
+
+I'm hopeful that this will make life a lot easier, but it's still slow and there are many results 
+
+
+## 13/09/23 20:45 to 20:59, Those are a lot better, a lot better, but still...  ebook 
+There's a lot of results to sort through. 
+
+For the proton mass we get "albeit one pencil had numbed" 
+
+Alright - the obvious next actions: A lot more txt files for the training. 
+* Some UI improvements - JUST show me the shortest options. 
+  * An actual script to look at 
+    * Three scripts actually - one of JUST  the words together, one of the structured sentences and one of the markov chaining so that I can have some general view on all the ones that come up. 
+* Go through the outstanding constants and see if there area any good ones that come up from this system.  
+
+So there are really four things to move forward: 
+* The book, which I want to wait on in case I can improve the code enough that the keyphrases are really good. 
+* The sophistication of the code: It already produces far too many options for me to review them myself so I'm trying to automatically eliminate some phrases
+    * Each phrase needs a scoring criteria to then sort them. 
+* The amount of text in the Markov training 
+* The code debt of the majorEncoder - it should be managing much more of the process 
+# It's weigh in day, very exciting. 
+It was 86.5 in the morning, I'm hopeful that it goes down to a new record by 11. 
+
+Food will be Yet More Nuts until tonight which will be swift stirfry 
+Exercise is the running buggy, although I could try adding an extra little run. 
+Social media I've already looked at, but I can write stuff up. 
+Exciting 
+
+## 14/09/23 05:21 to 05:51, Setting up a new startup script  +EQT
+## 14/09/23 05:54 to 06:33, Alright then, proper delores
+What would make my day awesome? 
+
+## 14/09/23 06:37 to 06:55, Processing this file  +EQT
+## 14/09/23 06:55 to 07:27, OVF  +EQT
+There was only one annoying type thing that was causing the versioning problem 
+* Discovered a missing feature if the file turns out to be empty (0 bytes) 
+* Got at 414 URI too large error with the staging so moved back to the main 
+## 14/09/23 07:27 to 08:00, I'm going to get myself ready for this function.  +EQT
+## 14/09/23 09:28 to 15:38, At Cranfield for a networking thing +EQT
+It was okay. 
+## 14/09/23 15:59 to 16:31, Back now +EQT
+(and well over my hours because of the magic of getting up at 5am) 
+ 
+Okay, so what's the angle. I've got a solid hour.  
+
+The big thinking I did today was about really focusing on a single project until it was done. Like I do with the email inbox.   
+
+I don't do it that often with the tasks, like, I don't write down a success criteria. 
+There's something in interesting about the difference between a next action and all the followup actions. Like, once a week at least I'd like to spend all day on a thing until it's completely done.  
+
+Good examples would be: Send finished accounts to Treasurer 
+
+Is 'Read chapter of book' one of the things were we can JUST  sit down with the book? 
+
+
+I started git gud and it's acutally quite fun. 
+
+
+
+
+
+## 15/09/23 07:25 to 07:37,   Doing book cover   +EQT
+## 15/09/23 07:37 to 07:59, Gid good again  +EQT
