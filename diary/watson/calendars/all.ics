@@ -21314,16 +21314,6 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Back to whatever I was doing.
-DTSTART:20220905T125000Z
-DTEND:20220905T125000Z
-DTSTAMP:20220905T125000Z
-UID:Back to whatever I was doing.2022-09-05 12:50:00+00:002022-09-05 12:50
- :00+00:00
-DESCRIPTION:
-PRIORITY:5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Email (and banking) +EQT
 DTSTART:20220905T132800Z
 DTEND:20220905T160900Z
@@ -21401,11 +21391,12 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT trustee meeintg
+SUMMARY:+EQT trustee meetintg
 DTSTART:20220906T184800Z
 DTEND:20220906T203300Z
 DTSTAMP:20220906T203300Z
-UID:+EQT trustee meeintg2022-09-06 18:48:00+00:002022-09-06 20:33:00+00:00
+UID:+EQT trustee meetintg2022-09-06 18:48:00+00:002022-09-06 20:33:00+00:0
+ 0
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -21844,34 +21835,37 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(E) Put the price calculator on the website +offline (because code
- )   +EQT
+ )   +EQT http://github.com/equalitytime/WhiteWaterWriters
 DTSTART:20220921T061600Z
 DTEND:20220921T065000Z
 DTSTAMP:20220921T065000Z
 UID:(E) Put the price calculator on the website +offline (because code)   
- +EQT2022-09-21 06:16:00+00:002022-09-21 06:50:00+00:00
+ +EQT http://github.com/equalitytime/WhiteWaterWriters2022-09-21 06:16:00+0
+ 0:002022-09-21 06:50:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(E) Put the price calculator on the website +offline (because code
- )   +EQT
+ )   +EQThttp://github.com/equalitytime/WhiteWaterWriters
 DTSTART:20220921T090000Z
 DTEND:20220921T091500Z
 DTSTAMP:20220921T091500Z
 UID:(E) Put the price calculator on the website +offline (because code)   
- +EQT2022-09-21 09:00:00+00:002022-09-21 09:15:00+00:00
+ +EQThttp://github.com/equalitytime/WhiteWaterWriters2022-09-21 09:00:00+00
+ :002022-09-21 09:15:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(E) Put the price calculator on the website +offline (because code
- )   +EQT
+ )   +EQT http://github.com/equalitytime/WhiteWaterWriters  Reviewcheck
 DTSTART:20220921T091500Z
 DTEND:20220921T105600Z
 DTSTAMP:20220921T105600Z
 UID:(E) Put the price calculator on the website +offline (because code)   
- +EQT2022-09-21 09:15:00+00:002022-09-21 10:56:00+00:00
+ +EQT http://github.com/equalitytime/WhiteWaterWriters  Reviewcheck2022-09-
+ 21 09:15:00+00:002022-09-21 10:56:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -21924,22 +21918,24 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fixed the certbot thing (I think)  +EQT
+SUMMARY:Fixed the certbot thing (I think)  +EQT http://github.com/equality
+ time/WhiteWaterWriters
 DTSTART:20220921T124400Z
 DTEND:20220921T125400Z
 DTSTAMP:20220921T125400Z
-UID:Fixed the certbot thing (I think)  +EQT2022-09-21 12:44:00+00:002022-0
- 9-21 12:54:00+00:00
+UID:Fixed the certbot thing (I think)  +EQT http://github.com/equalitytime
+ /WhiteWaterWriters2022-09-21 12:44:00+00:002022-09-21 12:54:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(B) More dreamhost migration.  +Internet +EQT
+SUMMARY:(B) More dreamhost migration.  +Internet +EQT https://github.com/e
+ QualityTime/Home/issues/137
 DTSTART:20220921T125400Z
 DTEND:20220921T135600Z
 DTSTAMP:20220921T135600Z
-UID:(B) More dreamhost migration.  +Internet +EQT2022-09-21 12:54:00+00:00
- 2022-09-21 13:56:00+00:00
+UID:(B) More dreamhost migration.  +Internet +EQT https://github.com/eQual
+ ityTime/Home/issues/1372022-09-21 12:54:00+00:002022-09-21 13:56:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -22042,11 +22038,12 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT work
+SUMMARY:+EQT work https://github.com/eQualityTime/Home/issues/137
 DTSTART:20220922T132100Z
 DTEND:20220922T144900Z
 DTSTAMP:20220922T144900Z
-UID:+EQT work2022-09-22 13:21:00+00:002022-09-22 14:49:00+00:00
+UID:+EQT work https://github.com/eQualityTime/Home/issues/1372022-09-22 13
+ :21:00+00:002022-09-22 14:49:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -22079,12 +22076,14 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(A) Review and rewrite the Tightrope document +EQT
+SUMMARY:(A) Review and rewrite the Tightrope document +EQT  https://github
+ .com/eQualityTime/Home/issues/126
 DTSTART:20220926T093700Z
 DTEND:20220926T094800Z
 DTSTAMP:20220926T094800Z
-UID:(A) Review and rewrite the Tightrope document +EQT2022-09-26 09:37:00+
- 00:002022-09-26 09:48:00+00:00
+UID:(A) Review and rewrite the Tightrope document +EQT  https://github.com
+ /eQualityTime/Home/issues/1262022-09-26 09:37:00+00:002022-09-26 09:48:00+
+ 00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -22119,22 +22118,24 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Watching Writing video +EQT
+SUMMARY:Watching Writing video +EQT http://github.com/equalitytime/WhiteWa
+ terWriters
 DTSTART:20220926T113300Z
 DTEND:20220926T115500Z
 DTSTAMP:20220926T115500Z
-UID:Watching Writing video +EQT2022-09-26 11:33:00+00:002022-09-26 11:55:0
- 0+00:00
+UID:Watching Writing video +EQT http://github.com/equalitytime/WhiteWaterW
+ riters2022-09-26 11:33:00+00:002022-09-26 11:55:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Okay So back on the publishing.   +EQT
+SUMMARY:Okay So back on the publishing.   +EQT http://github.com/equalityt
+ ime/WhiteWaterWriters
 DTSTART:20220926T115500Z
 DTEND:20220926T121800Z
 DTSTAMP:20220926T121800Z
-UID:Okay So back on the publishing.   +EQT2022-09-26 11:55:00+00:002022-09
- -26 12:18:00+00:00
+UID:Okay So back on the publishing.   +EQT http://github.com/equalitytime/
+ WhiteWaterWriters2022-09-26 11:55:00+00:002022-09-26 12:18:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -22168,11 +22169,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Publishing a book.
+SUMMARY:Publishing a book.  https://github.com/eQualityTime/Home/issues/12
+ 6 +EQT
 DTSTART:20220926T152900Z
 DTEND:20220926T154400Z
 DTSTAMP:20220926T154400Z
-UID:Publishing a book.2022-09-26 15:29:00+00:002022-09-26 15:44:00+00:00
+UID:Publishing a book.  https://github.com/eQualityTime/Home/issues/126 +E
+ QT2022-09-26 15:29:00+00:002022-09-26 15:44:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -22351,21 +22354,24 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on book  +EQT
+SUMMARY:Working on book  +EQT  http://github.com/equalitytime/WhiteWaterWr
+ iters
 DTSTART:20220929T111900Z
 DTEND:20220929T113100Z
 DTSTAMP:20220929T113100Z
-UID:Working on book  +EQT2022-09-29 11:19:00+00:002022-09-29 11:31:00+00:0
- 0
+UID:Working on book  +EQT  http://github.com/equalitytime/WhiteWaterWriter
+ s2022-09-29 11:19:00+00:002022-09-29 11:31:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on book +EQT
+SUMMARY:Working on book +EQT http://github.com/equalitytime/WhiteWaterWrit
+ ers
 DTSTART:20220929T114900Z
 DTEND:20220929T121400Z
 DTSTAMP:20220929T121400Z
-UID:Working on book +EQT2022-09-29 11:49:00+00:002022-09-29 12:14:00+00:00
+UID:Working on book +EQT http://github.com/equalitytime/WhiteWaterWriters2
+ 022-09-29 11:49:00+00:002022-09-29 12:14:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -22444,12 +22450,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT Writing a big lesson plan thing
+SUMMARY:+EQT Writing a big lesson plan thing https://github.com/eQualityTi
+ me/Home/issues/126
 DTSTART:20221003T112300Z
 DTEND:20221003T125200Z
 DTSTAMP:20221003T125200Z
-UID:+EQT Writing a big lesson plan thing2022-10-03 11:23:00+00:002022-10-0
- 3 12:52:00+00:00
+UID:+EQT Writing a big lesson plan thing https://github.com/eQualityTime/H
+ ome/issues/1262022-10-03 11:23:00+00:002022-10-03 12:52:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -22492,14 +22499,12 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working thorugh https://discourse.ubuntu.com/t/running-ubuntu-desk
- top-on-an-aws-ec2-instance/13953  +EQT
+SUMMARY:+EQT  https://github.com/eQualityTime/Public/issues/148 +OVF
 DTSTART:20221003T152000Z
 DTEND:20221003T154000Z
 DTSTAMP:20221003T154000Z
-UID:Working thorugh https://discourse.ubuntu.com/t/running-ubuntu-desktop-
- on-an-aws-ec2-instance/13953  +EQT2022-10-03 15:20:00+00:002022-10-03 15:4
- 0:00+00:00
+UID:+EQT  https://github.com/eQualityTime/Public/issues/148 +OVF2022-10-03
+  15:20:00+00:002022-10-03 15:40:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -22552,31 +22557,34 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT I've been working on the tightrope project.
+SUMMARY:+EQT I've been working on the tightrope project. https://github.co
+ m/eQualityTime/Home/issues/126
 DTSTART:20221006T090500Z
 DTEND:20221006T090500Z
 DTSTAMP:20221006T090500Z
-UID:+EQT I've been working on the tightrope project.2022-10-06 09:05:00+00
- :002022-10-06 09:05:00+00:00
+UID:+EQT I've been working on the tightrope project. https://github.com/eQ
+ ualityTime/Home/issues/1262022-10-06 09:05:00+00:002022-10-06 09:05:00+00:
+ 00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT OpenVoiceFactory bug  +EQT
+SUMMARY:+EQT +OpenVoiceFactory bug  +EQT  https://github.com/eQualityTime/
+ Public/issues/148
 DTSTART:20221006T120800Z
 DTEND:20221006T134700Z
 DTSTAMP:20221006T134700Z
-UID:+EQT OpenVoiceFactory bug  +EQT2022-10-06 12:08:00+00:002022-10-06 13:
- 47:00+00:00
+UID:+EQT +OpenVoiceFactory bug  +EQT  https://github.com/eQualityTime/Publ
+ ic/issues/1482022-10-06 12:08:00+00:002022-10-06 13:47:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT
+SUMMARY:emails  +EQT
 DTSTART:20221006T134700Z
 DTEND:20221006T144300Z
 DTSTAMP:20221006T144300Z
-UID:+EQT2022-10-06 13:47:00+00:002022-10-06 14:43:00+00:00
+UID:emails  +EQT2022-10-06 13:47:00+00:002022-10-06 14:43:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -22619,12 +22627,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT AWS backup scripts
+SUMMARY:+EQT AWS backup scripts   https://github.com/eQualityTime/Public/i
+ ssues/148
 DTSTART:20221010T082900Z
 DTEND:20221010T095100Z
 DTSTAMP:20221010T095100Z
-UID:+EQT AWS backup scripts2022-10-10 08:29:00+00:002022-10-10 09:51:00+00
- :00
+UID:+EQT AWS backup scripts   https://github.com/eQualityTime/Public/issue
+ s/1482022-10-10 08:29:00+00:002022-10-10 09:51:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -22659,12 +22668,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT Meeting  with Yvonne and Dan
+SUMMARY:+EQT Meeting  with Yvonne and Dan  https://github.com/eQualityTime
+ /Public/issues/124
 DTSTART:20221010T130000Z
 DTEND:20221010T143000Z
 DTSTAMP:20221010T143000Z
-UID:+EQT Meeting  with Yvonne and Dan2022-10-10 13:00:00+00:002022-10-10 1
- 4:30:00+00:00
+UID:+EQT Meeting  with Yvonne and Dan  https://github.com/eQualityTime/Pub
+ lic/issues/1242022-10-10 13:00:00+00:002022-10-10 14:30:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -22725,12 +22735,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Meeting pitching Tightrope  +EQT
+SUMMARY:Meeting pitching Tightrope  +EQT https://github.com/eQualityTime/H
+ ome/issues/126
 DTSTART:20221011T130000Z
 DTEND:20221011T133400Z
 DTSTAMP:20221011T133400Z
-UID:Meeting pitching Tightrope  +EQT2022-10-11 13:00:00+00:002022-10-11 13
- :34:00+00:00
+UID:Meeting pitching Tightrope  +EQT https://github.com/eQualityTime/Home/
+ issues/1262022-10-11 13:00:00+00:002022-10-11 13:34:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -22754,12 +22765,14 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(B) Backup the CK downloads folder on dreamhost +EQT
+SUMMARY:(B) Backup the CK downloads folder on dreamhost +EQT https://githu
+ b.com/eQualityTime/TheOpenVoiceFactory/
 DTSTART:20221012T083400Z
 DTEND:20221012T085500Z
 DTSTAMP:20221012T085500Z
-UID:(B) Backup the CK downloads folder on dreamhost +EQT2022-10-12 08:34:0
- 0+00:002022-10-12 08:55:00+00:00
+UID:(B) Backup the CK downloads folder on dreamhost +EQT https://github.co
+ m/eQualityTime/TheOpenVoiceFactory/2022-10-12 08:34:00+00:002022-10-12 08:
+ 55:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -22794,12 +22807,13 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bring the OVF code up to date. Let's have a look . +EQT +OpenVoice
- Factory
+ Factory   https://github.com/eQualityTime/TheOpenVoiceFactory/
 DTSTART:20221012T123600Z
 DTEND:20221012T133700Z
 DTSTAMP:20221012T133700Z
 UID:Bring the OVF code up to date. Let's have a look . +EQT +OpenVoiceFact
- ory2022-10-12 12:36:00+00:002022-10-12 13:37:00+00:00
+ ory   https://github.com/eQualityTime/TheOpenVoiceFactory/2022-10-12 12:36
+ :00+00:002022-10-12 13:37:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -22813,22 +22827,24 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT OVF code again   +OpenVoiceFactory
+SUMMARY:+EQT OVF code again   +OpenVoiceFactory  https://github.com/eQuali
+ tyTime/TheOpenVoiceFactory/
 DTSTART:20221012T140400Z
 DTEND:20221012T144800Z
 DTSTAMP:20221012T144800Z
-UID:+EQT OVF code again   +OpenVoiceFactory2022-10-12 14:04:00+00:002022-1
- 0-12 14:48:00+00:00
+UID:+EQT OVF code again   +OpenVoiceFactory  https://github.com/eQualityTi
+ me/TheOpenVoiceFactory/2022-10-12 14:04:00+00:002022-10-12 14:48:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT OVF code again +OpenVoiceFactory
+SUMMARY:+EQT OVF code again +OpenVoiceFactor https://github.com/eQualityTi
+ me/TheOpenVoiceFactory/y
 DTSTART:20221012T190700Z
 DTEND:20221012T190800Z
 DTSTAMP:20221012T190800Z
-UID:+EQT OVF code again +OpenVoiceFactory2022-10-12 19:07:00+00:002022-10-
- 12 19:08:00+00:00
+UID:+EQT OVF code again +OpenVoiceFactor https://github.com/eQualityTime/T
+ heOpenVoiceFactory/y2022-10-12 19:07:00+00:002022-10-12 19:08:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -22853,21 +22869,22 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Networking day +EQT
+SUMMARY:networking day +EQT
 DTSTART:20221013T104800Z
 DTEND:20221013T222000Z
 DTSTAMP:20221013T222000Z
-UID:Networking day +EQT2022-10-13 10:48:00+00:002022-10-13 22:20:00+00:00
+UID:networking day +EQT2022-10-13 10:48:00+00:002022-10-13 22:20:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on the Security Project +EQT
+SUMMARY:Working on the Security Project +EQT  https://github.com/eQualityT
+ ime/Home/issues/126
 DTSTART:20221017T084000Z
 DTEND:20221017T094200Z
 DTSTAMP:20221017T094200Z
-UID:Working on the Security Project +EQT2022-10-17 08:40:00+00:002022-10-1
- 7 09:42:00+00:00
+UID:Working on the Security Project +EQT  https://github.com/eQualityTime/
+ Home/issues/1262022-10-17 08:40:00+00:002022-10-17 09:42:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -22971,12 +22988,13 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(B) Review school mail merge  on: https://github.com/eQualityTime/
- Home/issues/115 +EQT
+ Home/issues/115 +EQT http://github.com/equalitytime/WhiteWaterWriters
 DTSTART:20221017T133100Z
 DTEND:20221017T142200Z
 DTSTAMP:20221017T142200Z
 UID:(B) Review school mail merge  on: https://github.com/eQualityTime/Home
- /issues/115 +EQT2022-10-17 13:31:00+00:002022-10-17 14:22:00+00:00
+ /issues/115 +EQT http://github.com/equalitytime/WhiteWaterWriters2022-10-1
+ 7 13:31:00+00:002022-10-17 14:22:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23036,12 +23054,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rolling Google ads project. +EQT
+SUMMARY:Rolling Google ads project. +EQT  http://github.com/equalitytime/W
+ hiteWaterWriters
 DTSTART:20221018T134800Z
 DTEND:20221018T145200Z
 DTSTAMP:20221018T145200Z
-UID:Rolling Google ads project. +EQT2022-10-18 13:48:00+00:002022-10-18 14
- :52:00+00:00
+UID:Rolling Google ads project. +EQT  http://github.com/equalitytime/White
+ WaterWriters2022-10-18 13:48:00+00:002022-10-18 14:52:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23096,32 +23115,35 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:More on Google analytics +EQT
+SUMMARY:More on Google analytics +EQT  https://github.com/eQualityTime/The
+ OpenVoiceFactory/
 DTSTART:20221019T130500Z
 DTEND:20221019T133100Z
 DTSTAMP:20221019T133100Z
-UID:More on Google analytics +EQT2022-10-19 13:05:00+00:002022-10-19 13:31
- :00+00:00
+UID:More on Google analytics +EQT  https://github.com/eQualityTime/TheOpen
+ VoiceFactory/2022-10-19 13:05:00+00:002022-10-19 13:31:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:More on the Google analtics  +EQT
+SUMMARY:More on the Google analtics  +EQT   https://github.com/eQualityTim
+ e/TheOpenVoiceFactory/
 DTSTART:20221020T052500Z
 DTEND:20221020T063900Z
 DTSTAMP:20221020T063900Z
-UID:More on the Google analtics  +EQT2022-10-20 05:25:00+00:002022-10-20 0
- 6:39:00+00:00
+UID:More on the Google analtics  +EQT   https://github.com/eQualityTime/Th
+ eOpenVoiceFactory/2022-10-20 05:25:00+00:002022-10-20 06:39:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:More on Google analytics  +EQT
+SUMMARY:More on Google analytics  +EQT https://github.com/eQualityTime/The
+ OpenVoiceFactory/
 DTSTART:20221020T083200Z
 DTEND:20221020T100300Z
 DTSTAMP:20221020T100300Z
-UID:More on Google analytics  +EQT2022-10-20 08:32:00+00:002022-10-20 10:0
- 3:00+00:00
+UID:More on Google analytics  +EQT https://github.com/eQualityTime/TheOpen
+ VoiceFactory/2022-10-20 08:32:00+00:002022-10-20 10:03:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23154,11 +23176,12 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tightrope +EQT
+SUMMARY:Tightrope +EQT https://github.com/eQualityTime/Home/issues/126
 DTSTART:20221020T140900Z
 DTEND:20221020T145500Z
 DTSTAMP:20221020T145500Z
-UID:Tightrope +EQT2022-10-20 14:09:00+00:002022-10-20 14:55:00+00:00
+UID:Tightrope +EQT https://github.com/eQualityTime/Home/issues/1262022-10-
+ 20 14:09:00+00:002022-10-20 14:55:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23173,12 +23196,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT call from 6th form
+SUMMARY:+EQT call from 6th form https://github.com/eQualityTime/Home/issue
+ s/126
 DTSTART:20221022T130000Z
 DTEND:20221022T140000Z
 DTSTAMP:20221022T140000Z
-UID:+EQT call from 6th form2022-10-22 13:00:00+00:002022-10-22 14:00:00+00
- :00
+UID:+EQT call from 6th form https://github.com/eQualityTime/Home/issues/12
+ 62022-10-22 13:00:00+00:002022-10-22 14:00:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23242,12 +23266,13 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Working on Google Ads https://github.com/eQualityTime/Public/issue
- s/164  +EQT
+ s/164  +EQT http://github.com/equalitytime/WhiteWaterWriters
 DTSTART:20221024T114600Z
 DTEND:20221024T120900Z
 DTSTAMP:20221024T120900Z
 UID:Working on Google Ads https://github.com/eQualityTime/Public/issues/16
- 4  +EQT2022-10-24 11:46:00+00:002022-10-24 12:09:00+00:00
+ 4  +EQT http://github.com/equalitytime/WhiteWaterWriters2022-10-24 11:46:0
+ 0+00:002022-10-24 12:09:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23261,11 +23286,12 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chainmail +EQT
+SUMMARY:Chainmail +EQT http://github.com/equalitytime/WhiteWaterWriters
 DTSTART:20221025T055600Z
 DTEND:20221025T065200Z
 DTSTAMP:20221025T065200Z
-UID:Chainmail +EQT2022-10-25 05:56:00+00:002022-10-25 06:52:00+00:00
+UID:Chainmail +EQT http://github.com/equalitytime/WhiteWaterWriters2022-10
+ -25 05:56:00+00:002022-10-25 06:52:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23413,12 +23439,14 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Time for the google ads experiment  +EQT +openvoicefactory
+SUMMARY:Time for the google ads experiment  +EQT +openvoicefactory https:/
+ /github.com/eQualityTime/TheOpenVoiceFactory/
 DTSTART:20221031T100700Z
 DTEND:20221031T102600Z
 DTSTAMP:20221031T102600Z
-UID:Time for the google ads experiment  +EQT +openvoicefactory2022-10-31 1
- 0:07:00+00:002022-10-31 10:26:00+00:00
+UID:Time for the google ads experiment  +EQT +openvoicefactory https://git
+ hub.com/eQualityTime/TheOpenVoiceFactory/2022-10-31 10:07:00+00:002022-10-
+ 31 10:26:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23455,12 +23483,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on +openvoicefactory +EQT tasks
+SUMMARY:Working on +openvoicefactory +EQT tasks  https://github.com/eQuali
+ tyTime/TheOpenVoiceFactory/
 DTSTART:20221031T135900Z
 DTEND:20221031T154000Z
 DTSTAMP:20221031T154000Z
-UID:Working on +openvoicefactory +EQT tasks2022-10-31 13:59:00+00:002022-1
- 0-31 15:40:00+00:00
+UID:Working on +openvoicefactory +EQT tasks  https://github.com/eQualityTi
+ me/TheOpenVoiceFactory/2022-10-31 13:59:00+00:002022-10-31 15:40:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23496,11 +23525,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:I'm here.
+SUMMARY:I'm here.  +EQT https://github.com/eQualityTime/TheOpenVoiceFactor
+ y/
 DTSTART:20221102T065000Z
 DTEND:20221102T075000Z
 DTSTAMP:20221102T075000Z
-UID:I'm here.2022-11-02 06:50:00+00:002022-11-02 07:50:00+00:00
+UID:I'm here.  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/20
+ 22-11-02 06:50:00+00:002022-11-02 07:50:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23515,40 +23546,46 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on OpenVoiceFactory manuals +EQT
+SUMMARY:Working on OpenVoiceFactory manuals +EQT  https://github.com/eQual
+ ityTime/TheOpenVoiceFactory/
 DTSTART:20221102T105600Z
 DTEND:20221102T121800Z
 DTSTAMP:20221102T121800Z
-UID:Working on OpenVoiceFactory manuals +EQT2022-11-02 10:56:00+00:002022-
- 11-02 12:18:00+00:00
+UID:Working on OpenVoiceFactory manuals +EQT  https://github.com/eQualityT
+ ime/TheOpenVoiceFactory/2022-11-02 10:56:00+00:002022-11-02 12:18:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WWW again +EQT
+SUMMARY:WWW again +EQT http://github.com/equalitytime/WhiteWaterWriters
 DTSTART:20221102T121800Z
 DTEND:20221102T130200Z
 DTSTAMP:20221102T130200Z
-UID:WWW again +EQT2022-11-02 12:18:00+00:002022-11-02 13:02:00+00:00
+UID:WWW again +EQT http://github.com/equalitytime/WhiteWaterWriters2022-11
+ -02 12:18:00+00:002022-11-02 13:02:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Back to OVF +EQT
+SUMMARY:Back to OVF +EQT  https://github.com/eQualityTime/TheOpenVoiceFact
+ ory/
 DTSTART:20221102T130800Z
 DTEND:20221102T133300Z
 DTSTAMP:20221102T133300Z
-UID:Back to OVF +EQT2022-11-02 13:08:00+00:002022-11-02 13:33:00+00:00
+UID:Back to OVF +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
+ 2022-11-02 13:08:00+00:002022-11-02 13:33:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Moving forward with tests and stuff.  +EQT
+SUMMARY:Moving forward with tests and stuff.  +EQT https://github.com/eQua
+ lityTime/TheOpenVoiceFactory/
 DTSTART:20221102T133300Z
 DTEND:20221102T162900Z
 DTSTAMP:20221102T162900Z
-UID:Moving forward with tests and stuff.  +EQT2022-11-02 13:33:00+00:00202
- 2-11-02 16:29:00+00:00
+UID:Moving forward with tests and stuff.  +EQT https://github.com/eQuality
+ Time/TheOpenVoiceFactory/2022-11-02 13:33:00+00:002022-11-02 16:29:00+00:0
+ 0
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23599,12 +23636,14 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:It's a working day. Let's see what we can do...  +EQT
+SUMMARY:It's a working day. Let's see what we can do...  +EQT https://gith
+ ub.com/eQualityTime/Home/issues/120
 DTSTART:20221107T034200Z
 DTEND:20221107T042900Z
 DTSTAMP:20221107T042900Z
-UID:It's a working day. Let's see what we can do...  +EQT2022-11-07 03:42:
- 00+00:002022-11-07 04:29:00+00:00
+UID:It's a working day. Let's see what we can do...  +EQT https://github.c
+ om/eQualityTime/Home/issues/1202022-11-07 03:42:00+00:002022-11-07 04:29:0
+ 0+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23619,11 +23658,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:More Dropbox   +EQT
+SUMMARY:More Dropbox   +EQT  https://github.com/eQualityTime/Home/issues/1
+ 20
 DTSTART:20221107T052500Z
 DTEND:20221107T053400Z
 DTSTAMP:20221107T053400Z
-UID:More Dropbox   +EQT2022-11-07 05:25:00+00:002022-11-07 05:34:00+00:00
+UID:More Dropbox   +EQT  https://github.com/eQualityTime/Home/issues/12020
+ 22-11-07 05:25:00+00:002022-11-07 05:34:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23658,22 +23699,25 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Back - social media and working on manual.+OpenVoiceFactory  +EQT
+SUMMARY:Back - social media and working on manual.+OpenVoiceFactory  +EQT 
+ https://github.com/eQualityTime/TheOpenVoiceFactory/
 DTSTART:20221107T094500Z
 DTEND:20221107T111600Z
 DTSTAMP:20221107T111600Z
-UID:Back - social media and working on manual.+OpenVoiceFactory  +EQT2022-
- 11-07 09:45:00+00:002022-11-07 11:16:00+00:00
+UID:Back - social media and working on manual.+OpenVoiceFactory  +EQT http
+ s://github.com/eQualityTime/TheOpenVoiceFactory/2022-11-07 09:45:00+00:002
+ 022-11-07 11:16:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on Manual +openvoicefactory +EQT
+SUMMARY:Working on Manual +openvoicefactory +EQT https://github.com/eQuali
+ tyTime/TheOpenVoiceFactory/
 DTSTART:20221108T055000Z
 DTEND:20221108T061400Z
 DTSTAMP:20221108T061400Z
-UID:Working on Manual +openvoicefactory +EQT2022-11-08 05:50:00+00:002022-
- 11-08 06:14:00+00:00
+UID:Working on Manual +openvoicefactory +EQT https://github.com/eQualityTi
+ me/TheOpenVoiceFactory/2022-11-08 05:50:00+00:002022-11-08 06:14:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23698,12 +23742,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Manual again +openvoicefactory +EQT
+SUMMARY:Manual again +openvoicefactory +EQT https://github.com/eQualityTim
+ e/TheOpenVoiceFactory/
 DTSTART:20221108T065600Z
 DTEND:20221108T070800Z
 DTSTAMP:20221108T070800Z
-UID:Manual again +openvoicefactory +EQT2022-11-08 06:56:00+00:002022-11-08
-  07:08:00+00:00
+UID:Manual again +openvoicefactory +EQT https://github.com/eQualityTime/Th
+ eOpenVoiceFactory/2022-11-08 06:56:00+00:002022-11-08 07:08:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23718,21 +23763,24 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on code +EQT
+SUMMARY:Working on code +EQT https://github.com/eQualityTime/TheOpenVoiceF
+ actory/
 DTSTART:20221108T094000Z
 DTEND:20221108T095700Z
 DTSTAMP:20221108T095700Z
-UID:Working on code +EQT2022-11-08 09:40:00+00:002022-11-08 09:57:00+00:00
+UID:Working on code +EQT https://github.com/eQualityTime/TheOpenVoiceFacto
+ ry/2022-11-08 09:40:00+00:002022-11-08 09:57:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Emailing potential artsits +EQT
+SUMMARY:Emailing potential artsits +EQT http://github.com/equalitytime/Whi
+ teWaterWriters
 DTSTART:20221108T095700Z
 DTEND:20221108T115900Z
 DTSTAMP:20221108T115900Z
-UID:Emailing potential artsits +EQT2022-11-08 09:57:00+00:002022-11-08 11:
- 59:00+00:00
+UID:Emailing potential artsits +EQT http://github.com/equalitytime/WhiteWa
+ terWriters2022-11-08 09:57:00+00:002022-11-08 11:59:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23757,12 +23805,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Okay\, two hour figthing thing.  +EQT
+SUMMARY:Okay\, two hour figthing thing.  +EQT https://github.com/eQualityT
+ ime/Public/issues/163
 DTSTART:20221108T134400Z
 DTEND:20221108T155300Z
 DTSTAMP:20221108T155300Z
-UID:Okay\, two hour figthing thing.  +EQT2022-11-08 13:44:00+00:002022-11-
- 08 15:53:00+00:00
+UID:Okay\, two hour figthing thing.  +EQT https://github.com/eQualityTime/
+ Public/issues/1632022-11-08 13:44:00+00:002022-11-08 15:53:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23797,12 +23846,14 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Building Domesday site. +TheOpenVoiceFactory (ish) +EQT
+SUMMARY:Building Domesday site. +TheOpenVoiceFactory (ish) +EQT https://gi
+ thub.com/eQualityTime/TheOpenVoiceFactory/
 DTSTART:20221109T065000Z
 DTEND:20221109T072600Z
 DTSTAMP:20221109T072600Z
-UID:Building Domesday site. +TheOpenVoiceFactory (ish) +EQT2022-11-09 06:5
- 0:00+00:002022-11-09 07:26:00+00:00
+UID:Building Domesday site. +TheOpenVoiceFactory (ish) +EQT https://github
+ .com/eQualityTime/TheOpenVoiceFactory/2022-11-09 06:50:00+00:002022-11-09 
+ 07:26:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23835,22 +23886,25 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+OpenVoiceFactory +EQT
+SUMMARY:+OpenVoiceFactory +EQT https://github.com/eQualityTime/TheOpenVoic
+ eFactory/
 DTSTART:20221109T102600Z
 DTEND:20221109T103400Z
 DTSTAMP:20221109T103400Z
-UID:+OpenVoiceFactory +EQT2022-11-09 10:26:00+00:002022-11-09 10:34:00+00:
- 00
+UID:+OpenVoiceFactory +EQT https://github.com/eQualityTime/TheOpenVoiceFac
+ tory/2022-11-09 10:26:00+00:002022-11-09 10:34:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Google ads for Open Voice Factory +EQT +OpenVoiceFactory
+SUMMARY:Google ads for Open Voice Factory +EQT +OpenVoiceFactory https://g
+ ithub.com/eQualityTime/TheOpenVoiceFactory/
 DTSTART:20221109T103400Z
 DTEND:20221109T113600Z
 DTSTAMP:20221109T113600Z
-UID:Google ads for Open Voice Factory +EQT +OpenVoiceFactory2022-11-09 10:
- 34:00+00:002022-11-09 11:36:00+00:00
+UID:Google ads for Open Voice Factory +EQT +OpenVoiceFactory https://githu
+ b.com/eQualityTime/TheOpenVoiceFactory/2022-11-09 10:34:00+00:002022-11-09
+  11:36:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23865,12 +23919,14 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trying new OVF commits on server  +OpenVoiceFactory  +EQT
+SUMMARY:Trying new OVF commits on server  +OpenVoiceFactory  +EQT https://
+ github.com/eQualityTime/TheOpenVoiceFactory/
 DTSTART:20221109T114300Z
 DTEND:20221109T121200Z
 DTSTAMP:20221109T121200Z
-UID:Trying new OVF commits on server  +OpenVoiceFactory  +EQT2022-11-09 11
- :43:00+00:002022-11-09 12:12:00+00:00
+UID:Trying new OVF commits on server  +OpenVoiceFactory  +EQT https://gith
+ ub.com/eQualityTime/TheOpenVoiceFactory/2022-11-09 11:43:00+00:002022-11-0
+ 9 12:12:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -23893,12 +23949,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+OpenVoiceFactory again  +EQT
+SUMMARY:+OpenVoiceFactory again  +EQT https://github.com/eQualityTime/TheO
+ penVoiceFactory/
 DTSTART:20221109T130500Z
 DTEND:20221109T133400Z
 DTSTAMP:20221109T133400Z
-UID:+OpenVoiceFactory again  +EQT2022-11-09 13:05:00+00:002022-11-09 13:34
- :00+00:00
+UID:+OpenVoiceFactory again  +EQT https://github.com/eQualityTime/TheOpenV
+ oiceFactory/2022-11-09 13:05:00+00:002022-11-09 13:34:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24000,11 +24057,12 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Analyics +EQT
+SUMMARY:Analyics +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 DTSTART:20221114T075500Z
 DTEND:20221114T075500Z
 DTSTAMP:20221114T075500Z
-UID:Analyics +EQT2022-11-14 07:55:00+00:002022-11-14 07:55:00+00:00
+UID:Analyics +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/2022
+ -11-14 07:55:00+00:002022-11-14 07:55:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24018,12 +24076,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT git and php testing  +EQT
+SUMMARY:+EQT git and php testing  +EQT http://github.com/equalitytime/Whit
+ eWaterWriters
 DTSTART:20221114T123900Z
 DTEND:20221114T161000Z
 DTSTAMP:20221114T161000Z
-UID:+EQT git and php testing  +EQT2022-11-14 12:39:00+00:002022-11-14 16:1
- 0:00+00:00
+UID:+EQT git and php testing  +EQT http://github.com/equalitytime/WhiteWat
+ erWriters2022-11-14 12:39:00+00:002022-11-14 16:10:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24038,32 +24097,35 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trying php on server   +EQT
+SUMMARY:Trying php on server   +EQT http://github.com/equalitytime/WhiteWa
+ terWriters
 DTSTART:20221115T065800Z
 DTEND:20221115T073000Z
 DTSTAMP:20221115T073000Z
-UID:Trying php on server   +EQT2022-11-15 06:58:00+00:002022-11-15 07:30:0
- 0+00:00
+UID:Trying php on server   +EQT http://github.com/equalitytime/WhiteWaterW
+ riters2022-11-15 06:58:00+00:002022-11-15 07:30:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bought a safe  +EQT +tightrope
+SUMMARY:Bought a safe  +EQT +tightrope https://github.com/eQualityTime/Hom
+ e/issues/126
 DTSTART:20221115T073000Z
 DTEND:20221115T075900Z
 DTSTAMP:20221115T075900Z
-UID:Bought a safe  +EQT +tightrope2022-11-15 07:30:00+00:002022-11-15 07:5
- 9:00+00:00
+UID:Bought a safe  +EQT +tightrope https://github.com/eQualityTime/Home/is
+ sues/1262022-11-15 07:30:00+00:002022-11-15 07:59:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fixing the chainmail code for MATs +EQT
+SUMMARY:Fixing the chainmail code for MATs +EQT http://github.com/equality
+ time/WhiteWaterWriters
 DTSTART:20221115T100000Z
 DTEND:20221115T113100Z
 DTSTAMP:20221115T113100Z
-UID:Fixing the chainmail code for MATs +EQT2022-11-15 10:00:00+00:002022-1
- 1-15 11:31:00+00:00
+UID:Fixing the chainmail code for MATs +EQT http://github.com/equalitytime
+ /WhiteWaterWriters2022-11-15 10:00:00+00:002022-11-15 11:31:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24114,11 +24176,12 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:chainmail +EQT
+SUMMARY:chainmail +EQT  http://github.com/equalitytime/WhiteWaterWriters
 DTSTART:20221116T070200Z
 DTEND:20221116T075900Z
 DTSTAMP:20221116T075900Z
-UID:chainmail +EQT2022-11-16 07:02:00+00:002022-11-16 07:59:00+00:00
+UID:chainmail +EQT  http://github.com/equalitytime/WhiteWaterWriters2022-1
+ 1-16 07:02:00+00:002022-11-16 07:59:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24132,11 +24195,11 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:finishing mail +EQT
+SUMMARY:finishing email +EQT
 DTSTART:20221116T103500Z
 DTEND:20221116T113000Z
 DTSTAMP:20221116T113000Z
-UID:finishing mail +EQT2022-11-16 10:35:00+00:002022-11-16 11:30:00+00:00
+UID:finishing email +EQT2022-11-16 10:35:00+00:002022-11-16 11:30:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24161,11 +24224,11 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wiping out the eamils +EQT
+SUMMARY:Wiping out the emails +EQT
 DTSTART:20221117T132500Z
 DTEND:20221117T161300Z
 DTSTAMP:20221117T161300Z
-UID:Wiping out the eamils +EQT2022-11-17 13:25:00+00:002022-11-17 16:13:00
+UID:Wiping out the emails +EQT2022-11-17 13:25:00+00:002022-11-17 16:13:00
  +00:00
 DESCRIPTION:
 PRIORITY:5
@@ -24231,22 +24294,24 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Call about tightrope +EQT
+SUMMARY:Call about tightrope +EQT https://github.com/eQualityTime/Home/iss
+ ues/126
 DTSTART:20221118T120500Z
 DTEND:20221118T122500Z
 DTSTAMP:20221118T122500Z
-UID:Call about tightrope +EQT2022-11-18 12:05:00+00:002022-11-18 12:25:00+
- 00:00
+UID:Call about tightrope +EQT https://github.com/eQualityTime/Home/issues/
+ 1262022-11-18 12:05:00+00:002022-11-18 12:25:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT  Strodes College for session.  +tightrope
+SUMMARY:+EQT  Strodes College for session.  +tightrope https://github.com/
+ eQualityTime/Home/issues/126
 DTSTART:20221121T051000Z
 DTEND:20221121T153000Z
 DTSTAMP:20221121T153000Z
-UID:+EQT  Strodes College for session.  +tightrope2022-11-21 05:10:00+00:0
- 02022-11-21 15:30:00+00:00
+UID:+EQT  Strodes College for session.  +tightrope https://github.com/eQua
+ lityTime/Home/issues/1262022-11-21 05:10:00+00:002022-11-21 15:30:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24270,12 +24335,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rushing back home to fix a bug +EQT +WWW
+SUMMARY:Rushing back home to fix a bug +EQT +WWW http://github.com/equalit
+ ytime/WhiteWaterWriters
 DTSTART:20221122T100000Z
 DTEND:20221122T121000Z
 DTSTAMP:20221122T121000Z
-UID:Rushing back home to fix a bug +EQT +WWW2022-11-22 10:00:00+00:002022-
- 11-22 12:10:00+00:00
+UID:Rushing back home to fix a bug +EQT +WWW http://github.com/equalitytim
+ e/WhiteWaterWriters2022-11-22 10:00:00+00:002022-11-22 12:10:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24290,12 +24356,14 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(A) Rewrite the next session for strodes +EQT https://github.com/e
- QualityTime/Home/issues/126
+ QualityTime/Home/issues/126 https://github.com/eQualityTime/Home/issues/12
+ 6
 DTSTART:20221122T160800Z
 DTEND:20221122T163000Z
 DTSTAMP:20221122T163000Z
 UID:(A) Rewrite the next session for strodes +EQT https://github.com/eQual
- ityTime/Home/issues/1262022-11-22 16:08:00+00:002022-11-22 16:30:00+00:00
+ ityTime/Home/issues/126 https://github.com/eQualityTime/Home/issues/126202
+ 2-11-22 16:08:00+00:002022-11-22 16:30:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24309,32 +24377,35 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rewriting the Strodes slides
+SUMMARY:Rewriting the Strodes slides https://github.com/eQualityTime/Home/
+ issues/126
 DTSTART:20221123T072200Z
 DTEND:20221123T072200Z
 DTSTAMP:20221123T072200Z
-UID:Rewriting the Strodes slides2022-11-23 07:22:00+00:002022-11-23 07:22:
- 00+00:00
+UID:Rewriting the Strodes slides https://github.com/eQualityTime/Home/issu
+ es/1262022-11-23 07:22:00+00:002022-11-23 07:22:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on Next tightrope slides.  +EQT
+SUMMARY:Working on Next tightrope slides.  +EQT https://github.com/eQualit
+ yTime/Home/issues/126
 DTSTART:20221123T073900Z
 DTEND:20221123T075800Z
 DTSTAMP:20221123T075800Z
-UID:Working on Next tightrope slides.  +EQT2022-11-23 07:39:00+00:002022-1
- 1-23 07:58:00+00:00
+UID:Working on Next tightrope slides.  +EQT https://github.com/eQualityTim
+ e/Home/issues/1262022-11-23 07:39:00+00:002022-11-23 07:58:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rewriting next tightrope sessions.  +EQT
+SUMMARY:Rewriting next tightrope sessions.  +EQT https://github.com/eQuali
+ tyTime/Home/issues/126
 DTSTART:20221123T111400Z
 DTEND:20221123T122300Z
 DTSTAMP:20221123T122300Z
-UID:Rewriting next tightrope sessions.  +EQT2022-11-23 11:14:00+00:002022-
- 11-23 12:23:00+00:00
+UID:Rewriting next tightrope sessions.  +EQT https://github.com/eQualityTi
+ me/Home/issues/1262022-11-23 11:14:00+00:002022-11-23 12:23:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24349,12 +24420,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Reviewing dropbox policies +EQT
+SUMMARY:Reviewing dropbox policies +EQT https://github.com/eQualityTime/Ho
+ me/issues/120
 DTSTART:20221123T152900Z
 DTEND:20221123T160000Z
 DTSTAMP:20221123T160000Z
-UID:Reviewing dropbox policies +EQT2022-11-23 15:29:00+00:002022-11-23 16:
- 00:00+00:00
+UID:Reviewing dropbox policies +EQT https://github.com/eQualityTime/Home/i
+ ssues/1202022-11-23 15:29:00+00:002022-11-23 16:00:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24369,12 +24441,14 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wrote a missing children request for Tightrope
+SUMMARY:Wrote a missing children request for Tightrope  https://github.com
+ /eQualityTime/Home/issues/126
 DTSTART:20221124T064300Z
 DTEND:20221124T072000Z
 DTSTAMP:20221124T072000Z
-UID:Wrote a missing children request for Tightrope2022-11-24 06:43:00+00:0
- 02022-11-24 07:20:00+00:00
+UID:Wrote a missing children request for Tightrope  https://github.com/eQu
+ alityTime/Home/issues/1262022-11-24 06:43:00+00:002022-11-24 07:20:00+00:0
+ 0
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24409,12 +24483,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:creating mail merge Followup sheet.  +EQT
+SUMMARY:creating mail merge Followup sheet.  +EQT http://github.com/equali
+ tytime/WhiteWaterWriters
 DTSTART:20221124T152700Z
 DTEND:20221124T154100Z
 DTSTAMP:20221124T154100Z
-UID:creating mail merge Followup sheet.  +EQT2022-11-24 15:27:00+00:002022
- -11-24 15:41:00+00:00
+UID:creating mail merge Followup sheet.  +EQT http://github.com/equalityti
+ me/WhiteWaterWriters2022-11-24 15:27:00+00:002022-11-24 15:41:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24497,12 +24572,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT trip out to egham
+SUMMARY:+EQT trip out to egham  https://github.com/eQualityTime/Home/issue
+ s/126
 DTSTART:20221205T050000Z
 DTEND:20221205T152600Z
 DTSTAMP:20221205T152600Z
-UID:+EQT trip out to egham2022-12-05 05:00:00+00:002022-12-05 15:26:00+00:
- 00
+UID:+EQT trip out to egham  https://github.com/eQualityTime/Home/issues/12
+ 62022-12-05 05:00:00+00:002022-12-05 15:26:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24545,12 +24621,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(A) Typeset Prison Book  +EQT
+SUMMARY:(A) Typeset Prison Book  +EQT http://github.com/equalitytime/White
+ WaterWriters
 DTSTART:20221206T143700Z
 DTEND:20221206T160000Z
 DTSTAMP:20221206T160000Z
-UID:(A) Typeset Prison Book  +EQT2022-12-06 14:37:00+00:002022-12-06 16:00
- :00+00:00
+UID:(A) Typeset Prison Book  +EQT http://github.com/equalitytime/WhiteWate
+ rWriters2022-12-06 14:37:00+00:002022-12-06 16:00:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24603,12 +24680,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT meeting at Luton Irish Centre.
+SUMMARY:+EQT meeting at Luton Irish Centre. https://github.com/eQualityTim
+ e/Public/issues/165
 DTSTART:20221207T120000Z
 DTEND:20221207T130000Z
 DTSTAMP:20221207T130000Z
-UID:+EQT meeting at Luton Irish Centre.2022-12-07 12:00:00+00:002022-12-07
-  13:00:00+00:00
+UID:+EQT meeting at Luton Irish Centre. https://github.com/eQualityTime/Pu
+ blic/issues/1652022-12-07 12:00:00+00:002022-12-07 13:00:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24632,12 +24710,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on the prison book +EQT
+SUMMARY:Working on the prison book +EQT  http://github.com/equalitytime/Wh
+ iteWaterWriters
 DTSTART:20221208T064500Z
 DTEND:20221208T072400Z
 DTSTAMP:20221208T072400Z
-UID:Working on the prison book +EQT2022-12-08 06:45:00+00:002022-12-08 07:
- 24:00+00:00
+UID:Working on the prison book +EQT  http://github.com/equalitytime/WhiteW
+ aterWriters2022-12-08 06:45:00+00:002022-12-08 07:24:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24661,32 +24740,35 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on all books ever.  +EQT
+SUMMARY:Working on all books ever.  +EQT http://github.com/equalitytime/Wh
+ iteWaterWriters
 DTSTART:20221208T153500Z
 DTEND:20221208T161000Z
 DTSTAMP:20221208T161000Z
-UID:Working on all books ever.  +EQT2022-12-08 15:35:00+00:002022-12-08 16
- :10:00+00:00
+UID:Working on all books ever.  +EQT http://github.com/equalitytime/WhiteW
+ aterWriters2022-12-08 15:35:00+00:002022-12-08 16:10:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on all books ever +EQT
+SUMMARY:Working on all books ever +EQT http://github.com/equalitytime/Whit
+ eWaterWriters
 DTSTART:20221208T170700Z
 DTEND:20221208T172800Z
 DTSTAMP:20221208T172800Z
-UID:Working on all books ever +EQT2022-12-08 17:07:00+00:002022-12-08 17:2
- 8:00+00:00
+UID:Working on all books ever +EQT http://github.com/equalitytime/WhiteWat
+ erWriters2022-12-08 17:07:00+00:002022-12-08 17:28:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on all books ever +EQT
+SUMMARY:Working on all books ever +EQT http://github.com/equalitytime/Whit
+ eWaterWriters
 DTSTART:20221208T172900Z
 DTEND:20221208T175400Z
 DTSTAMP:20221208T175400Z
-UID:Working on all books ever +EQT2022-12-08 17:29:00+00:002022-12-08 17:5
- 4:00+00:00
+UID:Working on all books ever +EQT http://github.com/equalitytime/WhiteWat
+ erWriters2022-12-08 17:29:00+00:002022-12-08 17:54:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24739,12 +24821,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+WWW +EQT Sorting the allbooksever.
+SUMMARY:+WWW +EQT Sorting the allbooksever.   http://github.com/equalityti
+ me/WhiteWaterWriters
 DTSTART:20221212T115500Z
 DTEND:20221212T125700Z
 DTSTAMP:20221212T125700Z
-UID:+WWW +EQT Sorting the allbooksever.2022-12-12 11:55:00+00:002022-12-12
-  12:57:00+00:00
+UID:+WWW +EQT Sorting the allbooksever.   http://github.com/equalitytime/W
+ hiteWaterWriters2022-12-12 11:55:00+00:002022-12-12 12:57:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24758,12 +24841,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(A) Email 30 schools about tightrope  +EQT
+SUMMARY:(A) Email 30 schools about tightrope  +EQT https://github.com/eQua
+ lityTime/Home/issues/126
 DTSTART:20221212T132600Z
 DTEND:20221212T152100Z
 DTSTAMP:20221212T152100Z
-UID:(A) Email 30 schools about tightrope  +EQT2022-12-12 13:26:00+00:00202
- 2-12-12 15:21:00+00:00
+UID:(A) Email 30 schools about tightrope  +EQT https://github.com/eQuality
+ Time/Home/issues/1262022-12-12 13:26:00+00:002022-12-12 15:21:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24874,12 +24958,14 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT writing a post for digital local heroes
+SUMMARY:+EQT writing a post for digital local heroes  https://github.com/e
+ QualityTime/Public/issues/165
 DTSTART:20221213T113200Z
 DTEND:20221213T120300Z
 DTSTAMP:20221213T120300Z
-UID:+EQT writing a post for digital local heroes2022-12-13 11:32:00+00:002
- 022-12-13 12:03:00+00:00
+UID:+EQT writing a post for digital local heroes  https://github.com/eQual
+ ityTime/Public/issues/1652022-12-13 11:32:00+00:002022-12-13 12:03:00+00:0
+ 0
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24944,12 +25030,14 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Following up with all the manchester schools.  +EQT
+SUMMARY:Following up with all the manchester schools.  +EQT http://github.
+ com/equalitytime/WhiteWaterWriters
 DTSTART:20221213T135600Z
 DTEND:20221213T141200Z
 DTSTAMP:20221213T141200Z
-UID:Following up with all the manchester schools.  +EQT2022-12-13 13:56:00
- +00:002022-12-13 14:12:00+00:00
+UID:Following up with all the manchester schools.  +EQT http://github.com/
+ equalitytime/WhiteWaterWriters2022-12-13 13:56:00+00:002022-12-13 14:12:00
+ +00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -24982,12 +25070,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on MAT Latter +EQT
+SUMMARY:Working on MAT Latter +EQT http://github.com/equalitytime/WhiteWat
+ erWriters
 DTSTART:20221213T145100Z
 DTEND:20221213T150800Z
 DTSTAMP:20221213T150800Z
-UID:Working on MAT Latter +EQT2022-12-13 14:51:00+00:002022-12-13 15:08:00
- +00:00
+UID:Working on MAT Latter +EQT http://github.com/equalitytime/WhiteWaterWr
+ iters2022-12-13 14:51:00+00:002022-12-13 15:08:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -25048,12 +25137,14 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on OVF thing  +OpenVoiceFactory +EQT
+SUMMARY:Working on OVF thing  +OpenVoiceFactory +EQT https://github.com/eQ
+ ualityTime/TheOpenVoiceFactory/
 DTSTART:20221214T093000Z
 DTEND:20221214T100200Z
 DTSTAMP:20221214T100200Z
-UID:Working on OVF thing  +OpenVoiceFactory +EQT2022-12-14 09:30:00+00:002
- 022-12-14 10:02:00+00:00
+UID:Working on OVF thing  +OpenVoiceFactory +EQT https://github.com/eQuali
+ tyTime/TheOpenVoiceFactory/2022-12-14 09:30:00+00:002022-12-14 10:02:00+00
+ :00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -25068,12 +25159,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT +OpenVoiceFactory again
+SUMMARY:+EQT +OpenVoiceFactory again   https://github.com/eQualityTime/The
+ OpenVoiceFactory/
 DTSTART:20221214T100400Z
 DTEND:20221214T103800Z
 DTSTAMP:20221214T103800Z
-UID:+EQT +OpenVoiceFactory again2022-12-14 10:04:00+00:002022-12-14 10:38:
- 00+00:00
+UID:+EQT +OpenVoiceFactory again   https://github.com/eQualityTime/TheOpen
+ VoiceFactory/2022-12-14 10:04:00+00:002022-12-14 10:38:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -25087,11 +25179,12 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IMPS code  +EQT
+SUMMARY:IMPS code  +EQT http://github.com/equalitytime/WhiteWaterWriters
 DTSTART:20221214T113100Z
 DTEND:20221214T134200Z
 DTSTAMP:20221214T134200Z
-UID:IMPS code  +EQT2022-12-14 11:31:00+00:002022-12-14 13:42:00+00:00
+UID:IMPS code  +EQT http://github.com/equalitytime/WhiteWaterWriters2022-1
+ 2-14 11:31:00+00:002022-12-14 13:42:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -25116,11 +25209,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Back to IMPS3  +EQT
+SUMMARY:Back to IMPS3  +EQT http://github.com/equalitytime/WhiteWaterWrite
+ rs
 DTSTART:20221214T142200Z
 DTEND:20221214T150300Z
 DTSTAMP:20221214T150300Z
-UID:Back to IMPS3  +EQT2022-12-14 14:22:00+00:002022-12-14 15:03:00+00:00
+UID:Back to IMPS3  +EQT http://github.com/equalitytime/WhiteWaterWriters20
+ 22-12-14 14:22:00+00:002022-12-14 15:03:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -25258,12 +25353,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chase about tightrope schools.  +EQT
+SUMMARY:Chase about tightrope schools.  +EQT https://github.com/eQualityTi
+ me/Home/issues/126
 DTSTART:20230104T114900Z
 DTEND:20230104T121600Z
 DTSTAMP:20230104T121600Z
-UID:Chase about tightrope schools.  +EQT2023-01-04 11:49:00+00:002023-01-0
- 4 12:16:00+00:00
+UID:Chase about tightrope schools.  +EQT https://github.com/eQualityTime/H
+ ome/issues/1262023-01-04 11:49:00+00:002023-01-04 12:16:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -25278,12 +25374,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Post the books.   +EQT
+SUMMARY:Post the books.   +EQT http://github.com/equalitytime/WhiteWaterWr
+ iters
 DTSTART:20230104T130200Z
 DTEND:20230104T131700Z
 DTSTAMP:20230104T131700Z
-UID:Post the books.   +EQT2023-01-04 13:02:00+00:002023-01-04 13:17:00+00:
- 00
+UID:Post the books.   +EQT http://github.com/equalitytime/WhiteWaterWriter
+ s2023-01-04 13:02:00+00:002023-01-04 13:17:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -25420,22 +25517,25 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(A) Book hotels and things for Hewell camp  +EQT
+SUMMARY:(A) Book hotels and things for Hewell camp  +EQT http://github.com
+ /equalitytime/WhiteWaterWriters
 DTSTART:20230110T122600Z
 DTEND:20230110T125400Z
 DTSTAMP:20230110T125400Z
-UID:(A) Book hotels and things for Hewell camp  +EQT2023-01-10 12:26:00+00
- :002023-01-10 12:54:00+00:00
+UID:(A) Book hotels and things for Hewell camp  +EQT http://github.com/equ
+ alitytime/WhiteWaterWriters2023-01-10 12:26:00+00:002023-01-10 12:54:00+00
+ :00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:30 minutes sorting dropbox. +EQT
+SUMMARY:30 minutes sorting dropbox. +EQT https://github.com/eQualityTime/P
+ ublic/issues/165
 DTSTART:20230110T124300Z
 DTEND:20230110T132300Z
 DTSTAMP:20230110T132300Z
-UID:30 minutes sorting dropbox. +EQT2023-01-10 12:43:00+00:002023-01-10 13
- :23:00+00:00
+UID:30 minutes sorting dropbox. +EQT https://github.com/eQualityTime/Publi
+ c/issues/1652023-01-10 12:43:00+00:002023-01-10 13:23:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT

@@ -43,6 +43,8 @@ Ways of increasing the page count:
 * Pithy quotes form other people about usefulness 
 * Put all the rubbish in the appendixes 
 
+EDIT - we did almost none of that, but it sounds ed pretty good. 
+
 ## 15/03/20 08:20 
 One of the things that will help will be finding a nice way of typesetting the difference between images and the things they refer to.   
 
@@ -7875,6 +7877,8 @@ A lot of them where nonesense.
 ## 31/08/22 15:06 to 15:34, Brain back in gear  +EQT
 
 
+# Start of the new financial  year
+
 ## 04/09/22 21:26 to 22:06, Alright. Let's do a comic. QUickly  
 It's taking a while, but that's mostly the sheer number of items... 
 
@@ -7896,10 +7900,6 @@ There are seven.
 ## 05/09/22 13:15 to 13:48,  Sideline in fixing lnc +EQT 
 * Fixed with https://stackoverflow.com/a/23917799/170243  
 * Still NOT working, but some of that might be reboot problems. 
-
-## 05/09/22 13:50, Back to whatever I was doing. 
-This file is now only 50 lines long, most of which is the damn 
-
 
 ## 05/09/22 14:28 to 17:09, Email (and banking) +EQT
 Back on the thing. 
@@ -7927,10 +7927,11 @@ So, How to I convert these things quickly into the banners
 
 Working on comics - the next action is to take the image styling and put it into the css file like this: https://www.w3schools.com/css/css3_images.asp
 
-## 06/09/22 19:48 to 21:33, +EQT trustee meeintg
+## 06/09/22 19:48 to 21:33, +EQT trustee meetintg
 
 
 ## 06/09/22 21:52 to 22:47, Comic 
+
 # Today 
 I want a delores day but leaning in to being a bit ill. So with a scheduled nap and proper work. 
 
@@ -8135,9 +8136,9 @@ I'm now seeing if I can pair them up with the charity commission downloaded data
 ## 21/09/22 07:00 to 07:10, Read quickbooks book   +EQT
 ## 21/09/22 07:10 to 07:16, Sort internet-off cron   +EQT
 * Had to comment out a vim line to make the cron work. Computers are strange. 
-## 21/09/22 07:16 to 07:50, (E) Put the price calculator on the website +offline (because code)   +EQT
-## 21/09/22 10:00 to 10:15, (E) Put the price calculator on the website +offline (because code)   +EQT
-## 21/09/22 10:15 to 11:56, (E) Put the price calculator on the website +offline (because code)   +EQT
+## 21/09/22 07:16 to 07:50, (E) Put the price calculator on the website +offline (because code)   +EQT http://github.com/equalitytime/WhiteWaterWriters
+## 21/09/22 10:00 to 10:15, (E) Put the price calculator on the website +offline (because code)   +EQThttp://github.com/equalitytime/WhiteWaterWriters
+## 21/09/22 10:15 to 11:56, (E) Put the price calculator on the website +offline (because code)   +EQT http://github.com/equalitytime/WhiteWaterWriters  Reviewcheck
 I put a price calculator here: https://whitewaterwriters.com/prices.html 
 * Learned some css - particularly around styling and locations. 
 * Used checkboxes interestingly: all in the file
@@ -8152,8 +8153,8 @@ In general, only about ten of the charities were identifiable by their website.
 
 ## 21/09/22 13:09 to 13:26,  (C) 10 Move these to the IMPS3 project board  Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
 ## 21/09/22 13:26 to 13:44,  Messaged Phoebe.  +EQT
-## 21/09/22 13:44 to 13:54, Fixed the certbot thing (I think)  +EQT
-## 21/09/22 13:54 to 14:56, (B) More dreamhost migration.  +Internet +EQT
+## 21/09/22 13:44 to 13:54, Fixed the certbot thing (I think)  +EQT http://github.com/equalitytime/WhiteWaterWriters
+## 21/09/22 13:54 to 14:56, (B) More dreamhost migration.  +Internet +EQT https://github.com/eQualityTime/Home/issues/137
 I'm moving the eQualityTime site 
 * I've created an AWS instance using https://themeisle.com/blog/install-wordpress-on-aws/ (although most of the setup was intutive 
 * The public IP is 13.40.52.102 and starting password is rR0JMdk1QJUg
@@ -8198,7 +8199,7 @@ The only way I get a comic out of this is two work like a dog for two hours and 
 * So obviously I'm getting some caffeine
 
 
-## 22/09/22 14:21 to 15:49,  +EQT work
+## 22/09/22 14:21 to 15:49,  +EQT work https://github.com/eQualityTime/Home/issues/137
 Okay, let's do the hard things. 
 13 things left 
 
@@ -8248,7 +8249,7 @@ That's a really ambitious target.  Particularly when we started so late.
 ## 26/09/22 09:39 to 10:34, Delores +EQT
 Today is going to be an Delores day, but it it taking a lot longer than it should (like any of the build up habits: compare cutting hair) 
 
-## 26/09/22 10:37 to 10:48, (A) Review and rewrite the Tightrope document +EQT
+## 26/09/22 10:37 to 10:48, (A) Review and rewrite the Tightrope document +EQT  https://github.com/eQualityTime/Home/issues/126
 I moved and lightly edited the document 
 ## 26/09/22 10:48 to 11:08, (B) 10 AGM dates doodle poll  +Internet +EQT
 * Waiting on Clare for confirmation now. 
@@ -8259,8 +8260,8 @@ I've published one and scheduled two more.
 Got a four about recent publishing. 
 Four left then. 
 
-## 26/09/22 12:33 to 12:55, Watching Writing video +EQT
-## 26/09/22 12:55 to 13:18, Okay So back on the publishing.   +EQT
+## 26/09/22 12:33 to 12:55, Watching Writing video +EQT http://github.com/equalitytime/WhiteWaterWriters
+## 26/09/22 12:55 to 13:18, Okay So back on the publishing.   +EQT http://github.com/equalitytime/WhiteWaterWriters
 ## 26/09/22 13:19 to 14:32, Back to regular email   +EQT
 * I'm doing really well and JUST sorting out the top thing and working down. 
 * Reached a review of 'sweet' things and I'm getting a little on the tired side. 
@@ -8292,7 +8293,7 @@ This is actually an interesting exercise that establishes how transparent we are
 * More improvements to IMPS3  
 
 ## 26/09/22 14:36 to 16:28, Been email +EQT
-## 26/09/22 16:29 to 16:44, Publishing a book. 
+## 26/09/22 16:29 to 16:44, Publishing a book.  https://github.com/eQualityTime/Home/issues/126 +EQT
 * Working out which names go with which books. 
 NA is to check the gender of the missing names, if they are male I'll put them in group B 
 
@@ -8310,9 +8311,6 @@ Today was email and a big Cyber Security meeting. As a bonus I got signed off at
 ## 27/09/22 09:20 to 15:09, Trip for meeting +EQT (less 30 minutes for sidequest)
 ## 27/09/22 15:39 to 15:42,  email +EQT
 ## 27/09/22 16:02 to 16:06, Distracted back again +EQT
-
-
-
 
 ## 28/09/22 10:00 to 10:27, Been fixing a bug  +EQT
 ## 28/09/22 11:37 to 11:49, Another bug  +EQT
@@ -8361,8 +8359,8 @@ Really slow grindy day, NOT in a good place.
 ## 29/09/22 10:11 to 10:12, Delores
 ## 29/09/22 10:14 to 11:55,  Delores +EQT
 ## 29/09/22 11:56 to 12:18, Doing thinking about screenshots  +EQT
-## 29/09/22 12:19 to 12:31, Working on book  +EQT
-## 29/09/22 12:49 to 13:14, Working on book +EQT
+## 29/09/22 12:19 to 12:31, Working on book  +EQT  http://github.com/equalitytime/WhiteWaterWriters
+## 29/09/22 12:49 to 13:14, Working on book +EQT http://github.com/equalitytime/WhiteWaterWriters
 ## 29/09/22 13:14 to 14:51, writing talk  +EQT
 ## 29/09/22 14:51 to 15:05, Books +EQT
 ## 29/09/22 15:37 to 16:04, +EQT
@@ -8410,12 +8408,13 @@ Quickbook notes: if the beginning balance is off, you might be able to reconcile
 
 * Watching the writing course while having dinner 
 
-## 03/10/22 12:23 to 13:52,  +EQT Writing a big lesson plan thing 
+## 03/10/22 12:23 to 13:52,  +EQT Writing a big lesson plan thing https://github.com/eQualityTime/Home/issues/126 
 ## 03/10/22 13:53 to 15:15, +EQT  Interview 
 ## 03/10/22 15:32 to 15:58,  Grant application +EQT
 ## 03/10/22 15:59, Okay +EQT 
 ## 03/10/22 16:12, (c) experiment with using a remote aws machine for work.   +EQT
-## 03/10/22 16:20 to 16:40 , Working thorugh https://discourse.ubuntu.com/t/running-ubuntu-desktop-on-an-aws-ec2-instance/13953  +EQT
+## 03/10/22 16:20 to 16:40,  +EQT  https://github.com/eQualityTime/Public/issues/148 +OVF
+Working thorugh https://discourse.ubuntu.com/t/running-ubuntu-desktop-on-an-aws-ec2-instance/13953  +EQT
 
 ## 03/10/22 19:55 to 20:30, Hello.  
 Down to 100 of the personal ones, which feels like a lot really. 
@@ -8424,7 +8423,6 @@ Down to 100 of the personal ones, which feels like a lot really.
 
 
 ## 05/10/22 06:28 to 07:58,  +EQT Writing slides 
-
 ## 05/10/22 09:52 to 13:06, Still writing slides +EQT
 Okay, so I think the second session has to be about threat modeling.
 
@@ -8453,11 +8451,11 @@ EDIT:
     * brew install --cask mactex #For latex.  
 
 
-## 06/10/22 10:05 to to 12:00, +EQT I've been working on the tightrope project. 
+## 06/10/22 10:05 to to 12:00, +EQT I've been working on the tightrope project. https://github.com/eQualityTime/Home/issues/126
 (and sent) 
 
 
-## 06/10/22 13:08 to 14:47, +EQT OpenVoiceFactory bug  +EQT
+## 06/10/22 13:08 to 14:47, +EQT +OpenVoiceFactory bug  +EQT  https://github.com/eQualityTime/Public/issues/148
 
 Okay so there's a file that is producing black backgroundx
 
@@ -8468,7 +8466,7 @@ Okay so there's a file that is producing black backgroundx
 * But I strongly suspect there is a problem with colours so I'm going to look at that. 
 * Have emailed - it's an optikey issue 
 
-## 06/10/22 14:47 to 15:43,  +EQT
+## 06/10/22 14:47 to 15:43, emails  +EQT
 Now the emails! 
 
 My emails are kicking my butt 
@@ -8506,7 +8504,7 @@ Looking at the todo.
 * Mapped the google ads project 
 
 
-## 10/10/22 09:29 to 10:51, +EQT AWS backup scripts 
+## 10/10/22 09:29 to 10:51, +EQT AWS backup scripts   https://github.com/eQualityTime/Public/issues/148
 All our code is running in AWS, which has it's own backup systems. But there are risks with that: 
 * AWS has a disaster 
 * We have a billing problem with AWS and get locked out.  
@@ -8540,7 +8538,7 @@ So, we want to be able to recover quickly if there is a problem.
 * First, spend half an hour messing about with the bash_profile (otherwise history of commands is going to be fucking boring. 
 
 ## 10/10/22 11:44 to 13:58, (E) 10 Fix lnc and lnh  on vim.  +offline 
-## 10/10/22 14:00 to 15:30, +EQT Meeting  with Yvonne and Dan 
+## 10/10/22 14:00 to 15:30, +EQT Meeting  with Yvonne and Dan  https://github.com/eQualityTime/Public/issues/124
 14:04, research.facebook.com/research-awards/2022-foundational-integrity-research-request-for-proposals/#requirements 2022 Foundational Integrity Research request for proposals - Meta Research
 14:14, not-equal.tech/ Not-Equal | Join Network+ | Social Justice through the Digital Economy. – Not-Equal – supporting social justice in the digital economy | Challenges: Algorithmic social justice, digital security & fairness in work | Join Network+.
 14:29, en.wikipedia.org/wiki/Stable_Diffusion Stable Diffusion - Wikipedia
@@ -8583,16 +8581,16 @@ I've fixed lnh, which is lovely. Pushed and merged the code, setup the crontab, 
 ## 11/10/22 06:38 to 07:55, Email +EQT
 ## 11/10/22 10:30 to 11:53, Email +EQT
 ## 11/10/22 13:30 to 13:59, Back +EQT Working on Talk
-## 11/10/22 14:00 to 14:34, Meeting pitching Tightrope  +EQT
+## 11/10/22 14:00 to 14:34, Meeting pitching Tightrope  +EQT https://github.com/eQualityTime/Home/issues/126
 ## 11/10/22 14:40 to 16:17, What am I doing? Writing a course/talk +EQT
 (worked out from history) 
 
 ## 12/10/22 06:20 to 08:05, Hello +EQT  
-## 12/10/22 09:34 to 09:55, (B) Backup the CK downloads folder on dreamhost +EQT
+## 12/10/22 09:34 to 09:55, (B) Backup the CK downloads folder on dreamhost +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 ## 12/10/22 10:43 to 11:24, Search for funding for eQuality Time Projects +EQT
 ## 12/10/22 11:24 to 12:36, Research dive on missing children. +EQT
 ## 12/10/22 12:53 to 13:22, Okay 10 left   +EQT
-## 12/10/22 13:36 to 14:37, Bring the OVF code up to date. Let's have a look . +EQT +OpenVoiceFactory
+## 12/10/22 13:36 to 14:37, Bring the OVF code up to date. Let's have a look . +EQT +OpenVoiceFactory   https://github.com/eQualityTime/TheOpenVoiceFactory/
 * Ran the tests on the refactor branch. All passing
 * Created a branch called 'staging' (from main) and squash committed refactoring into it
 * Pushed to server 
@@ -8610,14 +8608,14 @@ I've fixed lnh, which is lovely. Pushed and merged the code, setup the crontab, 
 * The problem turned out to be permissions in the staging area. 
 
 ## 12/10/22 14:37 to 15:04,  Tidying
-## 12/10/22 15:04 to 15:48, +EQT OVF code again   +OpenVoiceFactory
-## 12/10/22 20:07 to 20:07, +EQT OVF code again +OpenVoiceFactory
+## 12/10/22 15:04 to 15:48, +EQT OVF code again   +OpenVoiceFactory  https://github.com/eQualityTime/TheOpenVoiceFactory/
+## 12/10/22 20:07 to 20:07, +EQT OVF code again +OpenVoiceFactor https://github.com/eQualityTime/TheOpenVoiceFactory/y
 ## 12/10/22 20:08 to 21:15, +EQT writing talk for RHUL 
 ## 13/10/22 09:48 to 10:21, fixing +EQT site (found from commands)
-## 13/10/22 11:48 to 23:20, Networking day +EQT 
+## 13/10/22 11:48 to 23:20, networking day +EQT 
 * Lots of follow ups needed 
 
-## 17/10/22 09:40 to 10:42, Working on the Security Project +EQT 
+## 17/10/22 09:40 to 10:42, Working on the Security Project +EQT  https://github.com/eQualityTime/Home/issues/126
 * Emailed about logos, domain names, and classrooms  
 ## 17/10/22 10:42 to 10:55, Getting delores rolling +EQT 
 ## 17/10/22 10:55 to 11:27, Call from trustee +EQT
@@ -8639,7 +8637,7 @@ I've fixed lnh, which is lovely. Pushed and merged the code, setup the crontab, 
 Push-pulling to get the most recent code locally 
 ## 17/10/22 14:25 to 14:31,  Working on stack  +EQT
 
-## 17/10/22 14:31 to 15:22, (B) Review school mail merge  on: https://github.com/eQualityTime/Home/issues/115 +EQT
+## 17/10/22 14:31 to 15:22, (B) Review school mail merge  on: https://github.com/eQualityTime/Home/issues/115 +EQT http://github.com/equalitytime/WhiteWaterWriters
 * I've reviewed and fixed up the code. 
 * I now understand that the follow up csv has to be created locally - because it's directly relevant to the mail merge itself. (allbooksever grows for example)  
 * So I have to create a function that creates the follow up list. 
@@ -8655,7 +8653,7 @@ Push-pulling to get the most recent code locally
 ## 18/10/22 14:13, That was quite a break
 ## 18/10/22 14:13 to 14:31, Delores +EQT
 
-## 18/10/22 14:48 to 15:52, Rolling Google ads project. +EQT 
+## 18/10/22 14:48 to 15:52, Rolling Google ads project. +EQT  http://github.com/equalitytime/WhiteWaterWriters
 * I've build the spreadsheet and filled it in for the first week. 
 * It's pretty shit. Now I need to find ways of improvement.
 * Looking at the others - 'nothing content related' is our most common! 
@@ -8677,7 +8675,7 @@ Push-pulling to get the most recent code locally
 
 ## 19/10/22 11:02 to 11:15, +EQT https://github.com/eQualityTime/Home/issues/127
 ## 19/10/22 13:16 to 14:05, +EQT https://github.com/eQualityTime/Home/issues/127
-## 19/10/22 14:05 to 14:31, More on Google analytics +EQT
+## 19/10/22 14:05 to 14:31, More on Google analytics +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/ 
 
 
 # Today. 
@@ -8687,8 +8685,8 @@ Push-pulling to get the most recent code locally
 
 
 
-## 20/10/22 06:25 to 07:39, More on the Google analtics  +EQT
-## 20/10/22 09:32 to 11:03, More on Google analytics  +EQT 
+## 20/10/22 06:25 to 07:39, More on the Google analtics  +EQT   https://github.com/eQualityTime/TheOpenVoiceFactory/
+## 20/10/22 09:32 to 11:03, More on Google analytics  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/ 
 I have blogged it at https://joereddington.github.io/2022/10/17/ga4.html  
 ## 20/10/22 11:03 to 11:28, Rewriting this file. 
 
@@ -8702,7 +8700,7 @@ NA: on this is to create the files.
 NA: Fill out the red shaded areas 
 
 
-## 20/10/22 15:09 to 15:55,      Tightrope +EQT
+## 20/10/22 15:09 to 15:55,      Tightrope +EQT https://github.com/eQualityTime/Home/issues/126
 Building a website
 * Have created the email and added it to the mailchimp
 * Have done a basic page 
@@ -8716,7 +8714,7 @@ Alright, let's have a sprint!
 * Still amazingly slow. Amazingly  
 * I've reached the point were I have to clear a row. 
 
-## 22/10/22 14:00 to 15:00, +EQT call from 6th form 
+## 22/10/22 14:00 to 15:00, +EQT call from 6th form https://github.com/eQualityTime/Home/issues/126
 
 ## 22/10/22 16:21, Let's properly work out git blame 
 * Ah - it's NOT git blame, it's git bisect
@@ -8750,14 +8748,14 @@ bash-3.2$
 
 ## 24/10/22 12:19 to 12:46,  +EQT delores
 Now processing this file. 
-## 24/10/22 12:46 to 13:09, Working on Google Ads https://github.com/eQualityTime/Public/issues/164  +EQT
+## 24/10/22 12:46 to 13:09, Working on Google Ads https://github.com/eQualityTime/Public/issues/164  +EQT http://github.com/equalitytime/WhiteWaterWriters
 
 ## 25/10/22 06:27 to 06:56, Very fast comic. 
 Okay, seven  images on a page. 
 
 
 
-## 25/10/22 06:56 to 07:52, Chainmail +EQT
+## 25/10/22 06:56 to 07:52, Chainmail +EQT http://github.com/equalitytime/WhiteWaterWriters
 Creating tests
 Chainmail 
 python3 -m unittest                                       
@@ -8801,7 +8799,6 @@ Grumps: I'm a bit cold and starting to lose concentration. Also quickbooks doesn
 ## 26/10/22 11:28, Okay, let's think about this. 
 
 
-
 working on the risk register in libreoffice 
 using this description to for risk area: https://blog.bcm-institute.org/bcm-planning-methodology/assessing-your-risk-descriptor-for-seven-risk-impact-area
 
@@ -8825,7 +8822,7 @@ Still very slow - even with the layout help.  Giving up haflway
 
 ## 31/10/22 06:41 to 07:21, Delores +EQT
 ## 31/10/22 09:38 to 10:07, Process this file.  +EQT 
-## 31/10/22 10:07 to 10:26, Time for the google ads experiment  +EQT +openvoicefactory
+## 31/10/22 10:07 to 10:26, Time for the google ads experiment  +EQT +openvoicefactory https://github.com/eQualityTime/TheOpenVoiceFactory/
 * Created two new ad groups for OVF 
 
 ## 31/10/22 10:27 to 12:30, (A) Produce accounts for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT +online
@@ -8836,7 +8833,7 @@ Sent!
 Working on emailing everything out. 
 
 ## 31/10/22 13:59, That was a big of low fcosu   +EQT
-## 31/10/22 13:59 to 15:40, Working on +openvoicefactory +EQT tasks
+## 31/10/22 13:59 to 15:40, Working on +openvoicefactory +EQT tasks  https://github.com/eQualityTime/TheOpenVoiceFactory/
 * Oh cool, there's already a generate_regressions.py file. 
 (E) OVF - rewrite create.sh - it should be fine with a space in the filename
 (E) Fix the OBF debugging information issue (the script is redirecting all input to a file) 
@@ -8855,18 +8852,18 @@ So what's the ask? I want to come to you and write some books?  I want to teach 
 ## 01/11/22 05:35 to 06:45, making comic 
 ## 01/11/22 09:43 to 15:48, +EQT working on list. 
 Big things were chainmail (manchester emails) and some focusing on emailing people about talks and other projects.  Experimenting by returning to focus entirely on the todo list and forgive myself for the occasional social media.  
-## 02/11/22 06:50 to 07:50, I'm here. 
+## 02/11/22 06:50 to 07:50, I'm here.  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/ 
 * Installed dropbox 
 * Set up for the charity data download  (which was annoying NOT availible) 
 
 ## 02/11/22 09:20 to 10:36, Phone calls, one after the other +EQT
 
-## 02/11/22 10:56 to 12:18, Working on OpenVoiceFactory manuals +EQT
+## 02/11/22 10:56 to 12:18, Working on OpenVoiceFactory manuals +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
 Everything sluggish with dropbox, might have to pause and leave overnight. 
 Trying to install jq with brew 
 
 
-## 02/11/22 12:18 to 13:02, WWW again +EQT
+## 02/11/22 12:18 to 13:02, WWW again +EQT http://github.com/equalitytime/WhiteWaterWriters
 Okay here's what I've done
 * Found the spreadsheet by tracking down the VA 
   * the drive file https://docs.google.com/spreadsheets/d/1ni4npqxb416S0MKFlgRIirHq8K7SGeSjZV1V59l1y0U/edit#gid=0 
@@ -8878,13 +8875,13 @@ Okay here's what I've done
 
 The next thing is to write, with tests, the code for generating from a script. 
 
-## 02/11/22 13:08 to 13:33, Back to OVF +EQT 
+## 02/11/22 13:08 to 13:33, Back to OVF +EQT  https://github.com/eQualityTime/TheOpenVoiceFactory/
 * bash-3.2$ cat publicextract.charity.json |  jq '.[]| join("$")' > big.csv
   * Feel like there is probably a better way of doing that... 
 * Yeah, this is now a chainmail problem - read the database, sort it out. 
 * Okay we're now at the coding level 
  
-## 02/11/22 13:33 to 16:29, Moving forward with tests and stuff.  +EQT
+## 02/11/22 13:33 to 16:29, Moving forward with tests and stuff.  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 The thing you are about to do is  write the tests for create and expand contacts (which you should have one in advance...) 
 
 Jesus - this doesn't feel efficient when I take this long... 
@@ -8919,7 +8916,7 @@ it's clear that a 'do five minutes on everything' task would be a really good id
 
 ## 07/11/22 03:41, Jarvis, you up? 
 
-## 07/11/22 03:42 to 04:29, It's a working day. Let's see what we can do...  +EQT
+## 07/11/22 03:42 to 04:29, It's a working day. Let's see what we can do...  +EQT https://github.com/eQualityTime/Home/issues/120
 * Read up on some vim stuff
 * Dropbox 
   * Starts at 326GB - I'm pulling out the particularly big ones. 
@@ -9041,7 +9038,7 @@ What if I passed the whole string to contacts?
 * 'Contact' the class inherits from the core. 
 * Nah, this boils down to populating a string, let's NOT get fancy - find out how you format a string with a dic and come back
 
-## 07/11/22 05:25 to 05:34, More Dropbox   +EQT
+## 07/11/22 05:25 to 05:34, More Dropbox   +EQT  https://github.com/eQualityTime/Home/issues/120
 
 ## 07/11/22 05:34 to 05:45, Reviewing document  +EQT
 NA: is text-to-speech so get headphones
@@ -9052,7 +9049,7 @@ NA: is text-to-speech so get headphones
 * But mostly brainstomring
 
 
-## 07/11/22 09:45 to 11:16, Back - social media and working on manual.+OpenVoiceFactory  +EQT
+## 07/11/22 09:45 to 11:16, Back - social media and working on manual.+OpenVoiceFactory  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 # Today 
 
 I've done two good bits of work today 
@@ -9061,8 +9058,7 @@ I've done two good bits of work today
 ✅ got the chainmail code in much better shape 
 ✅ Send updated accounts to Sarah 
 
-
-## 08/11/22 05:50 to 06:14,  Working on Manual +openvoicefactory +EQT
+## 08/11/22 05:50 to 06:14,  Working on Manual +openvoicefactory +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 Gone through - have some online things to do now. 
 
 ## 08/11/22 06:15 to 06:23, Okay, we're going online. +EQT
@@ -9072,13 +9068,16 @@ pip3 freeze makes a list of requirements so we can install all the dependencies.
 * Updated the syncscript (since I changed the ssh keys)
 * Installing php (with brew?)  
 
-## 08/11/22 06:56 to 07:08,  Manual again +openvoicefactory +EQT
+## 08/11/22 06:56 to 07:08,  Manual again +openvoicefactory +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 ## 08/11/22 07:08 to 08:03, Working on chainmail +EQT
-## 08/11/22 09:40 to 09:57, Working on code +EQT
-## 08/11/22 09:57 to 11:59, Emailing potential artsits +EQT
+## 08/11/22 09:40 to 09:57, Working on code +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
+http://github.com/equalitytime/WhiteWaterWriters
+
+## 08/11/22 09:57 to 11:59, Emailing potential artsits +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 08/11/22 12:08, Okay, making a curry.
 ## 08/11/22 12:48 to 13:44, Right - reply to Francesaca  +EQT
-## 08/11/22 13:44 to 15:53, Okay, two hour figthing thing.  +EQT
+## 08/11/22 13:44 to 15:53, Okay, two hour figthing thing.  +EQT https://github.com/eQualityTime/Public/issues/163
 The idea was to move each thing exactly one space forward. Did the accounts instead ✅ 
 
 (A) 30 Email some more 6th forms for tightrope.  +online
@@ -9097,7 +9096,7 @@ Did some good planning
 ## 09/11/22 06:28 to 06:50, (B) 60 Work on: Unit testing for php  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/144 +EQT +offline +TheOpenVoiceFactory
 Set up a new file that allows unittesting. Next step is to actually refactor the files so that's a thing (also to do the same for IMPS3 
 
-## 09/11/22 06:50 to 07:26, Building Domesday site. +TheOpenVoiceFactory (ish) +EQT
+## 09/11/22 06:50 to 07:26, Building Domesday site. +TheOpenVoiceFactory (ish) +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 ## 09/11/22 07:26 to 07:43, Okay, 11 things left to do   +EQT
 Breaking down the list. 
 
@@ -9107,15 +9106,15 @@ Some small email
 ## 09/11/22 10:04 to 10:26,  +EQT
 Agggh! Domesday dateset was already online. 
 
-## 09/11/22 10:26 to 10:34, +OpenVoiceFactory +EQT
+## 09/11/22 10:26 to 10:34, +OpenVoiceFactory +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 Investigated bug and created issue for it because it turned out to big. Well, NOT that big. It was probably JUST  about writing the correct tests.
 
-## 09/11/22 10:34 to 11:36, Google ads for Open Voice Factory +EQT +OpenVoiceFactory
+## 09/11/22 10:34 to 11:36, Google ads for Open Voice Factory +EQT +OpenVoiceFactory https://github.com/eQualityTime/TheOpenVoiceFactory/
 ## 09/11/22 11:37 to 11:43,  +EQT Supertitle search 
-## 09/11/22 11:43 to 12:12, Trying new OVF commits on server  +OpenVoiceFactory  +EQT
+## 09/11/22 11:43 to 12:12, Trying new OVF commits on server  +OpenVoiceFactory  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 ## 09/11/22 12:12 to 12:20, emails +EQT
 ## 09/11/22 12:40 to 13:05, Emails +EQT
-## 09/11/22 13:05 to 13:34, +OpenVoiceFactory again  +EQT
+## 09/11/22 13:05 to 13:34, +OpenVoiceFactory again  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 The code is updated! 
 ## 09/11/22 13:34 to 14:24, Supertitle +EQT
 Trying to find the code, found later 
@@ -9145,7 +9144,7 @@ Look - a completely blank todo list. How cool is that? Particularly because I ca
 * 16 things already! 
   * Speaks to a lot of things (IMPS3, OVF) NOT being in the calendar at all. 
 
-## 14/11/22 07:55, Analyics +EQT
+## 14/11/22 07:55, Analyics +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 
 * Make an event to come back and check 
 
@@ -9164,7 +9163,8 @@ NA: you are about to put the tracking id into Communkate (blue vim) and upgrade 
 * Processed the git directory - 13 left. 
   * There's still a bunch of things that need some work, but actually everything fair. 
 
-## 14/11/22 12:39 to 16:10,  +EQT git and php testing  +EQT
+## 14/11/22 12:39 to 16:10,  +EQT git and php testing  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 Well, spent a lot of today on this. 
 
 * I've added a php test file. 
@@ -9181,15 +9181,17 @@ Next steps
 ## 15/11/22 05:38, Email from phone +EQT
 It was nice and warm by the cooker
 
-## 15/11/22 06:58 to 07:30, Trying php on server   +EQT
+## 15/11/22 06:58 to 07:30, Trying php on server   +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 * Upgraded the php(!) Really pleased with that 
 * Checked the code, squashed the commit and left it running
 * Fixed a typo on the 404 page.  
 * Reviewed the open issues - nothing I feel like doing right at this second. 
 
-## 15/11/22 07:30 to 07:59, Bought a safe  +EQT +tightrope
+## 15/11/22 07:30 to 07:59, Bought a safe  +EQT +tightrope https://github.com/eQualityTime/Home/issues/126
 
-## 15/11/22 10:00 to 11:31,  Fixing the chainmail code for MATs +EQT
+## 15/11/22 10:00 to 11:31,  Fixing the chainmail code for MATs +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 Uggh. Literally ended up just sorting the drive document and getting despondent
 
 ## 15/11/22 11:31 to 11:58, Brainstorms  +EQT
@@ -9227,10 +9229,11 @@ Have to work out attachments.
 Try: https://stackoverflow.com/questions/3362600/how-to-send-email-attachments 
 
 ## 16/11/22 06:00 to 07:02, Emails and mood +EQT
-## 16/11/22 07:02 to 07:59, chainmail +EQT 
+## 16/11/22 07:02 to 07:59, chainmail +EQT  http://github.com/equalitytime/WhiteWaterWriters
+
 
 ## 16/11/22 09:35 to 10:35, Being grumpy +EQT
-## 16/11/22 10:35 to 11:30, finishing mail +EQT
+## 16/11/22 10:35 to 11:30, finishing email +EQT
 
 ## 17/11/22 06:30 to 07:11, Getting started   +EQT
 NA: Update the damn thing. Search to see if policy approved For all the draft policies 
@@ -9250,7 +9253,7 @@ Today I upgraded the freelancers files to Python3 and fixed the bugs that happen
 
 Next step is to put this shit online. 
 
-## 17/11/22 13:25 to 16:13, Wiping out the eamils +EQT
+## 17/11/22 13:25 to 16:13, Wiping out the emails +EQT
 
 ## 18/11/22 08:29, Hello  
 
@@ -9260,27 +9263,31 @@ Next step is to put this shit online.
 ## 18/11/22 10:50, Now, *now* I'm starting. 
 ## 18/11/22 10:50 to 11:51, Working a brainstorm +EQT
 ## 18/11/22 11:51 to 11:51,  Starting again. 
-## 18/11/22 12:05 to 12:25, Call about tightrope +EQT
+## 18/11/22 12:05 to 12:25, Call about tightrope +EQT https://github.com/eQualityTime/Home/issues/126
 
-## 21/11/22 05:10 to 15:30, +EQT  Strodes College for session.  +tightrope
+## 21/11/22 05:10 to 15:30, +EQT  Strodes College for session.  +tightrope https://github.com/eQualityTime/Home/issues/126
 ## 22/11/22 07:12 to 07:27, Cleaning this file   +EQT 
 ## 22/11/22 07:27 to 08:00, Thinking +EQT
-## 22/11/22 10:00 to 12:10, Rushing back home to fix a bug +EQT +WWW
+## 22/11/22 10:00 to 12:10, Rushing back home to fix a bug +EQT +WWW http://github.com/equalitytime/WhiteWaterWriters
+
 Everything  got put in https://serverfault.com/questions/1116317/nginx-error-after-upgrading-php/1116318#1116318 https://serverfault.com/questions/1116317/nginx-error-after-upgrading-php/1116318#1116318
 
 ## 22/11/22 15:20 to 16:08,  Back again  +EQT
 
-## 22/11/22 16:08 to 16:30, (A) Rewrite the next session for strodes +EQT https://github.com/eQualityTime/Home/issues/126
+## 22/11/22 16:08 to 16:30, (A) Rewrite the next session for strodes +EQT https://github.com/eQualityTime/Home/issues/126 https://github.com/eQualityTime/Home/issues/126
 
 
 
 ## 23/11/22 06:10 to 07:22, Delores +EQT
-## 23/11/22 07:22, Rewriting the Strodes slides
+## 23/11/22 07:22, Rewriting the Strodes slides https://github.com/eQualityTime/Home/issues/126
 NA: Process this file. 
 * Included Google Ads optimisation. 
 
-## 23/11/22 07:39 to 07:58,  Working on Next tightrope slides.  +EQT
-## 23/11/22 11:14 to 12:23, Rewriting next tightrope sessions.  +EQT
+
+## 23/11/22 07:39 to 07:58,  Working on Next tightrope slides.  +EQT https://github.com/eQualityTime/Home/issues/126
+
+## 23/11/22 11:14 to 12:23, Rewriting next tightrope sessions.  +EQT https://github.com/eQualityTime/Home/issues/126
+
 I've drafted a bunch of emails, updated the slides and other things. 
 Only thing remaining is to write the proper FOI request for the Missing children.   
 
@@ -9289,7 +9296,7 @@ Only thing remaining is to write the proper FOI request for the Missing children
 Well, NOT all  
 Emails 
 
-## 23/11/22 15:29 to 16:00, Reviewing dropbox policies +EQT
+## 23/11/22 15:29 to 16:00, Reviewing dropbox policies +EQT https://github.com/eQualityTime/Home/issues/120
 15:30, www.dropbox.com/ Dropbox
 15:30, www.dropbox.com/home Files – Dropbox
 15:30, www.flowkey.com/en/baby-shark
@@ -9321,7 +9328,8 @@ Emails
 
 
 ## 24/11/22 06:10 to 06:43,  More on the polcies.  +EQT
-## 24/11/22 06:43 to 07:20, Wrote a missing children request for Tightrope 
+## 24/11/22 06:43 to 07:20, Wrote a missing children request for Tightrope  https://github.com/eQualityTime/Home/issues/126
+
 ## 24/11/22 07:20 to 07:30, Trying to put Supertitle online  +EQT
 ## 24/11/22 11:20 to 14:52, Working on Supertitle +EQT
 * Okay, I've read the article on virtual environments. (https://realpython.com/python-virtual-environments-a-primer/) 
@@ -9338,7 +9346,8 @@ Here's what I learned: I can write a systemclt service file for any server I wan
 
 
 ## 24/11/22 14:52 to 15:26,  Let's have a look at the analtics  +EQT
-## 24/11/22 15:27 to 15:41, creating mail merge Followup sheet.  +EQT
+## 24/11/22 15:27 to 15:41, creating mail merge Followup sheet.  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 
 
 
@@ -9397,7 +9406,8 @@ Proper social media process: No.
 Exercise: No, 
 Crying/grumpy: No, possibly manic. 
 
-## 05/12/22 05:00 to 15:26,  +EQT trip out to egham 
+## 05/12/22 05:00 to 15:26,  +EQT trip out to egham  https://github.com/eQualityTime/Home/issues/126
+
 
 * Power public protection private. 
 * Third session is a bit short, second is a bit long. 
@@ -9437,7 +9447,8 @@ Crying/grumpy: No, pretty good.
 * Working through old issues and closing a bunch of them. 
 
 ## 06/12/22 11:42 to 14:37,  +EQT Delores
-## 06/12/22 14:37 to 16:00 , (A) Typeset Prison Book  +EQT
+## 06/12/22 14:37 to 16:00 , (A) Typeset Prison Book  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 Needs to be done by the 9th. 
 * I've collected and compiled them all.  53 pages. So I'm going to get the others.  
 
@@ -9473,7 +9484,7 @@ How would I make it easy?
 * Particularly without sitting down. 
 * I do want that standing desk 
 
-## 07/12/22 12:00 to 13:00, +EQT meeting at Luton Irish Centre. 
+## 07/12/22 12:00 to 13:00, +EQT meeting at Luton Irish Centre. https://github.com/eQualityTime/Public/issues/165
 
 ## 07/12/22 14:20, 
 Frustration, procrastination, 
@@ -9481,16 +9492,20 @@ Frustration, procrastination,
 Lack of joy 
 
 ## 07/12/22 14:23 to 15:00, Let's do email.  +EQT
-## 08/12/22 06:45 to 07:24,  Working on the prison book +EQT 
+## 08/12/22 06:45 to 07:24,  Working on the prison book +EQT  http://github.com/equalitytime/WhiteWaterWriters
+
 ## 08/12/22 09:45 to 12:46,  Email +EQT 
 * One of the things I really want to do is to be up to date with all of the Prison documentation. And that means having every book linked to an invoice and vice versa. 
 
 ## 08/12/22 15:00 to 15:35,  Talking to Yvonne.  +EQT
-## 08/12/22 15:35 to 16:10, Working on all books ever.  +EQT
-## 08/12/22 17:07 to 17:28, Working on all books ever +EQT
+## 08/12/22 15:35 to 16:10, Working on all books ever.  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
+## 08/12/22 17:07 to 17:28, Working on all books ever +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 I have used the old watchtower code to generate the list of missing books from watchtower. Evertyhing else is from IMPS3.  
 
-## 08/12/22 17:29 to 17:54, Working on all books ever +EQT
+## 08/12/22 17:29 to 17:54, Working on all books ever +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 * Working locally on develop branch 
 * The Book class now outputs the title. 
 
@@ -9528,7 +9543,8 @@ Crying/grumpy:  Quite grumpy in morning but pulled myself out of it by 'work ang
 ## 12/12/22 10:43 to 11:55, Back Delores +EQT
 NA: Process this file. 
 
-## 12/12/22 11:55 to 12:57, +WWW +EQT Sorting the allbooksever.  
+## 12/12/22 11:55 to 12:57, +WWW +EQT Sorting the allbooksever.   http://github.com/equalitytime/WhiteWaterWriters
+
 Working on Prison stuff. 
 I think it's turned out that we're fine with the prisons.  I've sent a detailed email to one of the prison people to find out. 
 
@@ -9538,7 +9554,8 @@ I think it's turned out that we're fine with the prisons.  I've sent a detailed 
 * Turns out I've got to work beyond five pm to get my eight hours today. 
 * Skipping Google Ads - that's NOT working at all.  
 
-## 12/12/22 13:26 to 15:21, (A) Email 30 schools about tightrope  +EQT
+## 12/12/22 13:26 to 15:21, (A) Email 30 schools about tightrope  +EQT https://github.com/eQualityTime/Home/issues/126
+
 Done! Two hours for 40 emails feels like a lot from scratch but there it is. 
   * Particularly given that there wasn't really any code needed - it was checking titles and writing emails and double checking. 
 * Commited and pushed
@@ -9594,14 +9611,15 @@ NA:  Open up comic for the day.
 ## 13/12/22 09:35 to 10:50, Email day!  +EQT
 ## 13/12/22 10:50 to 10:58, Work Gratitude(!) +EQT
 ## 13/12/22 10:58 to 11:33, +EQT Phone call
-## 13/12/22 11:32 to 12:03, +EQT writing a post for digital local heroes 
+## 13/12/22 11:32 to 12:03, +EQT writing a post for digital local heroes  https://github.com/eQualityTime/Public/issues/165
 ## 13/12/22 12:05 to 12:28, (E) 05 Mark the AGM meetings properly in the dropbox.   +EQT
 ## 13/12/22 12:28 to 12:42,  Working on Tasks. +EQT 
 ## 13/12/22 12:42 to 13:01, Work Facebook post +EQT
 ## 13/12/22 13:02 to 13:05, 8 things left.   +EQT
 ## 13/12/22 13:05 to 13:41, Working on the gardfield westron funding +EQT
 ## 13/12/22 13:41 to 13:56, Big afternoon dip.  +EQT
-## 13/12/22 13:56 to 14:12, Following up with all the manchester schools.  +EQT
+## 13/12/22 13:56 to 14:12, Following up with all the manchester schools.  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 Turns out if you do it on the keyboard you can do 50 in 15 minutes. 
 ## 13/12/22 14:13, 5 things left  
 ## 13/12/22 14:13 to 14:47, Expenses +EQT
@@ -9609,7 +9627,8 @@ Mostly JUST  looking for receipes
 * Also did an invoice for tightrope. 
 
 ## 13/12/22 14:47 to 14:51, Checking in with self +EQT
-## 13/12/22 14:51 to 15:08, Working on MAT Latter +EQT
+## 13/12/22 14:51 to 15:08, Working on MAT Latter +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 13/12/22 15:08 to 16:20, Cycling
 * But really a lot of faff. I was a bit out of it. 
 
@@ -9642,18 +9661,20 @@ I mean. It took an hour and I don't feel that proud of it.  Woke me up a bit
 ## 14/12/22 07:53, Aggggh! 
 Okay, the morning shift is simply NOT working... 
 
-## 14/12/22 09:30 to 10:02,  Working on OVF thing  +OpenVoiceFactory +EQT
+## 14/12/22 09:30 to 10:02,  Working on OVF thing  +OpenVoiceFactory +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 ## 14/12/22 10:02 to 10:04, Sharing comic to linkedin.  
-## 14/12/22 10:04 to 10:38, +EQT +OpenVoiceFactory again  
+## 14/12/22 10:04 to 10:38, +EQT +OpenVoiceFactory again   https://github.com/eQualityTime/TheOpenVoiceFactory/
 ## 14/12/22 10:38 to 11:31, +EQT Delores +EQT
-## 14/12/22 11:31 to 13:42, IMPS code  +EQT
+## 14/12/22 11:31 to 13:42, IMPS code  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 * Fixed the bug with the individual pdfs 
 * Connected up the allbooksever with imps. 
 * Fixed a 'make pdfs locally' bug 
 
 ## 14/12/22 14:02, Hello. Zoned out there for a minute. Code was fun right?   
 ## 14/12/22 14:03 to 14:22,  Quick look at email +EQT
-## 14/12/22 14:22 to 15:03, Back to IMPS3  +EQT
+## 14/12/22 14:22 to 15:03, Back to IMPS3  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 * Working out a bunch of things on paper. 
 Man
 ## 14/12/22 15:15, Break for dinner 
@@ -9696,7 +9717,8 @@ Big task: https://github.com/eQualityTime/Home/issues/126
 
 ## 04/01/23 11:21 to 11:49, (A) 20 Write the EQT minutes. +EQT
 
-## 04/01/23 11:49 to 12:16,   Chase about tightrope schools.  +EQT
+## 04/01/23 11:49 to 12:16,   Chase about tightrope schools.  +EQT https://github.com/eQualityTime/Home/issues/126
+
 * Clearly need to message all hte luton ones. 
   * I did! We didn't get anything back... 
     * Clearly this isn't the right way to do it... 
@@ -9704,7 +9726,8 @@ Big task: https://github.com/eQualityTime/Home/issues/126
 ## 04/01/23 12:46 to 13:01, +EQT spinning up again.  +EQT
 * I chased the schools. 
 
-## 04/01/23 13:02 to 13:17, Post the books.   +EQT
+## 04/01/23 13:02 to 13:17, Post the books.   +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 * Have bought envelopes 
   * Edit arrived later 
 
@@ -9766,10 +9789,11 @@ Crying/grumpy:  in a really good mood
 Reviewing last week: (also fixed a missing bit)
 * Only two days work - the morning shift isn't working out, that needs work.  (Edit, clearly NOT enough sleep ) 
 
-## 10/01/23 12:26 to 12:54,  (A) Book hotels and things for Hewell camp  +EQT
+## 10/01/23 12:26 to 12:54,  (A) Book hotels and things for Hewell camp  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 * Messaged Iyun to Check 
 
-## 10/01/23 12:43 to 13:23, 30 minutes sorting dropbox. +EQT
+## 10/01/23 12:43 to 13:23, 30 minutes sorting dropbox. +EQT https://github.com/eQualityTime/Public/issues/165
 ## 10/01/23 13:23 to 15:02, (B) Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT
 ## 10/01/23 17:59 to 18:31, (B) Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT
 # New Day! 
