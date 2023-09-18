@@ -22839,12 +22839,12 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:+EQT OVF code again +OpenVoiceFactor https://github.com/eQualityTi
- me/TheOpenVoiceFactory/y
+ me/TheOpenVoiceFactory
 DTSTART:20221012T190700Z
 DTEND:20221012T190800Z
 DTSTAMP:20221012T190800Z
 UID:+EQT OVF code again +OpenVoiceFactor https://github.com/eQualityTime/T
- heOpenVoiceFactory/y2022-10-12 19:07:00+00:002022-10-12 19:08:00+00:00
+ heOpenVoiceFactory2022-10-12 19:07:00+00:002022-10-12 19:08:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -25470,30 +25470,33 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tightrope +EQT
+SUMMARY:Tightrope +EQT https://github.com/eQualityTime/Home/issues/126
 DTSTART:20230106T082300Z
 DTEND:20230106T102300Z
 DTSTAMP:20230106T102300Z
-UID:Tightrope +EQT2023-01-06 08:23:00+00:002023-01-06 10:23:00+00:00
+UID:Tightrope +EQT https://github.com/eQualityTime/Home/issues/1262023-01-
+ 06 08:23:00+00:002023-01-06 10:23:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tightrope +EQT
+SUMMARY:Tightrope +EQT  https://github.com/eQualityTime/Home/issues/126
 DTSTART:20230106T132300Z
 DTEND:20230106T141000Z
 DTSTAMP:20230106T141000Z
-UID:Tightrope +EQT2023-01-06 13:23:00+00:002023-01-06 14:10:00+00:00
+UID:Tightrope +EQT  https://github.com/eQualityTime/Home/issues/1262023-01
+ -06 13:23:00+00:002023-01-06 14:10:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:on site for +EQT visit.
+SUMMARY:on site for +EQT visit.  https://github.com/eQualityTime/Home/issu
+ es/126
 DTSTART:20230109T052900Z
 DTEND:20230109T140000Z
 DTSTAMP:20230109T140000Z
-UID:on site for +EQT visit.2023-01-09 05:29:00+00:002023-01-09 14:00:00+00
- :00
+UID:on site for +EQT visit.  https://github.com/eQualityTime/Home/issues/1
+ 262023-01-09 05:29:00+00:002023-01-09 14:00:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -25604,12 +25607,12 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:reviewed all the first inbox.  +EQT
+SUMMARY:reviewed all the first inbox.  +EQT email
 DTSTART:20230111T133000Z
 DTEND:20230111T141000Z
 DTSTAMP:20230111T141000Z
-UID:reviewed all the first inbox.  +EQT2023-01-11 13:30:00+00:002023-01-11
-  14:10:00+00:00
+UID:reviewed all the first inbox.  +EQT email2023-01-11 13:30:00+00:002023
+ -01-11 14:10:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -25662,12 +25665,14 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+OpenVoiceFactory +EQT Updating the CK things
+SUMMARY:+OpenVoiceFactory +EQT Updating the CK things  https://github.com/
+ eQualityTime/TheOpenVoiceFactory/
 DTSTART:20230112T071100Z
 DTEND:20230112T072400Z
 DTSTAMP:20230112T072400Z
-UID:+OpenVoiceFactory +EQT Updating the CK things2023-01-12 07:11:00+00:00
- 2023-01-12 07:24:00+00:00
+UID:+OpenVoiceFactory +EQT Updating the CK things  https://github.com/eQua
+ lityTime/TheOpenVoiceFactory/2023-01-12 07:11:00+00:002023-01-12 07:24:00+
+ 00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -25700,11 +25705,11 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT
+SUMMARY:+EQT emails
 DTSTART:20230112T144500Z
 DTEND:20230112T163300Z
 DTSTAMP:20230112T163300Z
-UID:+EQT2023-01-12 14:45:00+00:002023-01-12 16:33:00+00:00
+UID:+EQT emails2023-01-12 14:45:00+00:002023-01-12 16:33:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -25775,22 +25780,24 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Writing notes on tightrope
+SUMMARY:Writing notes on tightrope https://github.com/eQualityTime/Home/is
+ sues/126
 DTSTART:20230113T143300Z
 DTEND:20230113T145400Z
 DTSTAMP:20230113T145400Z
-UID:Writing notes on tightrope2023-01-13 14:33:00+00:002023-01-13 14:54:00
- +00:00
+UID:Writing notes on tightrope https://github.com/eQualityTime/Home/issues
+ /1262023-01-13 14:33:00+00:002023-01-13 14:54:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT +Openvoicefactory
+SUMMARY:+EQT +Openvoicefactory https://github.com/eQualityTime/TheOpenVoic
+ eFactory/
 DTSTART:20230113T145400Z
 DTEND:20230113T164400Z
 DTSTAMP:20230113T164400Z
-UID:+EQT +Openvoicefactory2023-01-13 14:54:00+00:002023-01-13 16:44:00+00:
- 00
+UID:+EQT +Openvoicefactory https://github.com/eQualityTime/TheOpenVoiceFac
+ tory/2023-01-13 14:54:00+00:002023-01-13 16:44:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -25850,11 +25857,12 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:What next? +EQT
+SUMMARY:What next? +EQT  https://github.com/eQualityTime/Home/issues/126
 DTSTART:20230117T153000Z
 DTEND:20230117T155200Z
 DTSTAMP:20230117T155200Z
-UID:What next? +EQT2023-01-17 15:30:00+00:002023-01-17 15:52:00+00:00
+UID:What next? +EQT  https://github.com/eQualityTime/Home/issues/1262023-0
+ 1-17 15:30:00+00:002023-01-17 15:52:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -25888,22 +25896,24 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Send expectations to prison  +EQT
+SUMMARY:Send expectations to prison  +EQT http://github.com/equalitytime/W
+ hiteWaterWriters
 DTSTART:20230118T130300Z
 DTEND:20230118T133000Z
 DTSTAMP:20230118T133000Z
-UID:Send expectations to prison  +EQT2023-01-18 13:03:00+00:002023-01-18 1
- 3:30:00+00:00
+UID:Send expectations to prison  +EQT http://github.com/equalitytime/White
+ WaterWriters2023-01-18 13:03:00+00:002023-01-18 13:30:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Print out the cards for tighrope  +EQT
+SUMMARY:Print out the cards for tighrope  +EQT https://github.com/eQuality
+ Time/Home/issues/126
 DTSTART:20230118T133100Z
 DTEND:20230118T145300Z
 DTSTAMP:20230118T145300Z
-UID:Print out the cards for tighrope  +EQT2023-01-18 13:31:00+00:002023-01
- -18 14:53:00+00:00
+UID:Print out the cards for tighrope  +EQT https://github.com/eQualityTime
+ /Home/issues/1262023-01-18 13:31:00+00:002023-01-18 14:53:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -25956,12 +25966,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Doing invoice +EQT and artist emails
+SUMMARY:Doing invoice +EQT and artist emails  http://github.com/equalityti
+ me/WhiteWaterWriters
 DTSTART:20230123T123000Z
 DTEND:20230123T125000Z
 DTSTAMP:20230123T125000Z
-UID:Doing invoice +EQT and artist emails2023-01-23 12:30:00+00:002023-01-2
- 3 12:50:00+00:00
+UID:Doing invoice +EQT and artist emails  http://github.com/equalitytime/W
+ hiteWaterWriters2023-01-23 12:30:00+00:002023-01-23 12:50:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26016,12 +26027,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Giving wixams talk +EQT
+SUMMARY:Giving wixams talk +EQT  https://github.com/eQualityTime/Home/issu
+ es/126
 DTSTART:20230131T091500Z
 DTEND:20230131T115500Z
 DTSTAMP:20230131T115500Z
-UID:Giving wixams talk +EQT2023-01-31 09:15:00+00:002023-01-31 11:55:00+00
- :00
+UID:Giving wixams talk +EQT  https://github.com/eQualityTime/Home/issues/1
+ 262023-01-31 09:15:00+00:002023-01-31 11:55:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26092,21 +26104,22 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Back after lunch +EQT  Tightrope
+SUMMARY:Back after lunch +EQT  Tightrope  https://github.com/eQualityTime/
+ Home/issues/126
 DTSTART:20230202T133200Z
 DTEND:20230202T150800Z
 DTSTAMP:20230202T150800Z
-UID:Back after lunch +EQT  Tightrope2023-02-02 13:32:00+00:002023-02-02 15
- :08:00+00:00
+UID:Back after lunch +EQT  Tightrope  https://github.com/eQualityTime/Home
+ /issues/1262023-02-02 13:32:00+00:002023-02-02 15:08:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT
+SUMMARY:+EQT emails
 DTSTART:20230202T150800Z
 DTEND:20230202T160600Z
 DTSTAMP:20230202T160600Z
-UID:+EQT2023-02-02 15:08:00+00:002023-02-02 16:06:00+00:00
+UID:+EQT emails2023-02-02 15:08:00+00:002023-02-02 16:06:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26120,12 +26133,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Delivering session at wixams +EQT tightrope
+SUMMARY:Delivering session at wixams +EQT tightrope  https://github.com/eQ
+ ualityTime/Home/issues/126
 DTSTART:20230203T085000Z
 DTEND:20230203T114500Z
 DTSTAMP:20230203T114500Z
-UID:Delivering session at wixams +EQT tightrope2023-02-03 08:50:00+00:0020
- 23-02-03 11:45:00+00:00
+UID:Delivering session at wixams +EQT tightrope  https://github.com/eQuali
+ tyTime/Home/issues/1262023-02-03 08:50:00+00:002023-02-03 11:45:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26160,11 +26174,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT sorting Iyun
+SUMMARY:+EQT sorting Iyun  http://github.com/equalitytime/WhiteWaterWriter
+ s
 DTSTART:20230205T142600Z
 DTEND:20230205T153100Z
 DTSTAMP:20230205T153100Z
-UID:+EQT sorting Iyun2023-02-05 14:26:00+00:002023-02-05 15:31:00+00:00
+UID:+EQT sorting Iyun  http://github.com/equalitytime/WhiteWaterWriters202
+ 3-02-05 14:26:00+00:002023-02-05 15:31:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26178,22 +26194,24 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Reviewing slides +EQT
+SUMMARY:Reviewing slides +EQT https://github.com/eQualityTime/Home/issues/
+ 126
 DTSTART:20230206T071500Z
 DTEND:20230206T075000Z
 DTSTAMP:20230206T075000Z
-UID:Reviewing slides +EQT2023-02-06 07:15:00+00:002023-02-06 07:50:00+00:0
- 0
+UID:Reviewing slides +EQT https://github.com/eQualityTime/Home/issues/1262
+ 023-02-06 07:15:00+00:002023-02-06 07:50:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:visit at Wixams    +EQT
+SUMMARY:visit at Wixams    +EQT https://github.com/eQualityTime/Home/issue
+ s/126
 DTSTART:20230206T090300Z
 DTEND:20230206T113700Z
 DTSTAMP:20230206T113700Z
-UID:visit at Wixams    +EQT2023-02-06 09:03:00+00:002023-02-06 11:37:00+00
- :00
+UID:visit at Wixams    +EQT https://github.com/eQualityTime/Home/issues/12
+ 62023-02-06 09:03:00+00:002023-02-06 11:37:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26296,12 +26314,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OpenVoiceFactory Code sprint +EQT
+SUMMARY:OpenVoiceFactory Code sprint +EQT   https://github.com/eQualityTim
+ e/TheOpenVoiceFactory/
 DTSTART:20230208T133300Z
 DTEND:20230208T160800Z
 DTSTAMP:20230208T160800Z
-UID:OpenVoiceFactory Code sprint +EQT2023-02-08 13:33:00+00:002023-02-08 1
- 6:08:00+00:00
+UID:OpenVoiceFactory Code sprint +EQT   https://github.com/eQualityTime/Th
+ eOpenVoiceFactory/2023-02-08 13:33:00+00:002023-02-08 16:08:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26334,12 +26353,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:tightrope - meeting with Elizabeth +EQT
+SUMMARY:tightrope - meeting with Elizabeth +EQT  https://github.com/eQuali
+ tyTime/Home/issues/126
 DTSTART:20230209T103000Z
 DTEND:20230209T110800Z
 DTSTAMP:20230209T110800Z
-UID:tightrope - meeting with Elizabeth +EQT2023-02-09 10:30:00+00:002023-0
- 2-09 11:08:00+00:00
+UID:tightrope - meeting with Elizabeth +EQT  https://github.com/eQualityTi
+ me/Home/issues/1262023-02-09 10:30:00+00:002023-02-09 11:08:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26364,12 +26384,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+OpenVoiceFactory +EQT Running backup.
+SUMMARY:+OpenVoiceFactory +EQT Running backup.  https://github.com/eQualit
+ yTime/TheOpenVoiceFactory/
 DTSTART:20230209T114700Z
 DTEND:20230209T115100Z
 DTSTAMP:20230209T115100Z
-UID:+OpenVoiceFactory +EQT Running backup.2023-02-09 11:47:00+00:002023-02
- -09 11:51:00+00:00
+UID:+OpenVoiceFactory +EQT Running backup.  https://github.com/eQualityTim
+ e/TheOpenVoiceFactory/2023-02-09 11:47:00+00:002023-02-09 11:51:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26442,12 +26463,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT MAT letter code.
+SUMMARY:+EQT MAT letter code.  http://github.com/equalitytime/WhiteWaterWr
+ iters
 DTSTART:20230213T092500Z
 DTEND:20230213T112600Z
 DTSTAMP:20230213T112600Z
-UID:+EQT MAT letter code.2023-02-13 09:25:00+00:002023-02-13 11:26:00+00:0
- 0
+UID:+EQT MAT letter code.  http://github.com/equalitytime/WhiteWaterWriter
+ s2023-02-13 09:25:00+00:002023-02-13 11:26:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26473,62 +26495,68 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The task "(D) 20 Check the 'IMPS to allbooksever' code" is 39 days
-  old
+  old  http://github.com/equalitytime/WhiteWaterWriters
 DTSTART:20230213T152000Z
 DTEND:20230213T153600Z
 DTSTAMP:20230213T153600Z
 UID:The task "(D) 20 Check the 'IMPS to allbooksever' code" is 39 days old
- 2023-02-13 15:20:00+00:002023-02-13 15:36:00+00:00
+   http://github.com/equalitytime/WhiteWaterWriters2023-02-13 15:20:00+00:0
+ 02023-02-13 15:36:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT sorting out Preston.
+SUMMARY:+EQT sorting out Preston.  http://github.com/equalitytime/WhiteWat
+ erWriters
 DTSTART:20230214T054500Z
 DTEND:20230214T064400Z
 DTSTAMP:20230214T064400Z
-UID:+EQT sorting out Preston.2023-02-14 05:45:00+00:002023-02-14 06:44:00+
- 00:00
+UID:+EQT sorting out Preston.  http://github.com/equalitytime/WhiteWaterWr
+ iters2023-02-14 05:45:00+00:002023-02-14 06:44:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Back to Allbooksever.  +EQT
+SUMMARY:Back to Allbooksever.  +EQT  http://github.com/equalitytime/WhiteW
+ aterWriters
 DTSTART:20230214T064400Z
 DTEND:20230214T072200Z
 DTSTAMP:20230214T072200Z
-UID:Back to Allbooksever.  +EQT2023-02-14 06:44:00+00:002023-02-14 07:22:0
- 0+00:00
+UID:Back to Allbooksever.  +EQT  http://github.com/equalitytime/WhiteWater
+ Writers2023-02-14 06:44:00+00:002023-02-14 07:22:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT sorting out preston again
+SUMMARY:+EQT sorting out preston again http://github.com/equalitytime/Whit
+ eWaterWriters
 DTSTART:20230214T072200Z
 DTEND:20230214T084000Z
 DTSTAMP:20230214T084000Z
-UID:+EQT sorting out preston again2023-02-14 07:22:00+00:002023-02-14 08:4
- 0:00+00:00
+UID:+EQT sorting out preston again http://github.com/equalitytime/WhiteWat
+ erWriters2023-02-14 07:22:00+00:002023-02-14 08:40:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Back on the allbooksever.   +EQT
+SUMMARY:Back on the allbooksever.   +EQT  http://github.com/equalitytime/W
+ hiteWaterWriters
 DTSTART:20230214T110500Z
 DTEND:20230214T133600Z
 DTSTAMP:20230214T133600Z
-UID:Back on the allbooksever.   +EQT2023-02-14 11:05:00+00:002023-02-14 13
- :36:00+00:00
+UID:Back on the allbooksever.   +EQT  http://github.com/equalitytime/White
+ WaterWriters2023-02-14 11:05:00+00:002023-02-14 13:36:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on the css more.  +EQT
+SUMMARY:Working on the css more.  +EQT http://github.com/equalitytime/Whit
+ eWaterWriters
 DTSTART:20230214T135600Z
 DTEND:20230214T154800Z
 DTSTAMP:20230214T154800Z
-UID:Working on the css more.  +EQT2023-02-14 13:56:00+00:002023-02-14 15:4
- 8:00+00:00
+UID:Working on the css more.  +EQT http://github.com/equalitytime/WhiteWat
+ erWriters2023-02-14 13:56:00+00:002023-02-14 15:48:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26592,22 +26620,25 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:working on preston +EQT
+SUMMARY:working on preston +EQT  http://github.com/equalitytime/WhiteWater
+ Writers
 DTSTART:20230215T090000Z
 DTEND:20230215T124900Z
 DTSTAMP:20230215T124900Z
-UID:working on preston +EQT2023-02-15 09:00:00+00:002023-02-15 12:49:00+00
- :00
+UID:working on preston +EQT  http://github.com/equalitytime/WhiteWaterWrit
+ ers2023-02-15 09:00:00+00:002023-02-15 12:49:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Just sort of hovering over preston for a while  +EQT
+SUMMARY:Just sort of hovering over preston for a while  +EQT http://github
+ .com/equalitytime/WhiteWaterWriters
 DTSTART:20230215T132000Z
 DTEND:20230215T140600Z
 DTSTAMP:20230215T140600Z
-UID:Just sort of hovering over preston for a while  +EQT2023-02-15 13:20:0
- 0+00:002023-02-15 14:06:00+00:00
+UID:Just sort of hovering over preston for a while  +EQT http://github.com
+ /equalitytime/WhiteWaterWriters2023-02-15 13:20:00+00:002023-02-15 14:06:0
+ 0+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26622,12 +26653,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Worked on the tightrope document +EQT
+SUMMARY:Worked on the tightrope document +EQT https://github.com/eQualityT
+ ime/Home/issues/126
 DTSTART:20230215T142600Z
 DTEND:20230215T155100Z
 DTSTAMP:20230215T155100Z
-UID:Worked on the tightrope document +EQT2023-02-15 14:26:00+00:002023-02-
- 15 15:51:00+00:00
+UID:Worked on the tightrope document +EQT https://github.com/eQualityTime/
+ Home/issues/1262023-02-15 14:26:00+00:002023-02-15 15:51:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26651,41 +26683,46 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WOrk on Tightrope +EQT
+SUMMARY:WOrk on Tightrope +EQT  https://github.com/eQualityTime/Home/issue
+ s/126
 DTSTART:20230216T101800Z
 DTEND:20230216T120000Z
 DTSTAMP:20230216T120000Z
-UID:WOrk on Tightrope +EQT2023-02-16 10:18:00+00:002023-02-16 12:00:00+00:
- 00
+UID:WOrk on Tightrope +EQT  https://github.com/eQualityTime/Home/issues/12
+ 62023-02-16 10:18:00+00:002023-02-16 12:00:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WOrk on a different bit of tightrope  +EQT
+SUMMARY:WOrk on a different bit of tightrope  +EQT https://github.com/eQua
+ lityTime/Home/issues/126
 DTSTART:20230216T120000Z
 DTEND:20230216T121600Z
 DTSTAMP:20230216T121600Z
-UID:WOrk on a different bit of tightrope  +EQT2023-02-16 12:00:00+00:00202
- 3-02-16 12:16:00+00:00
+UID:WOrk on a different bit of tightrope  +EQT https://github.com/eQuality
+ Time/Home/issues/1262023-02-16 12:00:00+00:002023-02-16 12:16:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on mapping scottish Libraries project +EQT
+SUMMARY:Working on mapping scottish Libraries project +EQT http://github.c
+ om/equalitytime/WhiteWaterWriters
 DTSTART:20230216T121600Z
 DTEND:20230216T122500Z
 DTSTAMP:20230216T122500Z
-UID:Working on mapping scottish Libraries project +EQT2023-02-16 12:16:00+
- 00:002023-02-16 12:25:00+00:00
+UID:Working on mapping scottish Libraries project +EQT http://github.com/e
+ qualitytime/WhiteWaterWriters2023-02-16 12:16:00+00:002023-02-16 12:25:00+
+ 00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hindley Book +EQT
+SUMMARY:Hindley Book +EQT http://github.com/equalitytime/WhiteWaterWriters
 DTSTART:20230216T122500Z
 DTEND:20230216T124000Z
 DTSTAMP:20230216T124000Z
-UID:Hindley Book +EQT2023-02-16 12:25:00+00:002023-02-16 12:40:00+00:00
+UID:Hindley Book +EQT http://github.com/equalitytime/WhiteWaterWriters2023
+ -02-16 12:25:00+00:002023-02-16 12:40:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26778,12 +26815,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT finding tightrope workshops nd stuff.
+SUMMARY:+EQT finding tightrope workshops nd stuff.  https://github.com/eQu
+ alityTime/Home/issues/126
 DTSTART:20230220T134000Z
 DTEND:20230220T141700Z
 DTSTAMP:20230220T141700Z
-UID:+EQT finding tightrope workshops nd stuff.2023-02-20 13:40:00+00:00202
- 3-02-20 14:17:00+00:00
+UID:+EQT finding tightrope workshops nd stuff.  https://github.com/eQualit
+ yTime/Home/issues/1262023-02-20 13:40:00+00:002023-02-20 14:17:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26798,11 +26836,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Library data  +EQT
+SUMMARY:Library data  +EQT http://github.com/equalitytime/WhiteWaterWriter
+ s
 DTSTART:20230220T144700Z
 DTEND:20230220T162000Z
 DTSTAMP:20230220T162000Z
-UID:Library data  +EQT2023-02-20 14:47:00+00:002023-02-20 16:20:00+00:00
+UID:Library data  +EQT http://github.com/equalitytime/WhiteWaterWriters202
+ 3-02-20 14:47:00+00:002023-02-20 16:20:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26816,32 +26856,35 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:+EQT more on the library data
+SUMMARY:+EQT more on the library data http://github.com/equalitytime/White
+ WaterWriters
 DTSTART:20230220T190000Z
 DTEND:20230220T194900Z
 DTSTAMP:20230220T194900Z
-UID:+EQT more on the library data2023-02-20 19:00:00+00:002023-02-20 19:49
- :00+00:00
+UID:+EQT more on the library data http://github.com/equalitytime/WhiteWate
+ rWriters2023-02-20 19:00:00+00:002023-02-20 19:49:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on Library +EQT
+SUMMARY:Working on Library +EQT  http://github.com/equalitytime/WhiteWater
+ Writers
 DTSTART:20230221T064900Z
 DTEND:20230221T075500Z
 DTSTAMP:20230221T075500Z
-UID:Working on Library +EQT2023-02-21 06:49:00+00:002023-02-21 07:55:00+00
- :00
+UID:Working on Library +EQT  http://github.com/equalitytime/WhiteWaterWrit
+ ers2023-02-21 06:49:00+00:002023-02-21 07:55:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Working on library +EQT
+SUMMARY:Working on library +EQT   http://github.com/equalitytime/WhiteWate
+ rWriters
 DTSTART:20230221T093800Z
 DTEND:20230221T121800Z
 DTSTAMP:20230221T121800Z
-UID:Working on library +EQT2023-02-21 09:38:00+00:002023-02-21 12:18:00+00
- :00
+UID:Working on library +EQT   http://github.com/equalitytime/WhiteWaterWri
+ ters2023-02-21 09:38:00+00:002023-02-21 12:18:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26930,12 +26973,14 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(E) Map issue for father improvements to database  +EQT
+SUMMARY:(E) Map issue for father improvements to database  +EQT http://git
+ hub.com/equalitytime/WhiteWaterWriters
 DTSTART:20230222T154700Z
 DTEND:20230222T155800Z
 DTSTAMP:20230222T155800Z
-UID:(E) Map issue for father improvements to database  +EQT2023-02-22 15:4
- 7:00+00:002023-02-22 15:58:00+00:00
+UID:(E) Map issue for father improvements to database  +EQT http://github.
+ com/equalitytime/WhiteWaterWriters2023-02-22 15:47:00+00:002023-02-22 15:5
+ 8:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26978,12 +27023,13 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(A Uclan students) Due:today Publish Uclan book and set reminder t
- o order books.  +EQT
+ o order books.  +EQT http://github.com/equalitytime/WhiteWaterWriters
 DTSTART:20230223T122100Z
 DTEND:20230223T122100Z
 DTSTAMP:20230223T122100Z
 UID:(A Uclan students) Due:today Publish Uclan book and set reminder to or
- der books.  +EQT2023-02-23 12:21:00+00:002023-02-23 12:21:00+00:00
+ der books.  +EQT http://github.com/equalitytime/WhiteWaterWriters2023-02-2
+ 3 12:21:00+00:002023-02-23 12:21:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -26997,12 +27043,13 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:advert for Yvonne +WWW +EQT
+SUMMARY:advert for Yvonne +WWW +EQT http://github.com/equalitytime/WhiteWa
+ terWriters
 DTSTART:20230223T140800Z
 DTEND:20230223T142200Z
 DTSTAMP:20230223T142200Z
-UID:advert for Yvonne +WWW +EQT2023-02-23 14:08:00+00:002023-02-23 14:22:0
- 0+00:00
+UID:advert for Yvonne +WWW +EQT http://github.com/equalitytime/WhiteWaterW
+ riters2023-02-23 14:08:00+00:002023-02-23 14:22:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
@@ -27095,22 +27142,24 @@ DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Writing presentation +EQT
+SUMMARY:Writing presentation +EQT https://github.com/eQualityTime/Home/iss
+ ues/126
 DTSTART:20230227T110000Z
 DTEND:20230227T133700Z
 DTSTAMP:20230227T133700Z
-UID:Writing presentation +EQT2023-02-27 11:00:00+00:002023-02-27 13:37:00+
- 00:00
+UID:Writing presentation +EQT https://github.com/eQualityTime/Home/issues/
+ 1262023-02-27 11:00:00+00:002023-02-27 13:37:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wrote a sixth session for tightrope +EQT
+SUMMARY:Wrote a sixth session for tightrope +EQT   https://github.com/eQua
+ lityTime/Home/issues/126
 DTSTART:20230227T133900Z
 DTEND:20230227T143300Z
 DTSTAMP:20230227T143300Z
-UID:Wrote a sixth session for tightrope +EQT2023-02-27 13:39:00+00:002023-
- 02-27 14:33:00+00:00
+UID:Wrote a sixth session for tightrope +EQT   https://github.com/eQuality
+ Time/Home/issues/1262023-02-27 13:39:00+00:002023-02-27 14:33:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT

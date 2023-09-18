@@ -8609,7 +8609,7 @@ I've fixed lnh, which is lovely. Pushed and merged the code, setup the crontab, 
 
 ## 12/10/22 14:37 to 15:04,  Tidying
 ## 12/10/22 15:04 to 15:48, +EQT OVF code again   +OpenVoiceFactory  https://github.com/eQualityTime/TheOpenVoiceFactory/
-## 12/10/22 20:07 to 20:07, +EQT OVF code again +OpenVoiceFactor https://github.com/eQualityTime/TheOpenVoiceFactory/y
+## 12/10/22 20:07 to 20:07, +EQT OVF code again +OpenVoiceFactor https://github.com/eQualityTime/TheOpenVoiceFactory
 ## 12/10/22 20:08 to 21:15, +EQT writing talk for RHUL 
 ## 13/10/22 09:48 to 10:21, fixing +EQT site (found from commands)
 ## 13/10/22 11:48 to 23:20, networking day +EQT 
@@ -9768,12 +9768,15 @@ Absolutely lost an hour to my phone. That's less good.
 15 Excited to make long term plans. 
 
 
-## 06/01/23 08:23 to 10:23,  Tightrope +EQT
-## 06/01/23 13:23 to 14:10,  Tightrope +EQT
+## 06/01/23 08:23 to 10:23,  Tightrope +EQT https://github.com/eQualityTime/Home/issues/126
+
+## 06/01/23 13:23 to 14:10,  Tightrope +EQT  https://github.com/eQualityTime/Home/issues/126
+
 88kg this morning. Nice. 
 Reviewing sessions and emailing the guy.  
 
-## 09/01/23 05:29 to 14:00,  on site for +EQT visit. 
+## 09/01/23 05:29 to 14:00,  on site for +EQT visit.  https://github.com/eQualityTime/Home/issues/126
+
 ## 09/01/23 15:49 to 15:53,  A few quick mintues doing email +EQT
 Ate well: Yes, stage 1 keto 
 Weight	: 88kg 
@@ -9817,7 +9820,7 @@ I changed the CK20 files (created a new minor version) to fix the issue with the
 Foi details in the google drive document. 
 
 ## 11/01/23 11:51 to 12:56, Email +EQT
-## 11/01/23 13:30 to 14:10, reviewed all the first inbox.  +EQT
+## 11/01/23 13:30 to 14:10, reviewed all the first inbox.  +EQT email
 ## 11/01/23 14:11 to 15:29, Back on the work email +EQT 
 ## 11/01/23 15:29, There's MAYBE  10 left and I have run out of the spoons. 
 ## 11/01/23 15:29 to 16:31,  +EQT
@@ -9839,7 +9842,7 @@ Exercise:  Ran with Nova
 Crying/grumpy:  Good mood all day. 
 
 ## 12/01/23 07:11, Going to have a go at some of the stack
-## 12/01/23 07:11 to 07:24, +OpenVoiceFactory +EQT Updating the CK things 
+## 12/01/23 07:11 to 07:24, +OpenVoiceFactory +EQT Updating the CK things  https://github.com/eQualityTime/TheOpenVoiceFactory/
 I've updated and pushed the OVF webiste. 
 
 ## 12/01/23 10:26, Back  
@@ -9855,11 +9858,11 @@ I've updated and pushed the OVF webiste.
 
 
 
-## 12/01/23 14:45 to 16:33,  +EQT
+## 12/01/23 14:45 to 16:33,  +EQT emails
 Don't want do the work today. 
 
 Review: 376 emails to clear out. Wow.  
-## 12/01/23 15:25, Down to 211
+## 12/01/23 15:25, Down to 211 
 ## 12/01/23 16:12, Down to 89.
 
 # New Week! 
@@ -9885,8 +9888,9 @@ Reviewed all the emails - amazingly didn't take that long in the end. There's a 
 ## 13/01/23 13:41 to 14:33, Working on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT
 
 
-## 13/01/23 14:33 to 14:54,  Writing notes on tightrope
-## 13/01/23 14:54 to 16:44,  +EQT +Openvoicefactory
+## 13/01/23 14:33 to 14:54,  Writing notes on tightrope https://github.com/eQualityTime/Home/issues/126
+
+## 13/01/23 14:54 to 16:44,  +EQT +Openvoicefactory https://github.com/eQualityTime/TheOpenVoiceFactory/
 Working on refactoring.  I took the 'destination' parameter out of pageset creation and that appears to have revealed some problems with image creation, particularly in the Arabic regressions. 
 
 Next action is to run the tests, run the diff to see what is different, and think about which one is correct. 
@@ -9947,7 +9951,8 @@ Getting started again, making drinks and the like.
 * Wiped it out! 
 * All of it. 
 
-## 17/01/23 15:30 to 15:52, What next? +EQT 
+## 17/01/23 15:30 to 15:52, What next? +EQT  https://github.com/eQualityTime/Home/issues/126
+
 Looks like it's rewriting the sessions. 
 # New day 
 The word of the day is prevention: I don't want what Nova has, so let's NOT be a hero with food. We'll take our vitamins and get lots of rest and water 
@@ -9980,8 +9985,10 @@ NA: is to make the cause cards.
 After lunch. 
 
 That was a really solid morning work that was. Full marks. 
-## 18/01/23 13:03 to 13:30, Send expectations to prison  +EQT
-## 18/01/23 13:31 to 14:53, Print out the cards for tighrope  +EQT
+## 18/01/23 13:03 to 13:30, Send expectations to prison  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
+## 18/01/23 13:31 to 14:53, Print out the cards for tighrope  +EQT https://github.com/eQualityTime/Home/issues/126
+
 ## 18/01/23 14:54 to 15:33, Update accounts.  +EQT
 Done and sent, also filled in some other parts I had to.  
 
@@ -10039,7 +10046,8 @@ What are the threats?
 ## 23/01/23 06:43 to 07:51, Delores +EQT 
 ## 23/01/23 09:36 to 10:40, Setting up a countdown timer in vim. +EQT
 ## 23/01/23 10:40 to 12:30, Delores +EQT
-## 23/01/23 12:30 to 12:50, Doing invoice +EQT and artist emails 
+## 23/01/23 12:30 to 12:50, Doing invoice +EQT and artist emails  http://github.com/equalitytime/WhiteWaterWriters
+
 ## 23/01/23 13:05 to 13:34, Power hour  +EQT
 ## 30/01/23 06:00 to 12:59, Delivering talk +EQT https://github.com/eQualityTime/Home/issues/126  +tightrope
 ## 30/01/23 12:59 to 13:37, Fixing up countdown timer +EQT
@@ -10047,7 +10055,8 @@ What are the threats?
 ## 30/01/23 14:51 to 15:17, Write Slide for next sessions +tightrope https://github.com/eQualityTime/Home/issues/126 
 
 
-## 31/01/23 09:15 to 11:55, Giving wixams talk +EQT 
+## 31/01/23 09:15 to 11:55, Giving wixams talk +EQT  https://github.com/eQualityTime/Home/issues/126
+
 ## 31/01/23 11:55 to 16:55,  Playing out with KAt 
 
 ## 01/02/23 06:53 to 07:26, Delores +EQT  
@@ -10069,7 +10078,8 @@ Reading the issue
 * Messaged Elizabeth 
 
 
-## 02/02/23 13:32 to 15:08, Back after lunch +EQT  Tightrope 
+## 02/02/23 13:32 to 15:08, Back after lunch +EQT  Tightrope  https://github.com/eQualityTime/Home/issues/126
+
 NA: Rewrite the course notes  
 * Go through from beginning to make sure that the content is deliverable. 
 * Look at Cybok syllabus to find out what should be in the later sessions. 
@@ -10089,11 +10099,12 @@ Send Slides to Artists
 
 * Put the exercises in. 
 
-## 02/02/23 15:08 to 16:06,   +EQT
+## 02/02/23 15:08 to 16:06,   +EQT emails
 Last sprint on conferences and emails and the like. 
 
 ## 02/02/23 16:06 to 16:36, Call with Clare +EQT
-## 03/02/23 08:50 to 11:45, Delivering session at wixams +EQT tightrope 
+## 03/02/23 08:50 to 11:45, Delivering session at wixams +EQT tightrope  https://github.com/eQualityTime/Home/issues/126
+
 
 ## 04/02/23 14:00 to 16:00, Total of two hours in the day on various calls, booked hotels, that sort ofhting.  +EQT
 
@@ -10113,14 +10124,17 @@ Crying/grumpy:  Good mood all day.
 ## 05/02/23 11:10 to 11:25,  +EQT
 Reconciliation is done 
 
-## 05/02/23 14:26 to 15:31,  +EQT sorting Iyun 
+## 05/02/23 14:26 to 15:31,  +EQT sorting Iyun  http://github.com/equalitytime/WhiteWaterWriters
+
 * Making feedback forms and such 
 * Small break to do multiplication with Nova. 
 
 
 ## 06/02/23 06:19 to 07:15, Slow Delores   +EQT
-## 06/02/23 07:15 to 07:50, Reviewing slides +EQT
-## 06/02/23 09:03 to 11:37, visit at Wixams    +EQT
+## 06/02/23 07:15 to 07:50, Reviewing slides +EQT https://github.com/eQualityTime/Home/issues/126
+
+## 06/02/23 09:03 to 11:37, visit at Wixams    +EQT https://github.com/eQualityTime/Home/issues/126
+
 ## 06/02/23 11:37 to 12:14, Delores +EQT
 ## 06/02/23 13:12 to 15:13,  +EQT  Email. 
 I've been really running rings around this inbox today. Crushing it. 
@@ -10153,7 +10167,7 @@ crying/grumpy: fine until right at the end
 Decided to work on OVF: it's 8 tasks in the main todo list. 
 
 ## 08/02/23 13:33 to 13:37, (B) Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT OVF
-## 08/02/23 13:33 to 16:08, OpenVoiceFactory Code sprint +EQT
+## 08/02/23 13:33 to 16:08, OpenVoiceFactory Code sprint +EQT   https://github.com/eQualityTime/TheOpenVoiceFactory/
 Cleared up a bunch of confused commits and branches. Added some testing functionality. Did a full deploy to the live site and wrote a blog post about it. 
 
 # Useful commands 
@@ -10175,10 +10189,11 @@ crying/grumpy: got triggered last night and it came out in the morning.
 
 ## 09/02/23 09:39 to 10:02, Delores +EQT
 ## 09/02/23 10:02 to 11:08, Delores -inbox.md - completing yesterday's tasks +EQT
-## 09/02/23 10:30 to 11:08, tightrope - meeting with Elizabeth +EQT 
+## 09/02/23 10:30 to 11:08, tightrope - meeting with Elizabeth +EQT  https://github.com/eQualityTime/Home/issues/126
+
 ## 09/02/23 11:08 to 11:32, Delores -inbox.md - completing yesterday's tasks +EQT
 ## 09/02/23 11:32 to 11:47, Delores normal .  +EQT
-## 09/02/23 11:47 to 11:51, +OpenVoiceFactory +EQT Running backup. 
+## 09/02/23 11:47 to 11:51, +OpenVoiceFactory +EQT Running backup.  https://github.com/eQualityTime/TheOpenVoiceFactory/
 
 * Remember to delete the old backup. 
 
@@ -10199,12 +10214,15 @@ But apparently NOT...
 ## 10/02/23 07:32 to 07:42, My own list. 
 ## 13/02/23 06:42 to 07:30, Hello +EQT 
 ## 13/02/23 07:30 to 07:58, Oldest task is hosting expenses.   +EQT
-## 13/02/23 09:25 to 11:26,    +EQT MAT letter code. 
+## 13/02/23 09:25 to 11:26,    +EQT MAT letter code.  http://github.com/equalitytime/WhiteWaterWriters
+
 ## 13/02/23 11:26 to 13:07, +EQT Emails with chatGPT 
 ## 13/02/23 14:30 to 15:20, Fixing Git on multiple projects +EQT  
-## 13/02/23 15:20 to 15:36, The task "(D) 20 Check the 'IMPS to allbooksever' code" is 39 days old 
+## 13/02/23 15:20 to 15:36, The task "(D) 20 Check the 'IMPS to allbooksever' code" is 39 days old  http://github.com/equalitytime/WhiteWaterWriters
 
-## 14/02/23 05:45 to 06:44, +EQT sorting out Preston. 
+
+## 14/02/23 05:45 to 06:44, +EQT sorting out Preston.  http://github.com/equalitytime/WhiteWaterWriters
+
 ate well: Nuts, salad, and a bit of a post blood snack in the afternoon. Good going really 
 weight	: 85.x better than yesterda, NOT as good as last week.
 before kids: yes, solidly. Real win. 
@@ -10212,10 +10230,14 @@ did i rest today: NOT really
 proper social media process: NO 
 exercise:  Gave blood 
 crying/grumpy: back on the path 
-## 14/02/23 06:44 to 07:22, Back to Allbooksever.  +EQT 
-## 14/02/23 07:22 to 08:40, +EQT sorting out preston again
-## 14/02/23 11:05 to 13:36,  Back on the allbooksever.   +EQT 
-## 14/02/23 13:56 to 15:48, Working on the css more.  +EQT
+## 14/02/23 06:44 to 07:22, Back to Allbooksever.  +EQT  http://github.com/equalitytime/WhiteWaterWriters
+
+## 14/02/23 07:22 to 08:40, +EQT sorting out preston again http://github.com/equalitytime/WhiteWaterWriters
+
+## 14/02/23 11:05 to 13:36,  Back on the allbooksever.   +EQT  http://github.com/equalitytime/WhiteWaterWriters
+
+## 14/02/23 13:56 to 15:48, Working on the css more.  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 Pushed a commit to develop - it didn't work. Back to the drawing board. 
 
 ## 14/02/23 15:48, Good morning Mr Phelps 
@@ -10244,11 +10266,14 @@ crying/grumpy: Fine.
 ## 15/02/23 07:30 to 08:30, working on preston +EQT 
 Bloody hell ChatGPT is good. 
 
-## 15/02/23 09:00 to 12:49, working on preston +EQT 
+## 15/02/23 09:00 to 12:49, working on preston +EQT  http://github.com/equalitytime/WhiteWaterWriters
+
 * Also tidying drawers, sorting bank statments and doing all the related stuff. 
-## 15/02/23 13:20 to 14:06, Just sort of hovering over preston for a while  +EQT
+## 15/02/23 13:20 to 14:06, Just sort of hovering over preston for a while  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 15/02/23 14:06 to 14:26, Worked on Dropbox +EQT 
-## 15/02/23 14:26 to 15:51, Worked on the tightrope document +EQT
+## 15/02/23 14:26 to 15:51, Worked on the tightrope document +EQT https://github.com/eQualityTime/Home/issues/126
+
 * Need to finnish writing the rest of the sesion notes 
 * Add pictures 
 
@@ -10264,10 +10289,14 @@ crying/grumpy: Fine.
 I think there will be significant drop in weight once the cycling comes back up and I return to ketosis.  Got to work out how I'm handling everything at Mum & Dads tho. 
 
 ## 16/02/23 06:10 to 06:44, Delores  +EQT 
-## 16/02/23 10:18 to 12:00,  WOrk on Tightrope +EQT 
-## 16/02/23 12:00 to 12:16, WOrk on a different bit of tightrope  +EQT
-## 16/02/23 12:16 to 12:25, Working on mapping scottish Libraries project +EQT
-## 16/02/23 12:25 to 12:40, Hindley Book +EQT
+## 16/02/23 10:18 to 12:00,  WOrk on Tightrope +EQT  https://github.com/eQualityTime/Home/issues/126
+
+## 16/02/23 12:00 to 12:16, WOrk on a different bit of tightrope  +EQT https://github.com/eQualityTime/Home/issues/126
+
+## 16/02/23 12:16 to 12:25, Working on mapping scottish Libraries project +EQT http://github.com/equalitytime/WhiteWaterWriters
+
+## 16/02/23 12:25 to 12:40, Hindley Book +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 16/02/23 12:40 to 15:02, Calls and other +EQT work 
 ## 16/02/23 15:02 to 15:32, +EQT remapping (I think)  
 ## 20/02/23 06:34 to 06:43, Hello +EQT 
@@ -10278,13 +10307,18 @@ Some ChatGPT practice
 ## 20/02/23 12:13 to 12:22, Email  +EQT 
 ## 20/02/23 12:22 to 12:32, Is it delores now? And then Lunch?  +EQT 
 ## 20/02/23 13:20 to 13:40, Trying to fix keyboard. 
-## 20/02/23 13:40 to 14:17, +EQT finding tightrope workshops nd stuff. 
+## 20/02/23 13:40 to 14:17, +EQT finding tightrope workshops nd stuff.  https://github.com/eQualityTime/Home/issues/126
+
 ## 20/02/23 14:21 to 14:47, Breakdown of +EQT  tasks
-## 20/02/23 14:47 to 16:20,  Library data  +EQT
+## 20/02/23 14:47 to 16:20,  Library data  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 ## 20/02/23 18:25 to 18:29,  +EQT more work 
-## 20/02/23 19:00 to 19:49,  +EQT more on the library data
-## 21/02/23 06:49 to 07:55,  Working on Library +EQT 
-## 21/02/23 09:38 to 12:18, Working on library +EQT  
+## 20/02/23 19:00 to 19:49,  +EQT more on the library data http://github.com/equalitytime/WhiteWaterWriters
+
+## 21/02/23 06:49 to 07:55,  Working on Library +EQT  http://github.com/equalitytime/WhiteWaterWriters
+
+## 21/02/23 09:38 to 12:18, Working on library +EQT   http://github.com/equalitytime/WhiteWaterWriters
+
 And wrote a blog post and social media post about it. 
 
 So what we didn't talk about was updating the post in the future.  
@@ -10322,7 +10356,8 @@ Okay, So i'm doing the A/B test
 * I use the joereddingtonanalytics account 
 * I have to install a extnesino. 
 
-## 22/02/23 15:47 to 15:58, (E) Map issue for father improvements to database  +EQT
+## 22/02/23 15:47 to 15:58, (E) Map issue for father improvements to database  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 Done. 
 
 # New day 
@@ -10356,7 +10391,8 @@ Then exercise and lunch.
 
 Okay 14.30 precisely.
 
-## 23/02/23 12:21, (A Uclan students) Due:today Publish Uclan book and set reminder to order books.  +EQT
+## 23/02/23 12:21, (A Uclan students) Due:today Publish Uclan book and set reminder to order books.  +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 
 * Set reminder 
 * Genreate new pdf and check over (size as well)  
@@ -10364,7 +10400,8 @@ Okay 14.30 precisely.
 ## 23/02/23 13:02 to 14:08,  CODE +EQT
 ...and Publishing a book. 
 
-## 23/02/23 14:08 to 14:22,  advert for Yvonne +WWW +EQT
+## 23/02/23 14:08 to 14:22,  advert for Yvonne +WWW +EQT http://github.com/equalitytime/WhiteWaterWriters
+
 * Also snuck in a blog 
 
 ## 23/02/23 15:00 to 15:10,  Active thinkging +EQT 
@@ -10388,9 +10425,11 @@ So I knocked off 66 in an hour. Good work.
 ## 24/02/23 13:32, I need a break.
 There are like 12 more to touch but I'm tired.  
 
-## 27/02/23 11:00 to 13:37, Writing presentation +EQT
+## 27/02/23 11:00 to 13:37, Writing presentation +EQT https://github.com/eQualityTime/Home/issues/126
+
 It's in the Tightrope directory on Google Drive. 
-## 27/02/23 13:39 to 14:33, Wrote a sixth session for tightrope +EQT  
+## 27/02/23 13:39 to 14:33, Wrote a sixth session for tightrope +EQT   https://github.com/eQualityTime/Home/issues/126
+
 ## 27/02/23 14:35 to 14:42, Doing a reward chart  
 ## 27/02/23 14:42 to 14:42, Fixing tech +EQT 
 
