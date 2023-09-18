@@ -12168,7 +12168,7 @@ WORK UNTIL ALARM
 
 Today, let's keep the option of standing desk open. 
 
-## 29/08/23 11:28 to 12:04, (C) Do all the server and so on expenses for the finantial year  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
+## 29/08/23 11:28 to 12:04, (C) Do all the server and so on expenses for the finantial year  +EQT
 * Done 
 
 ## 29/08/23 12:07 to 12:39, (C) Search Tech4good in funding +EQT

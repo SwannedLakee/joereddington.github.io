@@ -33106,13 +33106,12 @@ PRIORITY:5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(C) Do all the server and so on expenses for the finantial year  +
- EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
+ EQT
 DTSTART:20230829T102800Z
 DTEND:20230829T110400Z
 DTSTAMP:20230829T110400Z
-UID:(C) Do all the server and so on expenses for the finantial year  +EQT 
- https://github.com/eQualityTime/TheOpenVoiceFactory/2023-08-29 10:28:00+00
- :002023-08-29 11:04:00+00:00
+UID:(C) Do all the server and so on expenses for the finantial year  +EQT2
+ 023-08-29 10:28:00+00:002023-08-29 11:04:00+00:00
 DESCRIPTION:
 PRIORITY:5
 END:VEVENT
