@@ -12578,3 +12578,74 @@ I started git gud and it's acutally quite fun.
 
 ## 15/09/23 07:25 to 07:37,   Doing book cover   +EQT
 ## 15/09/23 07:37 to 07:59, Gid good again  +EQT
+# Today 
+* Keto would be fun (so we are looking for a headache and a dramatic loss of water weight, those being the symptons) 
+  * So that's making the milk, buying salad stuff, being hungry for a bit.  
+* Fast Delores 
+* One project until the end. Like, absolutely destroy it. 
+  * It's NOT finnished until it's blogged or on social media. 
+The main wins for today are: ketosis and working hours 
+
+## 18/09/23 06:10 to 06:30,  +EQT sorting out a thing for a funder 
+## 18/09/23 06:30 to 06:57, +EQT getting the openning script working. 
+Very lame of me but I like it. 
+## 18/09/23 06:57 to 07:42,  Delores +EQT 
+## 18/09/23 07:36 to 07:53, I want a completely clean document +EQT
+
+
+## 18/09/23 09:14 to 10:08, Publish book  +EQT
+Done and publihsed on social 
+* A bit of faff as well :( 
+## 18/09/23 10:09 to 10:13, Emailing the scotland guy +EQT
+## 18/09/23 10:13 to 12:31, (A) Rewrite and send the Garfield weston report https://github.com/eQualityTime/Home/issues/130 +EQT
+I properly reviewed and rewrote the report, contacted Yvonne for additional infomation, drafted the covering letter, drafted the blog post, and worked out a way to download all the covers with a bookmarklet
+
+-- 
+admin@garfieldweston.org
+
+Dear Admin
+
+Pleased find attached our report on eQuality Time's progress and impact, following the £5,000 grant awarded by the Garfield Weston Foundation in November 2022. Attached is our detailed report covering August 2022 to August 2023.
+
+Summary:
+
+    With your support, we expanded our presence in Glasgow, increasing from one group to 12 this year.
+    While we aimed to raise £10,000 for further growth, we delivered 45 camps, with more planned, though self-funding remains uncertain.
+    We navigated challenges, made tough decisions on staffing, and explored alternative funding streams.
+    We engaging a total of 450 individuals through our White Water Writers project
+
+We are immensely grateful for Garfield Weston's support, which has been pivotal in our achievements. We look forward to discussing this report in detail and exploring future collaborations.
+
+Sincerely,
+
+Dr Joe Reddington 
+
+
+--- Blog post 
+Last year we received funding from [Garfield Weston](https://garfieldweston.org/) and  [The School Library Improvement Fund](https://scottishlibraries.org/funding/the-school-library-improvement-fund/) to scale up our work in Scotland.   
+
+We focused on secondary schools in the Glasgow area - and produced the following amazing novels! 
+
+In the process we trained up new camp leaders and worked with a wide range of new schools.  Our big focus now is going to be legacy - finding the funding to return to those schools and give more student the opportunity to hold their own book in their hands. 
+
+
+## 18/09/23 12:32 to 12:36, Back to 'order books'  +EQT
+
+## 18/09/23 12:36 to 16:09, (A) Send Accounts to treasurer  +EQT
+I've sat down to get the accounts sent off to Sarah and the annoying pop-up problem is realising that I haven't moved money out of the OVF account since the end of the last financial year. Last year it was 11% of my salary so it can be quite big. (It turns out to be about 5% this year. 
+
+I created a new sheet in the Google Sheets file I use for ring fencing 
+
+We start with these numbers (last year) 
+Total hours worked: 1030 (930) 
+Total 'NO link': 729 (303)  
+
+So I've worked more hours, but I've also been pretty bad at making a note of it.  I spend a couple of hours going over all my live notes to see if I could bring them a bit more into line. 
+
+I think the solution might be to do more big sessions like I'm doing today. Also I should make sure I'm tagging sessions much more clearly 
+
+Things I can do while waiting for Sarah to get back to me:  
+
+* I could JUST  completely finnish the accounts? 
+* Update the main document with details for the year
+* Start a Google Doc about 'what to do to prepare paper accounts' 
